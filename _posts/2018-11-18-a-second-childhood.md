@@ -32,6 +32,6 @@ I’m being shown that active communication is the expressway to pleasure, for o
 
 . . .
 
-The essence of childhood is neither innocence or immaturity. It’s a unique period when a new world is unwrapped in front of us, in which we try, fail, learn, and reform ourselves. It’s less common that an adult has to go through it again. But I am willing to. For me, it’s more fun to watch how much one has changed than how much one has achieved.
+The essence of childhood is neither innocence or immaturity. It’s a unique period when a new world is unwrapped in front of us, in which we try, fail, learn, and reform ourselves. It’s less common that an adult has to go through it again. But I am willing to. For me, it’s more fun to watch how much one can change than how much one can achieve.
 
 I kept a diary when I was a kid. Now it’s a good time to resume this habit.
