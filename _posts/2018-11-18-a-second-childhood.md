@@ -2,8 +2,6 @@
 layout: post
 title: A Second Childhood
 ---
-A Second Childhood
-
 For a while I’ve been finding myself younger than I look, sometimes almost a schoolboy:
 
 I’m curious about how a sewing machine stitches, how a horn pitches, and how a Space Shuttle lands. 
