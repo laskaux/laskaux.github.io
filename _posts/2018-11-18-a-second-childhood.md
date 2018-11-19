@@ -8,7 +8,7 @@ I’m curious about how a sewing machine stitches, how a horn pitches, and how a
 
 I’m learning to better convey myself in the language I speak every day. 
 
-I feel more at ease reading a history book with a dictionary, and yet I often can’t remember the names of those heroes and cities one week later.
+I feel more at ease reading a history book with a dictionary, and yet, one week later, I often can’t remember the names of those heroes and cities.
 
 Until a few months ago, I couldn’t tell a hyphen, an en dash, and an em dash apart.
 
@@ -16,7 +16,7 @@ I’m puzzled by a new foreign language—why there have to be more tenses than 
 
  . . .
 
-Why are these scenes so familiar? It is as if I were back to my childhood.
+It is as if I were back to my childhood.
 
 Moving to a new country for graduate school means a lot more than pursing a degree or getting professional training. The elements of my days are different from what I was used to. I’ve seen thoughts and attitudes I could never have imagined. I’ve been encountering opinions that are the exact opposite of mine, yet closer to the truth. There are moments of exhilaration, as well as of unease and doubt—like what a child would experience in an exotic garden without their parents around. 
 
@@ -35,4 +35,3 @@ I’ve been shown that active communication is the expressway to pleasure, for o
 The essence of childhood is neither innocence or immaturity. It’s a unique period when a new world is unwrapped in front of us, in which we try, fail, learn, and reform ourselves. It’s less common that an adult has to go through it again. But I am more than willing to. For me, it’s more fun to watch how much one has changed than how much one has achieved.
 
 I kept a diary when I was a kid. Now it’s a good time to resume this habit.
-
