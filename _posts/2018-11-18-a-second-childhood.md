@@ -28,7 +28,7 @@ I’ve realized that there are more dimensions in one’s education. Science & E
 
 I now believe that confidence and vigor are the cornerstones of all achievements, which can only be exhausted by fear and cynicism.
 
-I’ve been shown that active communication is the expressway to pleasure, for ourselves and for others. 
+I’m being shown that active communication is the expressway to pleasure, for ourselves and for others. 
 
 . . .
 
