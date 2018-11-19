@@ -18,7 +18,7 @@ I’m puzzled by a new foreign language—why there have to be more tenses than 
 
 It is as if I were back to my childhood.
 
-Moving to a new country for graduate school means a lot more than pursing a degree or getting professional training. The elements of my days are different from what I was used to. I’ve seen thoughts and attitudes I could never have imagined. I’ve been encountering opinions that are the exact opposite of mine, yet closer to the truth. There are moments of exhilaration, as well as of unease and doubt—like what a child would experience in an exotic garden without their parents around. 
+Moving to a new country for graduate school means a lot more than pursing a degree or getting professional training. The elements of my days are different from what I was used to. I’m holding thoughts and attitudes I could never have imagined. I’ve been encountering opinions that are the exact opposite of mine, yet closer to the truth. There are moments of exhilaration, as well as of unease and doubt—like what a child would experience in an exotic garden without their parents around. 
 
 I’ve been taught to explore science as the way nature works, instead of merely as equations and models on paper. 
 
