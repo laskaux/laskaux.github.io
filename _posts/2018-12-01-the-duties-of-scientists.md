@@ -2,7 +2,7 @@
 layout: post
 title: The Duties of Scientists
 tags: science
-excerpt: What should be condemned aren’t the moral wrongs of a few individuals. It’s a culture, which most STEM students are currently immersed in, that needs to be reexamined—the one that prioritizes what sounds cool and what pays more, instead of finding out what benefits the society the most in the long term.
+excerpt: What should be condemned aren’t the moral wrongs of a few individuals. It’s a culture, which most STEM students are currently immersed in, that needs to be reexamined—the one that prioritizes what sounds cool and what pays more, instead of finding out what benefits the society the most in the long term.<br />
 
 ---
 We are living in an era when scientific research, like trade and manufacture, has grown into a sophisticated social activity—flourishing, dynamic, and highly organized. The thrill of glancing through publications on high-profile academic journals can only be matched by that of watching fluyts sailing into and out of the 17th-century Amsterdam or Model Ts coming off the 1920s Ford assembly line. But the prosperity of science doesn’t provide straightforward answers to two classes of questions: those on the origin of science and those on its destination—namely, _why we do science_ and _what science is used for_. We’ve been forced to reconsider the relation between science and human society by a series of disconcerting events, which are, in recent years, becoming more perplexing.
