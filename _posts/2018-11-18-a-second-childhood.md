@@ -3,6 +3,8 @@ layout: post
 title: A Second Childhood
 
 excerpt: The essence of childhood is neither innocence nor immaturity. It’s a unique period when a new world is unwrapped in front of us, in which we try, fail, learn, and reform ourselves. 
+
+tags: life
 ---
 For a while I’ve been finding myself younger than I look, sometimes almost a schoolboy:
 
