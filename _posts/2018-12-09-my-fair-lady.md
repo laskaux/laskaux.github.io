@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Turbulence of Metamorphosis
-subtitle: A Personal Review of <em>My Fair Lady<em> <br /><br />
+subtitle: A Personal Review of <em>My Fair Lady</em>
 
 excerpt: However ladylike we’ll be in the coming years, never let the spirit of that vigorous, fearless flowergirl be taken away from us—“I washed my face and hands before I come. If you were a gentleman, you would ask me to sit down.” <br />
 
