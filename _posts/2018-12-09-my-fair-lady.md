@@ -3,7 +3,7 @@ layout: post
 title: The Turbulence of Metamorphosis
 subtitle: A Personal Review of <em>My Fair Lady</em> <br /><br />
 
-excerpt: However “ladylike” we’ll become in the coming years, never let the spirit of that vigorous, fearless flowergirl be taken away from us—“I washed my face and hands before I come. If you were a gentleman, you would ask me to sit down.” <br />
+excerpt: We can spend a night dancing or weeping. But when the morning is smearing up the sky, we’d go back to our phonetic charts, or any endeavor we choose to undertake. <br /> However “ladylike” we’ll become in the coming years, never let the spirit of that vigorous, fearless flowergirl be taken away from us—“I washed my face and hands before I come. If you were a gentleman, you would ask me to sit down.” <br />
 
 tags: theater
 ---
@@ -77,15 +77,15 @@ The 2018 Lincoln Center Theater production ends in an air of melancholy—Eliza 
 
 ## Being transformed, who are we?
 
-Higgins’ lady training program isn’t purely fictitious—in reality, we call it education. It’s a systematic procedure through which young people change their lives. Many of us are undergoing a metamorphosis no easier than that of Eliza, especially those deciding to pursue higher education in a foreign country.
+Higgins’ lady training program isn’t purely fictitious—in reality, we call it education, the systematic procedure through which young people change their lives. Many are undergoing a metamorphosis no easier than that of Eliza, especially those deciding to pursue higher education in a foreign country.
 
-I’m now a few years older than Eliza, yet still struggling to accurately pronounce the fifteen distinct vowels in American English: the near-close near-front unrounded /ɪ/, the near-close near-back rounded /ʊ/, etc. I’m rebuilding my vocabulary, using the handbooks intended for teenagers or those without a decent education. I’m assimilating a different set of attitudes and methods in scientific research. I’m resetting my knowledge, especially that on social sciences and humanities. I’m acquiring the basic skills of writing and communication. I’m overhauling my manners and values. There are nights I couldn’t go to bed, either too occupied or too stressed out. There are also “The Rain in Spain” moments, when “at once my heart took flight.” I’ve encountered enlightening mentorships, as well as aimless zeal. I’ve be constantly encouraged, yet occasionally mocked. 
+I’m now a few years older than Eliza, yet still struggling to accurately pronounce the fifteen distinct vowels in American English: the near-close near-front unrounded /ɪ/, the near-close near-back rounded /ʊ/, etc. I’m rebuilding my vocabulary, using the handbooks intended for teenagers or those without a decent education. I’m assimilating a different set of attitudes and methods in scientific research. I’m resetting my knowledge, especially that on social sciences and humanities. I’m acquiring the basic skills of writing and communication. I’m overhauling my manners and values. There are nights I couldn’t go to bed, either too occupied or too stressed out. There are also “The Rain in Spain” moments, when “at once my heart took flight.” I’m surrounded by enlightening mentorships, as well as aimless zeal. I’ve be constantly encouraged, yet occasionally mocked. 
 
-We’re exploring a world we’ve never been to. We’re being transformed into someone we’re not familiar with. We’re approaching thousands of new excitements, yet distanced from many simple joys. We’re gaining knowledge and achievements, but they don’t naturally bring care or love.
+We’re exploring a world we’ve never been to. We’re being transformed into someone we aren’t familiar with. We’re approaching thousands of new excitements, yet distanced from many simple joys. We’re gaining knowledge and achievements, but they don’t naturally bring care or love.
 
 We can spend a night dancing or weeping. But when the morning is smearing up the sky, we’d go back to our phonetic charts, or any endeavor we choose to undertake. 
 
-Most importantly, however “ladylike” we’ll become in the coming years, never let the spirit of that vigorous, fearless flowergirl be taken away from us—that’s what makes the transformation begin and continue. Some day in the future, when we’re hesitating or lost, just recall the courage inside us when we knocked at the door of our 27A Wimpole Street and said:
+Most importantly, however “ladylike” we’ll become in the coming years, never let the spirit of that vigorous, fearless flowergirl be taken away from us—that’s what launched and essentially powers the transformation. Some day in the future, when hesitating or lost, we shall recall the courage inside us the moment we knocked at the door of our 27A Wimpole Street and said:
 
 “I washed my face and hands before I come. If you were a gentleman, you would ask me to sit down.”<br /><br />
 
