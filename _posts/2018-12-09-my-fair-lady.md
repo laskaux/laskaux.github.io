@@ -7,7 +7,7 @@ excerpt: However ladylike we’ll be in the coming years, never let the spirit o
 tags: theater
 ---
 > _My Fair Lady_ isn’t a love story or a princess myth. It is a story of transformation, though perhaps not the one we expect.<br />
-> —Alexis Gargagliano, in _Lincoln Center Theater Review_ {: .text-right}
+> <p class="text-right">—Alexis Gargagliano, in _Lincoln Center Theater Review_</p>
 
 Indeed. For years, I’d been left the impression of _My Fair Lady_ being a fairy tale—charming, vibrant, witty, yet too miraculous to be real, too elegant to be affecting—until I walked into the Vivian Beaumont Theater, where I was showered with immense joy and pain. 
 
