@@ -3,7 +3,7 @@ layout: post
 title: The Turbulence of Metamorphosis
 subtitle: A Personal Review of <em>My Fair Lady <br /><br />
 
-excerpt: However ladylike we’ll be in the coming years, never let the spirit of that vigorous, fearless flowergirl be taken away from us: “.”< <br />
+excerpt: However ladylike we’ll be in the coming years, never let the spirit of that vigorous, fearless flowergirl be taken away from us: < <br />
 
 tags: theater
 ---
