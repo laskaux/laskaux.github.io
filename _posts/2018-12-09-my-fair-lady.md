@@ -1,13 +1,13 @@
 ---
 layout: post
-title: The Turbulence of Metamorphosis
-subtitle: A Personal Review of <em>My Fair Lady<em>
+title: "The Turbulence of Metamorphosis"
+subtitle: "A Personal Review of <em>My Fair Lady<em>"
 tags: art theater
 excerpt: However ladylike we’ll be in the coming years, never let the spirit of that vigorous, fearless flowergirl be taken away from us. Some day in the future, when we’re hesitating or lost, just recall the courage inside us when we knocked at the door of our 27A Wimpole Street and said: “I washed my face and hands before I come. If you were a gentleman, you would ask me to sit down.”<br />
 
 ---
-> _My Fair Lady_ isn’t a love story or a princess myth. It is a story of transformation, though perhaps not the one we expect.
-> —Alexis Gargagliano, in _Lincoln Center Theater Review_
+> _My Fair Lady_ isn’t a love story or a princess myth. It is a story of transformation, though perhaps not the one we expect.<br />
+> p>. —Alexis Gargagliano, in _Lincoln Center Theater Review_
 
 Indeed. For years, I’d been left the impression of _My Fair Lady_ being a fairy tale—charming, vibrant, witty, yet too miraculous to be real, too elegant to be affecting—until I walked into the Vivian Beaumont Theater, where I was showered with immense joy and pain. 
 
@@ -32,14 +32,14 @@ An experiment was launched, but yields unanticipated results: At the Ascot races
 
 Earlier on that cold spring night, she sat on a cargo cart, picked up cabbage leaves as fans, and sang the sweetest melody in London:
 
->All I want is a room somewhere; 
->Far away from the cold night air. 
->With one enormous chair;
->Oh, wouldn’t be loverly?
->. . .
->Someone’s head restin’ on my knee;
->Warm and tender as he can be,
->Who takes good care of me;
+>All I want is a room somewhere; <br />
+>Far away from the cold night air. <br />
+>With one enormous chair; <br />
+>Oh, wouldn’t be loverly? <br />
+>. . . <br />
+>Someone’s head restin’ on my knee; <br />
+>Warm and tender as he can be, <br />
+>Who takes good care of me; <br />
 >Oh, wouldn’t it be loverly?
 
 Six months later, she sits in a luxurious armchair next to a fireplace, without feeling a bit of warmth. She converses with duchesses, dances with princes, yet not receiving any care. She hurls the slippers at her Professor and escapes from her private school. At Covent Garden, besides the old columns and folks, she hums her _Loverly_ tune, weeping. She now belongs to nowhere—too genteel to be a flowergirl, yet too weak to be a lady. She gets everything in her dream, but nothing is lovely.
@@ -63,11 +63,11 @@ The world of Henry Higgins is simple and orderly—he uses the laws of linguisti
 
 His contentious beliefs are challenged by Eliza. He can’t understand why the grand success of his experiment leads to her emotional breakdown. Moreover, he observes a strange feeling that has never existed before: 
 
->I was serenely independent and content before we met; 
->Surely I could always be that way again—and yet
->I’ve grown accustomed to her looks;
->Accustomed to her voice;
->Accustomed to her face.
+>I was serenely independent and content before we met; <br />
+>Surely I could always be that way again—and yet <br />
+>I’ve grown accustomed to her looks; <br />
+>Accustomed to her voice; <br />
+>Accustomed to her face. <br />
 
 At Mrs. Higgins’ place, he is defeated by the new Lady Eliza. He encounters his own coldness and arrogance. He is told how hurtful his words and deeds can be, and that he plays nothing but a replaceable role to any living creature. Yet he has no choice but to confess—acknowledging the truth complies with his values more than pretending to be deaf.
 
