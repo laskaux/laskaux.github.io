@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Turbulence of Metamorphosis
+subtitle: A Personal Review of <em>My Fair Lady<em>
 
 excerpt: What should be condemned aren’t the moral wrongs of a few individuals. It’s a culture, which most STEM students are currently immersed in, that needs to be reexamined—the one that prioritizes what sounds cool and what pays more, instead of finding out what benefits the society the most in the long term. <br />
 
