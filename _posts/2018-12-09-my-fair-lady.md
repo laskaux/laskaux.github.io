@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "The Turbulence of Metamorphosis"
-subtitle: "A Personal Review of <em>My Fair Lady<em>"
-tags: art theater
+title: The Turbulence of Metamorphosis
+tags: theater
 excerpt: However ladylike we’ll be in the coming years, never let the spirit of that vigorous, fearless flowergirl be taken away from us. Some day in the future, when we’re hesitating or lost, just recall the courage inside us when we knocked at the door of our 27A Wimpole Street and said: “I washed my face and hands before I come. If you were a gentleman, you would ask me to sit down.”<br />
 
 ---
 > _My Fair Lady_ isn’t a love story or a princess myth. It is a story of transformation, though perhaps not the one we expect.<br />
-> p>. —Alexis Gargagliano, in _Lincoln Center Theater Review_
+> —Alexis Gargagliano, in _Lincoln Center Theater Review_ {: .text-right}
 
 Indeed. For years, I’d been left the impression of _My Fair Lady_ being a fairy tale—charming, vibrant, witty, yet too miraculous to be real, too elegant to be affecting—until I walked into the Vivian Beaumont Theater, where I was showered with immense joy and pain. 
 
@@ -17,7 +16,7 @@ A considerable fraction of the fascination of _My Fair Lady_ originates from the
 
 However great the book is, any musical would pale without its score. “‘What is too silly to be said may be sung’—well, yes; but what is too subtle to be said, or too deeply felt, or too revealing or too mysterious—these things can also be sung and only be sung.” The remark by Kenneth Clark in his _Civilisation_ can’t be better illustrated by _My Fair Lady_—when the dialogue takes a breath, music cuts in, amplifying the exhilaration, believes, wishes, prejudice, disdain, or confusion of the roles, then gives the floor back to words. Verbal wits and sensual pleasures constructively interfere, performing a duet that is delightfully serious and seriously delightful. 
 
-Meanwhile, music possesses a unique descriptive power. Songs form characters, often nearly define them—the whistling cockneys at Covent Garden, the grumbling servants at 27A Wimpole Street, the aristocratic gathering at Ascot, the mindlessly-in-love Freddy, and—the most vivid of all—Alfred P. Doolittle, the dancing and orating epicure who can barely afford liquors but not morals. The hero and heroine, however, can’t be delineated even by five songs each. One has to go through every single line to decode the impetus of their fates.<br />
+Meanwhile, music possesses a unique descriptive power. Songs form characters, often nearly define them—the whistling cockneys at Covent Garden, the grumbling servants at 27A Wimpole Street, the aristocratic gathering at Ascot, the mindlessly-in-love Freddy, and—the most vivid of all—Alfred P. Doolittle, the dancing and orating epicure who can barely afford liquors but not morals. The hero and heroine, however, can’t be delineated even by five songs each. One has to go through every single line to decode the impetus of their fates.<br /><br />
 
 
 ## The invincible Galatea
@@ -48,7 +47,7 @@ It’s not the end of the transformation. It’s only the beginning, the first s
 
 She leaves her egocentric and manipulative tutor. She dries her tears and moves on—this time, with an elegant speech and an indomitable heart, which has endured the pains as she learns to tell “Spain” from “Spine,” domination from care, limerence from love, and etiquette from respect. She doesn’t mind evolving into a more cultured Ms. Doolittle, and meanwhile will remain that _loverly_ Eliza.
 
-That’s the making of the fairest lady.<br />
+That’s the making of the fairest lady.<br /><br />
 
 
 ## The vulnerable Pygmalion
@@ -71,7 +70,7 @@ His contentious beliefs are challenged by Eliza. He can’t understand why the g
 
 At Mrs. Higgins’ place, he is defeated by the new Lady Eliza. He encounters his own coldness and arrogance. He is told how hurtful his words and deeds can be, and that he plays nothing but a replaceable role to any living creature. Yet he has no choice but to confess—acknowledging the truth complies with his values more than pretending to be deaf.
 
-The 2018 Lincoln Center Theater production ends in an air of melancholy—Eliza enters with her voice played on a gramophone, delivers her famous last line, and exits downstage, slowly disappearing from Higgins’ sight. Note that aisles haven’t been used as exits in interior scenes throughout the show, which, in my opinion, implies Eliza’s last presence is imaginary. In reality, as she promised, she never sees him again. He bids farewell to her—a rare counterpart of him, who truly appreciates his enthusiasm, shares his perseverance, and perceives his frailty. He will start a new chapter of his life, this time, learning to be a human.<br />
+The 2018 Lincoln Center Theater production ends in an air of melancholy—Eliza enters with her voice played on a gramophone, delivers her famous last line, and exits downstage, slowly disappearing from Higgins’ sight. Note that aisles haven’t been used as exits in interior scenes throughout the show, which, in my opinion, implies Eliza’s last presence is imaginary. In reality, as she promised, she never sees him again. He bids farewell to her—a rare counterpart of him, who truly appreciates his enthusiasm, shares his perseverance, and perceives his frailty. He will start a new chapter of his life, this time, learning to be a human.<br /><br />
 
 
 ## Being transformed, who are we?
@@ -86,6 +85,6 @@ We can spend a night dancing or weeping. But when the morning is smearing up the
 
 Most importantly, however ladylike we’ll be in the coming years, never let the spirit of that vigorous, fearless flowergirl be taken away from us—that’s what makes the transformation begin and continue. Some day in the future, when we’re hesitating or lost, just recall the courage inside us when we knocked at the door of our 27A Wimpole Street and said:
 
-“I washed my face and hands before I come. If you were a gentleman, you would ask me to sit down.”<br />
+“I washed my face and hands before I come. If you were a gentleman, you would ask me to sit down.”<br /><br />
 
 
