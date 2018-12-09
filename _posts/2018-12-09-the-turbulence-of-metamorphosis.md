@@ -1,13 +1,13 @@
 ---
 layout: post
-title: A Second Childhood
+title: The Turbulence of Metamorphosis
 
 excerpt: The essence of childhood is neither innocence nor immaturity. It’s a unique period when a new world is unwrapped in front of us, in which we try, fail, learn, and reform ourselves. <br />
 
-tags: life
+tags: theater
 ---
 > _My Fair Lady_ isn’t a love story or a princess myth. It is a story of transformation, though perhaps not the one we expect.<br />
-> <p align="right">—Alexis Gargagliano, in <em>Lincoln Center Theater Review<em> </p>
+> <p align="right">—Alexis Gargagliano, in <em>Lincoln Center Theater Review<em>
 
 Indeed. For years, I’d been left the impression of _My Fair Lady_ being a fairy tale—charming, vibrant, witty, yet too miraculous to be real, too elegant to be affecting—until I walked into the Vivian Beaumont Theater, where I was showered with immense joy and pain. 
 
