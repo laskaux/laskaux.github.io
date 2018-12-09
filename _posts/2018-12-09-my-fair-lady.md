@@ -3,7 +3,7 @@ layout: post
 title: The Turbulence of Metamorphosis
 subtitle: A Personal Review of <em>My Fair Lady</em> <br /><br />
 
-excerpt: We can spend a night dancing or weeping. But when the morning is smearing up the sky, we’d go back to our phonetic charts, or any endeavor we choose to undertake. <br /> However “ladylike” we’ll become in the coming years, never let the spirit of that vigorous, fearless flowergirl be taken away from us—“I washed my face and hands before I come. If you were a gentleman, you would ask me to sit down.” <br />
+excerpt: We can spend a night dancing or weeping. But when the morning is smearing up the sky, we’d go back to our phonetic charts, or any endeavor we choose to undertake. <br /><br /> However “ladylike” we’ll become in the coming years, never let the spirit of that vigorous, fearless flowergirl be taken away from us—“I washed my face and hands before I come. If you were a gentleman, you would ask me to sit down.” <br />
 
 tags: theater
 ---
