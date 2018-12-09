@@ -2,6 +2,7 @@
 layout: post
 title: The Turbulence of Metamorphosis
 subtitle: A Personal Review of <em>My Fair Lady<em>
+
 excerpt: However ladylike we’ll be in the coming years, never let the spirit of that vigorous, fearless flowergirl be taken away from us. Some day in the future, when we’re hesitating or lost, just recall the courage inside us when we knocked at the door of our 27A Wimpole Street and said: “I washed my face and hands before I come. If you were a gentleman, you would ask me to sit down.”<br />
 
 tags: theater
