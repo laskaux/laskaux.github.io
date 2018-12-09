@@ -1,9 +1,8 @@
 ---
 layout: post
 title: The Turbulence of Metamorphosis
-subtitle: A Personal Review of <em>My Fair Lady<em>
 
-excerpt: However ladylike we’ll be in the coming years, never let the spirit of that vigorous, fearless flowergirl be taken away from us: "I washed my face and hands before I come. If you were a gentleman, you would ask me to sit down." <br />
+excerpt: What should be condemned aren’t the moral wrongs of a few individuals. It’s a culture, which most STEM students are currently immersed in, that needs to be reexamined—the one that prioritizes what sounds cool and what pays more, instead of finding out what benefits the society the most in the long term. <br />
 
 tags: theater
 ---
