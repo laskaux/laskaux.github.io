@@ -77,7 +77,7 @@ The 2018 Lincoln Center Theater production ends in an air of melancholy—Eliza 
 
 ## Being transformed, who are we?
 
-Higgins’ lady training program isn’t purely fictitious—in reality, we call it education, the systematic procedure through which young people change their lives. Many are undergoing a metamorphosis no easier than that of Eliza, especially those deciding to pursue higher education in a foreign country.
+Higgins’ lady training program isn’t purely fictitious—in reality, we call it education, the systematic procedure through which young people may change their lives. Many are undergoing a metamorphosis no easier than that of Eliza, especially those pursuing higher education in a foreign country.
 
 I’m now a few years older than Eliza, yet still struggling to accurately pronounce the fifteen distinct vowels in American English: the near-close near-front unrounded /ɪ/, the near-close near-back rounded /ʊ/, etc. I’m rebuilding my vocabulary, using the handbooks intended for teenagers or those without a decent education. I’m assimilating a different set of attitudes and methods in scientific research. I’m resetting my knowledge, especially that on social sciences and humanities. I’m acquiring the basic skills of writing and communication. I’m overhauling my manners and values. There are nights I couldn’t go to bed, either too occupied or too stressed out. There are also “The Rain in Spain” moments, when “at once my heart took flight.” I’m surrounded by enlightening mentorships, as well as aimless zeal. I’ve be constantly encouraged, yet occasionally mocked. 
 
@@ -85,7 +85,7 @@ We’re exploring a world we’ve never been to. We’re being transformed into 
 
 We can spend a night dancing or weeping. But when the morning is smearing up the sky, we’d go back to our phonetic charts, or any endeavor we choose to undertake. 
 
-Most importantly, however “ladylike” we’ll become in the coming years, never let the spirit of that vigorous, fearless flowergirl be taken away from us—that’s what launched and essentially powers the transformation. Some day in the future, when hesitating or lost, we shall recall the courage inside us the moment we knocked at the door of our 27A Wimpole Street and said:
+Most importantly, however “ladylike” we’ll become in the coming years, never let the spirit of that vigorous, fearless flowergirl be taken away from us—that’s what launched the transformation, and what essentially powers it. Some day in the future, when hesitating or lost, we shall recall the courage inside us the moment we knocked at the door of our 27A Wimpole Street and said:
 
 “I washed my face and hands before I come. If you were a gentleman, you would ask me to sit down.”<br /><br />
 
