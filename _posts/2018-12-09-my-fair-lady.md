@@ -77,7 +77,7 @@ The 2018 Lincoln Center Theater production ends in an air of melancholy—Eliza 
 
 ## Being transformed, who are we?
 
-Higgins’ lady training program isn’t purely fictitious—in reality, we call it education, the systematic procedure through which young people may change their lives. Many are undergoing a metamorphosis no easier than that of Eliza, especially those pursuing higher education at a prestigious university in a foreign country.
+Higgins’ lady training program isn’t purely fictitious—in reality, we call it education, the systematic procedure through which young people may change their fates. Many are undergoing a metamorphosis no easier than that of Eliza, especially those pursuing higher education at a prestigious university in a foreign country.
 
 I’m now a few years older than Eliza, yet still struggling to accurately pronounce the fifteen distinct vowels in American English: the near-close near-front unrounded /ɪ/, the near-close near-back rounded /ʊ/, etc. I’m rebuilding my vocabulary, using the handbooks intended for teenagers or those without a decent education. I’m assimilating a different set of attitudes and methods in scientific research. I’m resetting my knowledge, especially that on social sciences and humanities. I’m acquiring the basic skills of writing and communication. I’m overhauling my manners and values. There are nights I couldn’t put my books down, either too concentrated or too occupied. There are also “The Rain in Spain” moments, when “at once my heart took flight.” I’m surrounded by enlightening mentorships, as well as aimless zeal. I’ve be constantly encouraged, yet occasionally mocked. 
 
