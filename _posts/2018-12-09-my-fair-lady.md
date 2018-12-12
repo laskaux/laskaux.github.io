@@ -85,7 +85,7 @@ We’re exploring a world we’ve never been to. We’re being transformed into 
 
 We can spend a night dancing or weeping. But when the morning is smearing up the sky, we’d go back to our phonetic charts, or any endeavor we choose to undertake. 
 
-Most importantly, however “ladylike” we’ll become in the coming years, never let the spirit of that vigorous, fearless flowergirl be taken away from us—that’s what launched the transformation, and what essentially powers it. Some day in the future, when hesitating or lost, we shall recall the courage inside us the moment we knocked at the door of our 27A Wimpole Street and said:
+Most importantly, however “ladylike” we’ll become in the coming years, never let the spirit of that vigorous, fearless flowergirl be taken away from us—that’s what launched the transformation, and what essentially powers it. Some day in the future, when hesitating or lost, we shall recall the courage inside us the moment we knocked on the door of our 27A Wimpole Street and said:
 
 “I washed my face and hands before I come. If you were a gentleman, you would ask me to sit down.”<br /><br />
 
