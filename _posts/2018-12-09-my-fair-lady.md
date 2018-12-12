@@ -72,7 +72,7 @@ His contentious beliefs are challenged by Eliza. He can’t understand why the g
 
 At Mrs. Higgins’ place, he is defeated by the new Lady Eliza. He encounters his own coldness and arrogance. He is told how hurtful his words and deeds can be, and that he plays nothing but a replaceable role to any living creature. Yet he has no choice but to confess—acknowledging the truth complies with his values more than pretending to be deaf.
 
-The 2018 Lincoln Center Theater production ends in an air of melancholy—Eliza enters with her voice played on a gramophone, delivers her famous last line, and exits downstage, slowly disappearing from Higgins’ sight. Note that aisles haven’t been used as exits in interior scenes throughout the show, which, in my opinion, implies Eliza’s last presence is imaginary—in reality, as she promised, she never sees him again. He bids farewell to her—a rare counterpart of him, who truly appreciates his enthusiasm, shares his perseverance, and perceives his frailty. He will start a new chapter of his life, this time, learning to be a human.<br /><br />
+The 2018 Lincoln Center Theater production ends in an air of melancholy—Eliza enters with her voice played on a gramophone, delivers her famous last line, and exits downstage, slowly disappearing from Higgins’ sight. Note that aisles haven’t been used as exits in interior scenes throughout the show, which, in my opinion, implies Eliza’s last presence is imaginary. In reality, as she promised, she never sees him again. He bids farewell to her—a rare counterpart of him, who truly appreciates his enthusiasm, shares his perseverance, and perceives his frailty. He will start a new chapter of his life, this time, learning to be a human.<br /><br />
 
 
 ## Being transformed, who are we?
