@@ -31,7 +31,7 @@ It would be a huge mistake to think the pre-metamorphosis Eliza merely as a bois
 
 An experiment was launched, but yields unanticipated results: After four months, at the Ascot races, she already acquired a glorious pronunciation, yet didn’t know what to talk. Six weeks later, at the Embassy Ball, she could speak and behave like the most charming princess. The linguistic experiment per se should be called a success. Nevertheless, Eliza is transformed into not a lady but a perfect doll, who can only be manipulated and rely on the kindness of others. 
 
-Earlier on that cold spring night, she sat on a cargo cart, picked up cabbage leaves as fans, and sang the sweetest melody in London:
+Earlier on that cold spring night, she sat on a dustcart, picked up cabbage leaves as fans, and sang the sweetest melody in London:
 
 >All I want is a room somewhere; <br />
 >Far away from the cold night air. <br />
