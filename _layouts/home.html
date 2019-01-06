@@ -25,9 +25,9 @@ layout: default
       </header>
       <div class="excerpt">
         {{ post.excerpt }}
-        <p href="{{ post.url | relative_url }}">
-          {{ site.theme_settings.str_continue_reading }}
-        </p>
+        <a href="{{ post.url | relative_url }}">
+          {{<br />site.theme_settings.str_continue_reading }}
+        </a>
       </div>
     </div>
     {% endfor %}
