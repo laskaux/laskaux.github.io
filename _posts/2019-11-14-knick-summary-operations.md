@@ -16,17 +16,17 @@ Often as climaxes in the plot, dozens of surgical scenes are featured in the 20 
 ----
 <br />
 **01&nbsp; CESAREAN SECTION**&nbsp; [Christiansen, Thackery, Gallinger, and Chickering] <br/>
-In her third pregnacy, Mrs. Warren presents with a case of _placenta previa_. A caesarean delivery is attempted, but saves neither Warren nor the fetus, the twelfth failure of the same procedure in succession. 
+In her third pregnacy, Mrs. Warren presents with a case of _placenta previa_. A caesarean delivery is attempted, but saves neither Warren nor the fetus, which is the twelfth failure of the same procedure in succession. 
 &nbsp;(101) <br /><br />
 
 
 **02&nbsp; INTESTINE RESECTION**&nbsp; [Thackery, Gallinger, Chickering, and Edwards] <br/>
-After an abdominal surgery for his pelvis fracture, Mr. Gentile is infected with _septicemia_ from his lacerated bowel and develops a case of _bronchitis_, which prohibits the usage of ether for general anesthesia. Thackery demonstrates _spinal anesthesia_ and removes the damaged section of the patient's bowel with an intestinal clamp he recently improved. 
+After an abdominal surgery for his pelvis fracture, Mr. Gentile is infected with _septicemia_ from his lacerated bowel and develops a case of _bronchitis_, which prohibits the usage of ether for general anesthesia. Thackery demonstrates _spinal anesthesia_ and removes the damaged section of the patient's bowel with the help of an intestinal clamp he recently improved. 
 &nbsp;(101) <br /><br />
 
 
 **03&nbsp; UNKNOWN**&nbsp; [Thackery, Gallinger, and Chickering] <br/>
-An accident occurs when Chickering is testing the new electric cauterizer during an operation. The patient is set afire. Nurse Monk is electrocuted. 
+An accident occurs during an operation when Chickering is testing the new electric cauterizer. The patient is set afire. Nurse Monk is electrocuted. 
 &nbsp;(102) <br /><br />
 
 
@@ -51,12 +51,12 @@ Cora Hemming develops a case of intestine perforation as a complication of her _
 
 
 **08&nbsp; FILI-GALVANOPUNCTURE OF ANEURYSMS**&nbsp; [Edwards, Gallinger, Thackery, and Chickering]<br/>
-The doctors save Mr. Gatchell from his aortic aneurysm following a gavanic procedure, combining wire insertion and electrothrombosis. Edwards is a coauthor of the (fictional) original paper. 
+The doctors save Mr. Gatchell from his aortic aneurysm following a gavanic procedure that combines wire insertion and electrothrombosis. Edwards coauthors the original paper. 
 &nbsp;(104) <br /><br />
 
 
 **09&nbsp; UTERINE PERFORATION CLOSURE**&nbsp; [Thackery, Harriet, and Chickering]<br/>
-A Slovakian woman performs a surgical abortion to herself. The bleeding on her left uterine wall evetually leads to her death. 
+A Slovakian woman performs a surgical abortion on herself. The bleeding on her left uterine wall evetually leads to her death. 
 &nbsp;(104) <br /><br />
 
 
@@ -71,7 +71,7 @@ Edwards improves his inguinal hernia procedure by using silver wires as the medi
 
 
 **12&nbsp; CESAREAN SECTION**&nbsp; [Thackery and Chickering] <br />
-During her labor, Mrs. Lefkowitz is diagnosed with an extreme case of _placenta previa_. A C-section is performed in 72 seconds, but fail again. 
+During her labor, Mrs. Lefkowitz is diagnosed with an extreme case of _placenta previa_. A C-section is performed in 72 seconds, but fails again. 
 &nbsp;(105) <br /><br />
 
 
@@ -81,7 +81,7 @@ By inventing the method of _intrauterine balloon tamponade_, which significantly
 
 
 **14&nbsp; APPENDECTOMY**&nbsp; [Christiansen and Thackery] <br/>
-Thackery demonstrates the method of finding the appendix of an _appendicitis_ patient, and Christiansen proves its surgical removal. Dr. William Halsted sits in the audience. 
+Thackery demonstrates the method of finding the appendix of an _appendicitis_ patient, and Christiansen proves its surgical removal. Dr. William Halsted attends the operation. 
 &nbsp;(107) <br /><br />
 
 
@@ -111,11 +111,11 @@ Before dealing with the tumor, Thackery relieves the patient's intracranial pres
 
 
 **20&nbsp; SPLENECTOMY** [Zinberg] <br/>
-Zinberg operates on a _splenic anemia_ patient by surgical removal of his spleen. &nbsp;(110) <br /><br />
+Zinberg operates on a _splenic anemia_ patient by surgically removing his spleen. &nbsp;(110) <br /><br />
 
 
 **21&nbsp; BLOOD TRANSFUSION** [Thackery] <br/>
-Thackery transfuses his blood to a young patient suffering from _anemia_ caused by _chlorosis_. The girl is killed due to Thackery's erroneous understanding of human blood types. &nbsp;(110) <br /><br />
+Thackery transfuses his own blood to a young patient suffering from _anemia_ caused by _chlorosis_. The girl is killed as a result of Thackery's erroneous understanding of human blood types. &nbsp;(110) <br /><br />
 
 
 **22&nbsp; RHINOPLASTY**&nbsp; [Thackery] <br/>
@@ -164,12 +164,12 @@ The staff of the Knick treat 124 injurers from the construction accident of the 
 
 
 **31&nbsp; ESOPHAGEAL CANCER SURGERY**&nbsp; [Chickering, Edwards, and Zinberg] <br/>
-Several experimental methods are employed to treat the esophageal tumor of Anne Chickering, Bertie's mother. After experimenting with _Röntgenotherapy_, Bertie and Edwards attempt an ionic surgery by passing electric currents through mercury-coated zinc needles inserted into the tumor. After confirming its inefficacy, Bertie decides on the highly risky _laryngectomy_, which fails not unexpectedly due to the complex attachment of the tumor with the laryngeal, tracheal, and esophageal tissues.
+Several experimental methods are employed to treat the esophageal tumor of Anne Chickering, Bertie's mother. After trying _Röntgenotherapy_, Bertie and Edwards attempt an ionic surgery by passing electric currents through mercury-coated zinc needles inserted into the tumor. After confirming its inefficacy, Bertie decides on the highly risky _laryngectomy_, which fails not unexpectedly due to the complex attachment of the tumor with the laryngeal, tracheal, and esophageal tissues.
 &nbsp;(206) <br /><br />
 
 
 **32&nbsp; SEPARATION OF OMPHALOPAGUS TWINS**&nbsp; [Thackery, Edwards, Gallinger, and Chickering] <br/>
-Through X-ray examination, Thackery concludes that the only vital organ that Zoya and Nika---a pair of Minsk-borned twins conjoined by a band of cartilage and soft tissue in their midsection---share is their liver. After devising a procedure to bisect the liver with little hemorrhaging, the surgical team---four doctors and six nurses---separates the twins after a three-and-a-half-hour battle. The entire operation is filmed by a motion picture camera.
+Through X-ray examination, Thackery concludes that the only vital organ that Zoya and Nika---a pair of Minsk-borned twins conjoined by a band of cartilage and soft tissue in their midsection---share is their liver. After devising a procedure to bisect the liver with little hemorrhaging, the surgical team, including four doctors and six nurses, separate the twins after a three-and-a-half-hour battle. The entire operation is filmed by a motion picture camera.
 &nbsp;(207) <br /><br />
 
 
@@ -179,7 +179,7 @@ Mr. Garrison Carr is paralyzed on the operating table after Edwards injects his 
 
 
 **34&nbsp; SEPTOPLASTY**&nbsp;[Thackery and Chickering] <br/>
-Thackery plans to place a celluloid insert into Abigail's nasal cavities to support her reconstructed nose. Unfortunately, Abigail dies of an anesthetic reaction before the operation starts. 
+Thackery plans to place a celluloid insert into Abigail's nasal cavities to support her reconstructed nose. Abruptly, Abigail dies of an anesthetic reaction before the operation starts. 
 &nbsp;(208) <br /><br />
 
 
