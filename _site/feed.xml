@@ -5,127 +5,162 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Wed, 25 Mar 2020 22:35:49 -0400</pubDate>
+    <pubDate>Thu, 26 Mar 2020 04:34:24 -0400</pubDate>
     
       <item>
-        <title>Reverberating the Visual Passion</title>
+        <title>Reverberating the Artistry</title>
         <link>/2020/03/25/power-of-art.html</link>
         <guid isPermaLink="true">/2020/03/25/power-of-art.html</guid>
-        <description>&lt;p&gt;&lt;strong&gt;Claudio Monteverdi&lt;/strong&gt; &lt;br /&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=mPhWDKT2gSk&quot;&gt;Madrigals, Book 8, “Hor che’l ciel e la terra e’l vento tace,” SV 147&lt;/a&gt;
-0:00 - Ecstasy of Saint Teresa, Cornaro Chapel, Santa Maria della Vittoria, Rome
-6:18 - Bernini arrived in Rome, Caravaggio
-40:33 - Ecstasy of Saint Teresa
-&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;In the BERNINI and DAVID episodes of this figure-centered art history series, artworks, reenactments, and storytelling are painted with musical pieces from the Baroque and classical eras. This note is aimed at reviewing the pas de deux of art and music through these accessible examples.&lt;/p&gt;
 
+&lt;p&gt;The chronological list below is arranged in the following format:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Composer&lt;/strong&gt; &lt;br /&gt;
+        Musical piece (with link) &lt;br /&gt;
+        [&lt;strong&gt;Artist&lt;/strong&gt;, corresponding artwork]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
 &lt;dl&gt;
-  &lt;dt&gt;Claudio Monteverdi&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=1Z1tpAsA2M8&quot;&gt;Madrigals, Book 8, “Altri canti di marte,” SV 155&lt;/a&gt;&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;p align=&quot;right&quot;&gt; 
-&lt;b&gt; Gian Lorenzo Bernini &lt;/b&gt; &lt;br /&gt;
-&lt;em&gt; Bust of Cardinal Scipione Borghese &lt;/em&gt; &lt;br /&gt;&lt;br /&gt;
-&lt;/p&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;Claudio Monteverdi&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=N3XVvUxcIY0&quot;&gt;Madrigals, Book 8, “Lamento della ninfa,” SV 163: “Amor”&lt;/a&gt;&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;p align=&quot;right&quot;&gt; 
-&lt;b&gt; Gian Lorenzo Bernini &lt;/b&gt; &lt;br /&gt;
-&lt;em&gt; David &lt;/em&gt; &lt;br /&gt;&lt;br /&gt;
-&lt;/p&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;Claudio Monteverdi&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=XIsliS7oz8s&quot;&gt;Vespro della Beata Vergine (&lt;em&gt;Vespers for the Blessed Virgin&lt;/em&gt;), SV 206: Concerto, “Pulchra es”&lt;/a&gt;&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;p align=&quot;right&quot;&gt; 
-&lt;b&gt; Gian Lorenzo Bernini &lt;/b&gt; &lt;br /&gt;
-&lt;em&gt; Bust of Costanza Bonarelli &lt;/em&gt; &lt;br /&gt;&lt;br /&gt;
-&lt;/p&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;&lt;strong&gt;Claudio Monteverdi&lt;/strong&gt;&lt;/dt&gt;
-  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ODZ1laysiFI&quot;&gt;L’incoronazione di Poppea (The Coronation of Poppaea), SV 308: Act III, “A Dio, Roma, a Dio patria”&lt;/a&gt;
+  &lt;dt&gt;&lt;br /&gt;&lt;/dt&gt;
+  &lt;dt&gt;01  Claudio Monteverdi&lt;/dt&gt;
+  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=mPhWDKT2gSk&quot;&gt;Madrigals, Book 8, “Hor che’l ciel e la terra e’l vento tace,” SV 147&lt;/a&gt;
+&lt;br /&gt;
+[&lt;strong&gt;Gian Lorenzo Bernini&lt;/strong&gt;, &lt;em&gt;Ecstasy of Saint Teresa&lt;/em&gt;]
+&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
+  &lt;dt&gt;02  Claudio Monteverdi&lt;/dt&gt;
+  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=1Z1tpAsA2M8&quot;&gt;Madrigals, Book 8, “Altri canti di marte,” SV 155&lt;/a&gt;
+&lt;br /&gt;
+[&lt;strong&gt;Bernini&lt;/strong&gt;, &lt;em&gt;Bust of Cardinal Scipione Borghese&lt;/em&gt;]
+&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
+  &lt;dt&gt;03  Claudio Monteverdi&lt;/dt&gt;
+  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=N3XVvUxcIY0&quot;&gt;Madrigals, Book 8, “Lamento della ninfa,” SV 163: “Amor”&lt;/a&gt; 
+&lt;br /&gt;
+[&lt;strong&gt;Bernini&lt;/strong&gt;, &lt;em&gt;David&lt;/em&gt;; &lt;em&gt;The Rape of Proserpina&lt;/em&gt;; &lt;em&gt;Apollo and Daphne&lt;/em&gt;]
+&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
+  &lt;dt&gt;04  Claudio Monteverdi&lt;/dt&gt;
+  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=XIsliS7oz8s&quot;&gt;&lt;em&gt;Vespro della Beata Vergine&lt;/em&gt; (&lt;em&gt;Vespers for the Blessed Virgin&lt;/em&gt;), SV 206: Concerto, “Pulchra es”&lt;/a&gt; 
+&lt;br /&gt;
+[&lt;strong&gt;Bernini&lt;/strong&gt;, &lt;em&gt;Bust of Costanza Bonarelli&lt;/em&gt;]
+&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
+  &lt;dt&gt;05  Claudio Monteverdi&lt;/dt&gt;
+  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ODZ1laysiFI&quot;&gt;&lt;em&gt;L’incoronazione di Poppea&lt;/em&gt; (&lt;em&gt;The Coronation of Poppaea&lt;/em&gt;), SV 308: Act III, “A Dio, Roma!”&lt;/a&gt;
+&lt;br /&gt;
+[&lt;strong&gt;Bernini&lt;/strong&gt;, &lt;em&gt;Ecstasy of Saint Teresa&lt;/em&gt;; &lt;em&gt;Bust of Costanza Bonarelli&lt;/em&gt;]
+&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
+  &lt;dt&gt;06  Antonio Vivaldi&lt;/dt&gt;
+  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=OJQ04_y6e6c&quot;&gt;Sonata in E-flat major “Al santo sepolcro,” RV 130: Largo molto&lt;/a&gt;
+&lt;br /&gt;
+[&lt;strong&gt;Bernini&lt;/strong&gt;, &lt;em&gt;Ecstasy of Saint Teresa&lt;/em&gt;]
+&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
+  &lt;dt&gt;07  Antonio Vivaldi&lt;/dt&gt;
+  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Bxp74hB-4Zw&quot;&gt;Nisi Dominus, RV 608: “Cum dederit” (Andante)&lt;/a&gt;
+&lt;br /&gt;
+[&lt;strong&gt;Jacques-Louis David&lt;/strong&gt;, &lt;em&gt;Le Serment des Horaces&lt;/em&gt; (&lt;em&gt;Oath of the Horatii&lt;/em&gt;);
+&lt;em&gt;Le Serment du Jeu de paume&lt;/em&gt; (&lt;em&gt;The Tennis Court Oath&lt;/em&gt;); 
+&lt;em&gt;Les licteurs rapportent à Brutus les corps de ses fils&lt;/em&gt; (&lt;em&gt;The Lictors Bring to Brutus the Bodies of His Sons&lt;/em&gt;);
+&lt;em&gt;La Mort de Marat&lt;/em&gt; (&lt;em&gt;The Death of Marat&lt;/em&gt;)
+]
+&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
+  &lt;dt&gt;08  Antonio Vivaldi&lt;/dt&gt;
+  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=wqAx99Cigig&quot;&gt;Salve Regina, RV 616: “Et Jesum” (Andante molto)&lt;/a&gt;
+&lt;br /&gt;
+[&lt;strong&gt;François Boucher&lt;/strong&gt;, &lt;em&gt;Le Jugement de Pâris&lt;/em&gt; (&lt;em&gt;The Judgment of Paris&lt;/em&gt;)]
+&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
+  &lt;dt&gt;09  Antonio Vivaldi&lt;/dt&gt;
+  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Dzg91IyhIt8&quot;&gt;Stabat Mater, RV 621: “Cujus animam gementem”&lt;/a&gt;
+&lt;br /&gt;
+[Bernini’s demolished bell towers for the St. Peter’s Basilica]
+&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
+  &lt;dt&gt;10  Antonio Vivaldi&lt;/dt&gt;
+  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=j5lkTEKQiXM&quot;&gt;Stabat Mater, RV 621: “Eja mater, fons amoris”&lt;/a&gt;
+&lt;br /&gt;
+[&lt;strong&gt;Francesco Borromini&lt;/strong&gt;, San Carlo alle Quattro Fontane; &lt;strong&gt;Bernini&lt;/strong&gt;, Sant’Andrea al Quirinale]
+&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
+  &lt;dt&gt;11  Antonio Vivaldi&lt;/dt&gt;
+  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=zIxXMIie9XI&quot;&gt;&lt;em&gt;Filiae Maestae Jerusalem&lt;/em&gt;, RV 638: “Sileant zephyri”&lt;/a&gt;
+&lt;br /&gt;
+[&lt;strong&gt;Bernini&lt;/strong&gt;, &lt;em&gt;Blessed Ludovica Albertoni&lt;/em&gt;]
+&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
+  &lt;dt&gt;12  Antonio Vivaldi&lt;/dt&gt;
+  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=zTXdQuWiWAw&quot;&gt;Cantata “Cessate, omai cessate,” RV 684: “A voi dunque ricorro”&lt;/a&gt;
+&lt;br /&gt;
+[&lt;strong&gt;Bernini&lt;/strong&gt;, &lt;em&gt;Martyrdom of Saint Lawrence&lt;/em&gt;]
+&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
+  &lt;dt&gt;13  Antonio Vivaldi&lt;/dt&gt;
+  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=66OJIcGSkKs&quot;&gt;Cantata “Cessate, omai cessate,” RV 684: “Nell’orrido albergo”&lt;/a&gt;
+&lt;br /&gt;
+[End titles of BERNINI]
+&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
+  &lt;dt&gt;14  Antonio Vivaldi&lt;/dt&gt;
+  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=2QYuh9D1JEo&quot;&gt;&lt;em&gt;L’Olimpiade&lt;/em&gt;, RV 725: Sinfonia&lt;/a&gt;
+&lt;br /&gt;
+[&lt;strong&gt;Bernini&lt;/strong&gt;, &lt;em&gt;Bust of Pope Gregory XV&lt;/em&gt;; &lt;em&gt;Statue of Pope Urban VIII&lt;/em&gt;]
+&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
+  &lt;dt&gt;15  Antonio Vivaldi&lt;/dt&gt;
+  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=VHUiG1TpBGU&quot;&gt;&lt;em&gt;L’Olimpiade&lt;/em&gt;, RV 725: Act II, “Gemo in un punto e fremo”&lt;/a&gt;
+&lt;br /&gt;
+[&lt;strong&gt;Bernini&lt;/strong&gt;, &lt;em&gt;Bacchanal: A Faun Teased by Children&lt;/em&gt;; &lt;em&gt;The Goat Amalthea with the Infant Jupiter and a Faun&lt;/em&gt;]
+&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
+  &lt;dt&gt;16  George Frideric Handel&lt;/dt&gt;
+  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=RmeFTM80NDk&quot;&gt;&lt;em&gt;Rodelinda, regina de’ Longobardi&lt;/em&gt;, HWV 19: Act I, “Ombre, piante, urne funeste!”&lt;/a&gt;
+&lt;br /&gt;
+[Château de Versailles; &lt;strong&gt;David&lt;/strong&gt;, &lt;em&gt;Portrait d’Antoine-Laurent Lavoisier et de sa femme&lt;/em&gt;]
+&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
+  &lt;dt&gt;17  George Frideric Handel&lt;/dt&gt;
+  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=20Wy7kK_wGc&quot;&gt;&lt;em&gt;Acis and Galatea&lt;/em&gt;, HWV 49: Act II, “I rage, I melt, I burn!”&lt;/a&gt;
+&lt;br /&gt;
+[&lt;strong&gt;Bernini&lt;/strong&gt;, &lt;em&gt;Bust of Costanza Bonarelli&lt;/em&gt;]
+&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
+  &lt;dt&gt;18  Michael Haydn&lt;/dt&gt;
+  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=EUKFK2ezoCQ&amp;amp;t=21s&quot;&gt;Missa pro defuncto Archiepiscopo Sigismondo (Requiem in C minor), MH 155&lt;/a&gt;
+&lt;br /&gt;
+[&lt;strong&gt;Élisabeth Vigée Le Brun&lt;/strong&gt;, &lt;em&gt;Portrait de Marie-Antoinette à la rose&lt;/em&gt;; &lt;strong&gt;David&lt;/strong&gt;, &lt;em&gt;Marie-Antoinette conduite à l’échafaud&lt;/em&gt; (&lt;em&gt;Marie Antoinette Led to Her Execution&lt;/em&gt;); &lt;em&gt;Autoportrait&lt;/em&gt;]
+&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
+  &lt;dt&gt;19  Wolfgang Amadeus Mozart&lt;/dt&gt;
+  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=czpbVZI5-Pk&quot;&gt;Great Mass in C minor, K. 427/417a: Laudamus te (Allegro aperto)&lt;/a&gt;
+&lt;br /&gt;
+[&lt;strong&gt;Pierre Beaumarchais&lt;/strong&gt;, &lt;em&gt;La Folle Journée, ou le Mariage de Figaro&lt;/em&gt; (&lt;em&gt;The Marriage of Figaro&lt;/em&gt;)]
+&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
+  &lt;dt&gt;20  Wolfgang Amadeus Mozart&lt;/dt&gt;
+  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=eX9V768gCso&quot;&gt;&lt;em&gt;Maurerische Trauermusik&lt;/em&gt; (&lt;em&gt;Masonic Funeral Music&lt;/em&gt;) in C minor, K. 477/479a&lt;/a&gt;
+&lt;br /&gt;
+[&lt;strong&gt;David&lt;/strong&gt;, &lt;em&gt;La Mort de Marat&lt;/em&gt;]
+&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
+  &lt;dt&gt;21  Wolfgang Amadeus Mozart&lt;/dt&gt;
+  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=nGTBCWnwzgI&quot;&gt;&lt;em&gt;Le nozze di Figaro&lt;/em&gt; (&lt;em&gt;The Marriage of Figaro&lt;/em&gt;), K. 492: Act I, “Non so più cosa son, cos faccio”&lt;/a&gt;
+&lt;br /&gt;
+[&lt;strong&gt;Jean-Honoré Fragonard&lt;/strong&gt;, &lt;em&gt;Les Hasards heureux de l’escarpolette&lt;/em&gt; (&lt;em&gt;The Swing&lt;/em&gt;)]
+&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
+  &lt;dt&gt;22  Wolfgang Amadeus Mozart&lt;/dt&gt;
+  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=BLtqZewjwgA&quot;&gt;&lt;em&gt;Le nozze di Figaro&lt;/em&gt;, K. 492: Act III, “Sull’aria… che soave zeffiretto”&lt;/a&gt;
+&lt;br /&gt;
+[&lt;strong&gt;Jean-Jacques Hauer&lt;/strong&gt;, &lt;em&gt;Portrait de Charlotte Corday&lt;/em&gt;]
+&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
+  &lt;dt&gt;23  Wolfgang Amadeus Mozart&lt;/dt&gt;
+  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=FcA5_k2mq7c&quot;&gt;Aria for Soprano, “Alma grande e nobil core,” K. 578&lt;/a&gt;
+&lt;br /&gt;
+[&lt;strong&gt;Jean-Baptiste Greuze&lt;/strong&gt;, &lt;em&gt;Une fille avec un canari mort&lt;/em&gt; (&lt;em&gt;A Girl with a Dead Canary&lt;/em&gt;)]
+&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
+  &lt;dt&gt;24  Wolfgang Amadeus Mozart&lt;/dt&gt;
+  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=fX5zsrC6hYk&quot;&gt;&lt;em&gt;Die Zauberflöte&lt;/em&gt; (&lt;em&gt;The Magic Flute&lt;/em&gt;), K. 620: Act I, “O zittre nicht, mein lieber Sohn”&lt;/a&gt;
+&lt;br /&gt;
+[&lt;strong&gt;Auguste Couder&lt;/strong&gt;, &lt;em&gt;Ouverture des États généraux à Versailles, 5 mai 1789&lt;/em&gt;; end titles of DAVID]
+&lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
+  &lt;dt&gt;25  &lt;strong&gt;Ludwig van Beethoven&lt;/strong&gt;&lt;/dt&gt;
+  &lt;dd&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Q3X5ZpLNILI&quot;&gt;Piano Sonata No. 14 in C♯ minor &lt;em&gt;“Quasi una fantasia”&lt;/em&gt;, Op. 27, No. 2 (&lt;em&gt;Moonlight Sonata&lt;/em&gt;)&lt;/a&gt;
+&lt;br /&gt;
+[Opening titles of all eight episodes]
 &lt;br /&gt;&lt;br /&gt;&lt;/dd&gt;
 &lt;/dl&gt;
 
-&lt;p&gt;28:17 - Bernini’s punishment, Bust of Costanza Bonarelli
-39:13 - Teresa of Ávila
-45:13 - Ecstasy of Saint Teresa
-&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;The motif of &lt;strong&gt;Claude Joseph Rouget de Lisle&lt;/strong&gt;’s &lt;em&gt;La Marseillaise&lt;/em&gt; (&lt;em&gt;Chant de guerre pour l’armée du Rhin&lt;/em&gt;) accompanies David’s Empire-style paintings during the Napoleonic era.
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Antonio Vivaldi&lt;/strong&gt;&lt;br /&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=OJQ04_y6e6c&quot;&gt;Sonata in E-flat major “Al santo sepolcro,” RV 130: Largo molto&lt;/a&gt;
-37:27 - Ecstasy of Saint Teresa
-46:23 - Ecstasy of Saint Teresa
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Antonio Vivaldi&lt;/strong&gt;&lt;br /&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=Dzg91IyhIt8&quot;&gt;Stabat Mater, RV 621: “Cujus animam gementem”&lt;/a&gt;
-24:29 - The revenge of Bernini
-29:56 - St Peter’s towers
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Antonio Vivaldi&lt;/strong&gt;&lt;br /&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=j5lkTEKQiXM&quot;&gt;Stabat Mater, RV 621: “Eja mater, fons amoris”&lt;/a&gt;
-15:45 - Francesco Borromini, San Carlo alle Quattro Fontane; Bernini, Sant’Andrea al Quirinale
-32:42 - Tower of St. Peters
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Antonio Vivaldi&lt;/strong&gt;&lt;br /&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=zIxXMIie9XI&quot;&gt;Filiae Maestae Jerusalem, RV 638: “Sileant zephyri”&lt;/a&gt;
-10:31 - Filippo Baldinucci, Apollo and Daphe
-48:50 - Blessed Ludovica Albertoni
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Antonio Vivaldi&lt;/strong&gt;&lt;br /&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=zTXdQuWiWAw&quot;&gt;Cantata “Cessate, omai cessate,” RV 684: “A voi dunque ricorro”&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Gian Lorenzo Bernini, &lt;a href=&quot;https://www.uffizi.it/en/artworks/saint-lawrence-bernini&quot;&gt;&lt;em&gt;Martyrdom of Saint Lawrence&lt;/em&gt; (1617)&lt;/a&gt;
-&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Antonio Vivaldi&lt;/strong&gt;&lt;br /&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=66OJIcGSkKs&quot;&gt;Cantata “Cessate, omai cessate,” RV 684: “Nell’orrido albergo”&lt;/a&gt;
-52:37 - End titles
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Antonio Vivaldi&lt;/strong&gt;&lt;br /&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=2QYuh9D1JEo&quot;&gt;L’ Olimpiade, RV 725: Sinfonia&lt;/a&gt;
-14:13 - Bernini and the Pope
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Antonio Vivaldi&lt;/strong&gt;&lt;br /&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=VHUiG1TpBGU&quot;&gt;L’ Olimpiade, RV 725: Act II, “Gemo in un punto e fremo”&lt;/a&gt;
-4:39 - The childhood of Bernini, Bacchanal: A Faun Teased by Children, The Goat Amalthea with the Infant Jupiter and a Faun
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;George Frideric Handel&lt;/strong&gt;&lt;br /&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=20Wy7kK_wGc&quot;&gt;Acis and Galatea, HWV 49: Act II, “I rage, I melt, I burn!”&lt;/a&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;21:22 - Bust of Costanza Bonarelli&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Antonio Vivaldi&lt;/strong&gt;&lt;br /&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=Bxp74hB-4Zw&quot;&gt;Nisi Dominus, RV 608: “Cum dederit” (Andante)&lt;/a&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Antonio Vivaldi&lt;/strong&gt;&lt;br /&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=wqAx99Cigig&quot;&gt;Salve Regina, RV 616: “Et Jesum” (Andante molto)&lt;/a&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;George Frideric Handel&lt;/strong&gt;&lt;br /&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=RmeFTM80NDk&quot;&gt;Rodelinda, regina de’ Longobardi, HWV 19: Act I, “Ombre, piante, urne funeste!”&lt;/a&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;
+Music credits to the other six episodes: &lt;strong&gt;Peter Salem&lt;/strong&gt; (CARAVAGGIO), &lt;strong&gt;David Gale&lt;/strong&gt; and &lt;strong&gt;Andy Bush&lt;/strong&gt; (REMBRANDT), &lt;strong&gt;Niraj Chag&lt;/strong&gt; (TURNER and PICASSO), &lt;strong&gt;David Julyan&lt;/strong&gt; (VAN GOGH), and &lt;strong&gt;Daniel Giorgetti&lt;/strong&gt; (ROTHKO)
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 25 Mar 2020 00:00:00 -0400</pubDate>
       </item>
