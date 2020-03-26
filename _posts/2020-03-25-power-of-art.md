@@ -5,7 +5,7 @@ title: Reverberating the Artistry
 
 subtitle: Classical music in <em>Simon Schama's Power of Art</em>
 
-excerpt: The classical music pieces in <em>Simon Schama's Power of Art</em>&colon; Gian Lorenzo Bernini and Jacques-Louis David echoed with Monteverdi, Vivaldi, Handel, Hadyn, and Mozart. <br />
+excerpt: Classical music in <em>Simon Schama's Power of Art</em>&colon; Gian Lorenzo Bernini and Jacques-Louis David echoed with Monteverdi, Vivaldi, Handel, Hadyn, and Mozart. <br />
 
 tags: television
 ---
@@ -14,7 +14,7 @@ In the BERNINI and DAVID episodes of this figure-centered art history series, ar
 
 The following catalogue-ordered list is arranged in the format of
 > **Composer** <br />
-> &nbsp; &nbsp; &nbsp; &nbsp; Musical piece (with link) <br />
+> &nbsp; &nbsp; &nbsp; &nbsp; Musical piece (audio link) <br />
 > &nbsp; &nbsp; &nbsp; &nbsp; [**Artist**, corresponding artwork]  
 
 ----
