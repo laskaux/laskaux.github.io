@@ -12,7 +12,7 @@ tags: television
 
 In the BERNINI and DAVID episodes of this figure-centered art history series, artworks, reenactments, and storytelling are painted with musical pieces from the Baroque and classical eras. This note is aimed at reviewing the pas de deux of art and music through these accessible examples. 
 
-The chronological list below is arranged in the following format:
+The following catalogue-ordered list is arranged in the format of
 > **Composer** <br />
 > &nbsp; &nbsp; &nbsp; &nbsp; Musical piece (with link) <br />
 > &nbsp; &nbsp; &nbsp; &nbsp; [**Artist**, corresponding artwork]  
@@ -221,7 +221,7 @@ https://www.youtube.com/watch?v=Q3X5ZpLNILI
 [Opening titles of all eight episodes]
 <br /><br />
 
-The motif of **Claude Joseph Rouget de Lisle**'s _La Marseillaise_ (_Chant de guerre pour l'armée du Rhin_) accompanies David's Empire-style paintings during the Napoleonic era.
+The motif of **Claude Joseph Rouget de Lisle**'s _La Marseillaise_, or _Chant de guerre pour l'armée du Rhin_ accompanies David's Empire-style paintings during the Napoleonic era.
 <br /><br />
 
 ----
