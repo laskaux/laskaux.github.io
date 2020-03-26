@@ -35,7 +35,8 @@ https://www.youtube.com/watch?v=N3XVvUxcIY0)
 :
 > Gian Lorenzo Bernini, [_David_ (1623–24)](
 https://galleriaborghese.beniculturali.it/en/opere/david/) 
-<br /><br />
+
+<br />
 
 
  
