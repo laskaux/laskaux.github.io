@@ -15,7 +15,7 @@ In the BERNINI and DAVID episodes of this figure-centered art history series, ar
 The following catalogue-ordered list is arranged in the format of
 > **Composer** <br />
 > &nbsp; &nbsp; &nbsp; &nbsp; Musical piece (audio link) <br />
-> &nbsp; &nbsp; &nbsp; &nbsp; [**Artist**, corresponding artwork]  
+> &nbsp; &nbsp; &nbsp; &nbsp; [**Artist**, artwork]  
 
 ----
 <br />
