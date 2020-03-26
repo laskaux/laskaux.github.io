@@ -218,7 +218,7 @@ https://www.youtube.com/watch?v=fX5zsrC6hYk)
 https://www.youtube.com/watch?v=Q3X5ZpLNILI
 )
 <br />
-[Opening titles of all eight episodes]
+[Opening titles]
 <br /><br />
 
 The motif of **Claude Joseph Rouget de Lisle**'s _La Marseillaise_, or _Chant de guerre pour l'armée du Rhin_ accompanies David's Empire-style paintings during the Napoleonic era.
