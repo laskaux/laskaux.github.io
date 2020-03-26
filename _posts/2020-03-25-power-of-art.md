@@ -16,22 +16,44 @@ https://www.youtube.com/watch?v=mPhWDKT2gSk)
 0:00 - Ecstasy of Saint Teresa, Cornaro Chapel, Santa Maria della Vittoria, Rome
 6:18 - Bernini arrived in Rome, Caravaggio
 40:33 - Ecstasy of Saint Teresa
-<br />
+<br /><br />
 
 
-|**Claudio Monteverdi** <br /> [Madrigals, Book 8, "Altri canti di marte," SV 155](https://www.youtube.com/watch?v=1Z1tpAsA2M8) | **Gian Lorenzo Bernini** <br />[_Bust of Cardinal Scipione Borghese_ (1632)](https://en.wikipedia.org/wiki/Two_Busts_of_Cardinal_Scipione_Borghese)|
-|
-|**Claudio Monteverdi** <br /> [Madrigals, Book 8, "Lamento della ninfa," SV 163: "Amor"](https://www.youtube.com/watch?v=N3XVvUxcIY0) | **Gian Lorenzo Bernini** <br />[_David_ (1623–24)](https://galleriaborghese.beniculturali.it/en/opere/david/) |
-|
-|**Claudio Monteverdi** <br /> [Vespro della Beata Vergine (Vespers for the Blessed Virgin), SV 206: Concerto, "Pulchra es"](https://www.youtube.com/watch?v=XIsliS7oz8s) | **Gian Lorenzo Bernini** <br />[_Bust of Costanza Bonarelli_ (1636–37)](https://en.wikipedia.org/wiki/Bust_of_Costanza_Bonarelli) 
-|
+**Claudio Monteverdi** <br /> 
+[Madrigals, Book 8, "Altri canti di marte," SV 155](
+https://www.youtube.com/watch?v=1Z1tpAsA2M8)
 
-<br />
+- Gian Lorenzo Bernini, [_Bust of Cardinal Scipione Borghese_ (1632)](
+https://en.wikipedia.org/wiki/Two_Busts_of_Cardinal_Scipione_Borghese)
+<br /><br />
 
 
-**Claudio Monteverdi**<br />
-[L'incoronazione di Poppea (The Coronation of Poppaea), SV 308: Act III, "A Dio, Roma, a Dio patria"](
+
+**Claudio Monteverdi** 
+: [Madrigals, Book 8, "Lamento della ninfa," SV 163: "Amor"](
+https://www.youtube.com/watch?v=N3XVvUxcIY0) 
+
+
+- Gian Lorenzo Bernini, [_David_ (1623–24)](
+https://galleriaborghese.beniculturali.it/en/opere/david/) 
+<br /><br />
+
+
+
+Claudio Monteverdi 
+: [Vespro della Beata Vergine (_Vespers for the Blessed Virgin_), SV 206: Concerto, "Pulchra es"](
+https://www.youtube.com/watch?v=XIsliS7oz8s) <br /> <br />
+: Gian Lorenzo Bernini, [_Bust of Costanza Bonarelli_ (1636–37)](
+https://en.wikipedia.org/wiki/Bust_of_Costanza_Bonarelli) 
+<br /><br />
+
+
+**Claudio Monteverdi**
+: [L'incoronazione di Poppea (The Coronation of Poppaea), SV 308: Act III, "A Dio, Roma, a Dio patria"](
 https://www.youtube.com/watch?v=ODZ1laysiFI)
+<br /><br />
+
+
 28:17 - Bernini's punishment, Bust of Costanza Bonarelli
 39:13 - Teresa of Ávila
 45:13 - Ecstasy of Saint Teresa
@@ -67,11 +89,15 @@ https://www.youtube.com/watch?v=zIxXMIie9XI)
 48:50 - Blessed Ludovica Albertoni
 <br />
 
+
+
 **Antonio Vivaldi**<br />
 [Cantata "Cessate, omai cessate," RV 684: "A voi dunque ricorro"](
 https://www.youtube.com/watch?v=zTXdQuWiWAw)
-7:15 - Martyrdom of Saint Lawrence
-<br />
+
+- Gian Lorenzo Bernini, [_Martyrdom of Saint Lawrence_ (1617)](https://www.uffizi.it/en/artworks/saint-lawrence-bernini)
+<br /><br />
+
 
 **Antonio Vivaldi**<br />
 [Cantata "Cessate, omai cessate," RV 684: "Nell'orrido albergo"](
