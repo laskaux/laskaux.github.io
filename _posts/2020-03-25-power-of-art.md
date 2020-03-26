@@ -22,31 +22,31 @@ https://www.youtube.com/watch?v=mPhWDKT2gSk)
 Claudio Monteverdi
 : [Madrigals, Book 8, "Altri canti di marte," SV 155](
 https://www.youtube.com/watch?v=1Z1tpAsA2M8)
-: 
-> Gian Lorenzo Bernini, [_Bust of Cardinal Scipione Borghese_ (1632)](
-https://en.wikipedia.org/wiki/Two_Busts_of_Cardinal_Scipione_Borghese)
 
-<br />
+<p align="right"> 
+<b> Gian Lorenzo Bernini </b> <br />
+<em> Bust of Cardinal Scipione Borghese </em> <br /><br />
+</p>
 
 
 Claudio Monteverdi 
 : [Madrigals, Book 8, "Lamento della ninfa," SV 163: "Amor"](
 https://www.youtube.com/watch?v=N3XVvUxcIY0) 
-:
-> Gian Lorenzo Bernini, [_David_ (1623–24)](
-https://galleriaborghese.beniculturali.it/en/opere/david/) 
 
-<br />
-
+<p align="right"> 
+<b> Gian Lorenzo Bernini </b> <br />
+<em> David </em> <br /><br />
+</p>
 
  
 Claudio Monteverdi 
 : [Vespro della Beata Vergine (_Vespers for the Blessed Virgin_), SV 206: Concerto, "Pulchra es"](
-https://www.youtube.com/watch?v=XIsliS7oz8s) <br /> <br />
-: Gian Lorenzo Bernini, [_Bust of Costanza Bonarelli_ (1636–37)](
-https://en.wikipedia.org/wiki/Bust_of_Costanza_Bonarelli) 
-<br /><br />
+https://www.youtube.com/watch?v=XIsliS7oz8s) 
 
+<p align="right"> 
+<b> Gian Lorenzo Bernini </b> <br />
+<em> Bust of Costanza Bonarelli </em> <br /><br />
+</p>
 
 **Claudio Monteverdi**
 : [L'incoronazione di Poppea (The Coronation of Poppaea), SV 308: Act III, "A Dio, Roma, a Dio patria"](
