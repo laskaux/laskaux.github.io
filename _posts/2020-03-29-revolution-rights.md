@@ -5,12 +5,12 @@ title: In the Name of Liberté&colon;&nbsp; II. Rights of Citizens
 
 subtitle: “La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui”
 
-excerpt: Reconciliation of 17 July—<em>Grande Peur</em>—August Decrees—<em>Declaration of the Rights of Man</em>—Veto debate—<em>Orgie des Gardes du corps</em>—October March on Versailles—Mirabeau's secret letters—<em>Fête de la Fédération</em> <br />
+excerpt: Reconciliation of 17 July—<em>Grande Peur</em>—August Decrees—<em>Declaration of the Rights of Man</em>—Veto debate—<em>Orgie des Gardes du corps</em>—October march on Versailles—Mirabeau's secret letters—<em>Fête de la Fédération</em> <br />
 
 tags: film
 ---
 
-Reconciliation of 17 July—<em>Grande Peur</em>—August Decrees—<em>Declaration of the Rights of Man</em>—Veto debate—<em>Orgie des Gardes du corps</em>—October March on Versailles—Mirabeau’s secret letters—<em>Fête de la Fédération</em> <br /><br />
+Reconciliation of 17 July—<em>Grande Peur</em>—August Decrees—<em>Declaration of the Rights of Man</em>—Veto debate—<em>Orgie des Gardes du corps</em>—October march on Versailles—Mirabeau’s secret letters—<em>Fête de la Fédération</em> <br /><br />
 
 ----
 
