@@ -5,12 +5,12 @@ title: In the Name of Liberté&colon;&nbsp; II. Rights of Citizens
 
 subtitle: “La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui”
 
-excerpt: Reconciliation of 17 July—<em>Grande Peur</em>—August Decrees—<em>Declaration of the Rights of Man and of the Citizen</em>—Veto debate—<em>Orgie des gardes du corps</em>—March on Versailles/October Days—Mirabeau's secret letters—<em>Fête de la Fédération</em> <br />
+excerpt: Reconciliation of 17 July—<em>Grande Peur</em>—August Decrees—<em>Declaration of the Rights of Man</em>—Veto debate—<em>Orgie des Gardes du corps</em>—October March on Versailles—Mirabeau's secret letters—<em>Fête de la Fédération</em> <br />
 
 tags: film
 ---
 
-Reconciliation of 17 July—<em>Grande Peur</em>—August Decrees—<em>Declaration of the Rights of Man and of the Citizen</em>—Veto debate—<em>Orgie des gardes du corps</em>—March on Versailles/October Days—Mirabeau’s secret letters—<em>Fête de la Fédération</em> <br /><br />
+Reconciliation of 17 July—<em>Grande Peur</em>—August Decrees—<em>Declaration of the Rights of Man</em>—Veto debate—<em>Orgie des Gardes du corps</em>—October March on Versailles—Mirabeau’s secret letters—<em>Fête de la Fédération</em> <br /><br />
 
 ----
 
@@ -162,7 +162,7 @@ In the film, Mirabeau's view is reflected through the witty dinner chat with Cam
  The papers Desmoulins drafts and Mirabeau signs are probably for Mirabeau's _Courrier de Provence_. <br /><br /> 
 
 
-#### 1 October 1789: _Orgie des gardes du corps_
+#### 1 October 1789: _Orgie des Gardes du corps_
 
 > It was the first time the Assembly had flouted popular sentiment, for in Paris and many of the provinces it was clear that any form of veto aroused deep mistrust. . . . Such paranoid attitudes were compounded by persistent economic difficulties in the capital. After falling somewhat in late July and August, the price of bread began to climb again and supplies became irregular. . . . Guards were placed on bakers’ shops, and Lafayette and his militia found themselves hard pressed to contain all the incidents that occurred.
 >
