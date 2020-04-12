@@ -1,22 +1,27 @@
 ---
 layout: post
 
-title: In the Name of Liberté&colon;&nbsp; I. From Versailles to Bastille
+title: In the Name of <em>Liberté</em>&colon;&nbsp; I. From Versailles to Bastille
 
-subtitle: “Non, sire, c’est une révolution!” 
+subtitle: “Non, sire, c’est une révolution” 
 
-excerpt: Introduction—Coronation of Louis XVI—Royal family in 1788—Summoning the Estates-General of 1789—Elections—Opening of the Estates-General—Tennis Court Oath—<em>Séance royale</em> of 23 June—Riots of 12 July—Storming of the Bastille  <br />
+excerpt: Introduction—Royal family in 1788—Summoning the Estates-General of 1789—Elections—Opening of the Estates-General—Tennis Court Oath—<em>Séance royale</em> of 23 June—Riots of 12 July—Storming of the Bastille  <br />
 
 tags: film
 ---
 
 [//]: # "Comment"
 
-Introduction—Coronation of Louis XVI—Royal family in 1788—Summoning the Estates-General of 1789—Elections—Opening of the Estates-General—Tennis Court Oath—<em>Séance royale</em> of 23 June—Riots of 12 July—Storming of the Bastille  <br /><br />
+
+>Il n’y a rien de plus propre à rappeler les philosophes et les hommes d’État à la modestie que l’histoire de notre Révolution ; car il n’y eut jamais d’événements plus grands, conduits de plus loin, mieux préparés et moins prévus. 
+>
+>[Philosophers and statesmen may learn a valuable lesson of modesty from the history of our Revolution, for there never were events greater, better prepared, longer matured, and yet so little foreseen.]
+ > <p align="right">—Alexis de Tocqueville, <em>L'Ancien Régime et la Révolution</em> (1856)
 
 ----
 
-#### Introduction: A companion to _La Révolution française_ (1989 film)
+
+#### <br />Introduction: A companion to _La Révolution française_ (1989 film)
 
 Below is an event-by-event breakdown in the chronological order. **Historical figures** are in bold text at their first appearances, with their corresponding (cast members) in parentheses. <br /><br />
 
@@ -33,52 +38,52 @@ Below is an event-by-event breakdown in the chronological order. **Historical fi
 
 ----
 
-Part One: _Les Années lumière_
+## Part One: _Les Années lumière_
 
-The first part of this six-hour historical film reenacts the last years of the Ancien Régime—from the convocation of the Estates-General of 1789 to the Insurrection of 10 August 1792. 
+The first part of this grand historical film reenacts the last years of the Ancien Régime—from the convocation of the Estates-General of 1789 to the Insurrection of 10 August 1792. 
 
-#### 11 June 1775: Coronation of Louis XVI
+Prior to its grand opening sequence featuring the Grand Canal and the Bassin de Latone in the Gardens of Versailles, the films nonetheless begins with a pre-edit scene back to 1775, when the 17-year-old **Maximilien de Robespierre** (Steve Carretero) delivers a Latin tribute to the newly crowned Louis XVI on behalf of his classmates at the Collège Louis-le-Grand, among whom stands the 15-year-old **Camille Desmoulins** (Philip-James Valentini). 
 
-Prior to its grand opening sequence featuring the Grand Canal and the Bassin de Latone in the Gardens of Versailles, the films nonetheless begins with a pre-edit scene back to 1775, when the 17-year-old **Maximilien de Robespierre** (Steve Carretero) delivers a Latin tribute to the newly crowned Louis XVI on behalf of his classmates at the Collège Louis-le-Grand, among whom stands the 15-year-old **Camille Desmoulins** (Philip-James Valentini). This anecdote was noted down by abbé Liévin-Bonaventure Proyart, then Robespierre's teacher at Louis-le-Grand and later his biographer:
+This anecdote was noted down by the abbé Liévin-Bonaventure Proyart, then Robespierre's teacher at Louis-le-Grand and later his biographer:
 
 >En 1775, Louis XVI, après la cérémonie de son sacre, fit son entrée solennelle dans Paris, accompagné de la reine et de la famille royale. Leurs majestés . . . s’arrêtèrent devant le collége de Louis-le-Grand, où elles furent complimentées par l'Université en corps. . . . et ce fut Robespierre que l'on chargea de le lui offrir au nom de ses condisciples, dans un discours en vers qu’avait composé son professeur. Le roi abaissa un regard de bonté sur ce jeune homme qui, élevé dans sa maison, devait un jour lui porter le premier coup de poignard. <br />
  > <p align="right">—Proyart, <em>La Vie de Maximilien de Robespierre</em> (1850)
 
-Nevertheless, the record of this fateful encounter is generally considered unsubstantiated. Moreover, it could not happen in 1774 according to the caption, as Louis XVI was crowned in Reims Cathedral on 11 June 1775. <br /><br />
+_Nevertheless, the record of this fateful encounter is generally considered unsubstantiated. Leastwise, it could not happen in 1774 according to the caption, as Louis XVI was crowned in Reims Cathedral on 11 June 1775._ <br /><br />
 
 
 #### Royal family in 1788
 
-In the opulent ball hosted in the Galerie des Glaces (Hall of Mirrors) of the Palace of Versailles, **Louis XVI** (Jean-François Balmer) and **Marie-Antoinette d'Autriche** (Jane Seymour, VF: Béatrice Delfe) make their first appearances. "Madame Déficit" is accompanied by her dancing partner **Axel von Fersen** (Jean-Yves Berteloot), her superintendent **Marie-Thérèse-Louise de Savoie-Carignan, princesse de Lamballe** (Gabrielle Lazure), and her favorite **Gabrielle de Polastron, duchesse de Polignac** (Claudia Cardinale). Polignac sits closer to the Queen at the casino table, reflecting Lamballe's gradual falling out of favor since 1785.
+In the opulent royal ball hosted in the Galerie des Glaces (Hall of Mirrors) of the Palace of Versailles, **Louis XVI** (Jean-François Balmer) and **Marie-Antoinette d'Autriche** (Jane Seymour, VF: Béatrice Delfe) make their first appearances. "Madame Déficit" is accompanied by her dancing partner **Axel von Fersen** (Jean-Yves Berteloot), her superintendent **Marie-Thérèse-Louise de Savoie-Carignan, princesse de Lamballe** (Gabrielle Lazure), and her favorite **Gabrielle de Polastron, duchesse de Polignac** (Claudia Cardinale). Polignac sits closer to the Queen at the casino table, reflecting Lamballe's gradual falling out of favor since 1785.
 
 Shortly afterwards, three royal childern appear at the Hameau de la Reine in the Petit Trianon of Versailles: Dauphin of France **Louis-Joseph** (Benji Marcus) riding a pony, his elder sister **Marie-Thérèse Charlotte**, or **Madame Royale** (Katherine Flynn), and their younger brother **Louis-Charles**, the future **Louis XVII** (Sean Flynn). Katherine and Sean are Seymour's daughter and son in real life. <br /><br />
 
 
 #### 21 January 1789: Summoning the Estates-General
 
-In the film, **Jacques Necker** (Raymond Gérôme), the esteemed Controller-General of Finances and Chief Minister of France, advices Louis XVI to summon the Estates-General in order to levy taxes to address the state deficit. This decision-making process is, however, much more tortuous in history, where the idea of restoring this legislative and consultative assembly after more than 170 years was first deliberated on the Assembly of Notables in 1787. 
+In the film, **Jacques Necker** (Raymond Gérôme), the esteemed Controller-General of Finances and Chief Minister of France, advices Louis XVI to summon the Estates-General in order to levy taxes to address the state deficit. _This decision-making process was, however, much more tortuous in history, where the idea of restoring this legislative and consultative assembly after more than 170 years was first deliberated on the Assembly of Notables in 1787._
 
 >‘It seems to me’, declared Lafayette in the bureau where he sat on 21 May, ‘that this is the moment for us to beseech His Majesty to fix, immediately, in order to render account to him of all measures and settle their happy outcome forever, the convocation of a truly national assembly.’ ‘What, Sir,’ burst out the Count d’Artois, the king’s brother, ‘are you calling for the Estates-General?’ ‘Yes, my lord,’ replied the young glory-hunter, ‘and even better than that.’ &nbsp;[WD]
 
-The date of the Estates-General was officially announced by the previous finance minister Étienne-Charles de Loménie de Brienne on 8 August 1788, before Necker's return to office on 24 August. A royal edict—_Règlement des États généraux de 1789_—was issued on 24 January, followed by the nationwide elections of the delegates from the three estates of realm. <br /><br />
+_The date of the Estates-General was officially announced by the previous finance minister Étienne-Charles de Loménie de Brienne on 8 August 1788, before Necker's return to office on 24 August. A royal edict_—Règlement des États généraux de 1789*—was issued on 24 January, followed by the nationwide elections of the delegates from the three estates of realm.* <br /><br />
 
 
 #### March–April 1789: Elections
 
-On 4 March 1789, inside a church in Guise, **Camille Desmoulins** (François Cluzet) plans to run for Estates-General deputy, together with his father **Jean-Benoist-Nicolas Desmoulins** (Jean-Marie Bernicat). Subsequently, Camille is compiling a Third-Estate _cahier de doléances_—a list of grievances raised by commoners, mainly against the privileges of the First and Second Estates. Camille unfortunately fails the election. Omitted in the film, Jean-Benoist-Nicolas was nominated, but declined due to health reasons. 
+On 4 March 1789, inside a church in Guise, **Camille Desmoulins** (François Cluzet) plans to run for Estates-General deputy, together with his father **Jean-Benoist-Nicolas Desmoulins** (Jean-Marie Bernicat). Subsequently, Camille is compiling a Third-Estate _cahier de doléances_—a list of grievances raised by commoners, mainly against the privileges of the First and Second Estates. Camille unfortunately fails the election. _Omitted in the film, Jean-Benoist-Nicolas was nominated, but declined due to health reasons._
 
-The disappointed Camille moves back to Paris. Walking down the Rue des Cordeliers (nowadays Rue de l'École-de-Médecine), meets **Antoine Simon** (Alain Frérot) the shoemaker, and **Louis Legendre** (Jean-François Stévenin) the butcher, both politicians-to-be. Seconds later, he greets his future wife **Lucile Desmoulins** (Marie Bunel) and in-laws **Claude-Étienne Laridon-Duplessis** (François Lalande) and **Anne-Françoise-Marie Bois de Veix** (Geneviève Mnich). Apparently, M. Duplessis is not very fond of Camille at this moment.
+The disappointed Camille moves back to Paris. Walking down the Rue des Cordeliers (nowadays Rue de l'École-de-Médecine), he meets **Antoine Simon** (Alain Frérot) the shoemaker, and **Louis Legendre** (Jean-François Stévenin) the butcher, both politicians-to-be. Seconds later, he greets his future wife **Lucile Desmoulins** (Marie Bunel) and in-laws **Claude-Étienne Laridon-Duplessis** (François Lalande) and **Anne-Françoise-Marie Bois de Veix** (Geneviève Mnich). Apparently, M. Duplessis is not very fond of Camille at this moment.
 
 >. . . although Camille's love for Lucile Duplessis grew with each meeting, his suit appeared too hopeless to be even hinted at to the girl's parents. M. Duplessis would simply have laughed at him; Madame Duplessis might have been kinder, but she most certainly would not have consented to think of the young man as her daughter's lover, desperately poor and desperately unsuccessful as he still was. <br />
  > <p align="right">—Violet Methley, <em>Camille Desmoulins: A Biography</em> (1914)
 
 A few key figures during the coming Revolution are introduced next: 
 
-In a Parisian bar, the wealth lawyer **Georges Jacques Danton** (Klaus Maria Brandauer, VF: Bernard Murat), reluctant to enter politics, chats with the influential **Honoré-Gabriel Riqueti, comte de Mirabeau** (Peter Ustinov, VF: Roger Carel), who, despite his noble status, is going to represent the Third Estate. **Jean-Paul Marat** (Vittorio Mezzogiorno, VF: Michel Vigné), physician and scientist, has undertaken political writings, whose _Offrande à la Patrie_ was published earlier that year.   
+In a Parisian bar, the wealthy lawyer **Georges Jacques Danton** (Klaus Maria Brandauer, VF: Bernard Murat), reluctant to enter politics, chats with the influential **Honoré-Gabriel Riqueti, comte de Mirabeau** (Peter Ustinov, VF: Roger Carel), who, despite his noble status, is going to represent the Third Estate. **Jean-Paul Marat** (Vittorio Mezzogiorno, VF: Michel Vigné), physician and scientist, has undertaken political writings, _whose_ Offrande à la Patrie _was published earlier that year._   
 
-It is not evident how the trajectories of Mirabeau, Danton, Desmoulins, Simon, Legendre, and Marat intersect in early 1789. Besides delineating the personal histories and dispositions of these characters, these scenes set up the community background of the future Club des Cordeliers.
+_It is not evident how the trajectories of Mirabeau, Danton, Desmoulins, Simon, Legendre, and Marat intersected in early 1789._ Besides delineating the personal histories and dispositions of these characters, these scenes set up the community background of the future Club des Cordeliers.
 
-While Mirabeau never conceals his passion for a colorful private life, Danton is known to be loyal to his wife **Antoinette Gabrielle Danton** (Marianne Basler), who, in the film, is carrying their future son Antoine at this time. However, Gabrielle's pregnancy as depicted seems not synchronized with Antoine's birth in June 1790. <br /><br />
+While Mirabeau never conceals his passion for a colorful private life, Danton is known to be loyal to his wife **Antoinette Gabrielle Danton** (Marianne Basler), who, in the film, is carrying their future son Antoine. _However, Gabrielle's pregnancy as depicted seems not synchronized with Antoine's birth in June 1790._ <br /><br />
 
 
 #### 5 May 1789: Opening of the Estates-General
@@ -87,15 +92,13 @@ This historic convention opens in the magnificent Hôtel des Menus-Plaisirs in V
 
 >The royal session took place the following day in the Salle des Menus Galleries, arranged in the form of an amphitheatre, were filled with spectators. The deputies were summoned and introduced according to the order established in 1614. The clergy were conducted to the right, the nobility to the left, and the commons in front of the throne at the end of the hall. &nbsp;[FAM]
 
-Among the 1139 delegates are 291 clergmen, 270 nobles, and 578 commoners. As depicted in the film, Louis XVI delivers a short opening speech, whose text is modified from the documentation:
+_Among the 1139 delegates were 291 clergmen, 270 nobles, and 578 commoners._ As depicted in the film, Louis XVI delivers a short opening speech, whose text is modified from the documentation:
 
->**Sa Majesté**
->
-> Puisse, Messieurs, un heureux accord régner dans cette Assemblée, et cette époque devenir à jamais mémorable pour le bonheur et la prospérité du royaume ! c'est le souhait de mon cœur, c'est le plus ardent de mes vœux, c'est enfin le prix que j'attends de la droiture de mes intentions et de mon amour pour mes peuples. Puisse, Messieurs, un heureux accord régner dans cette Assemblée, et cette époque devenir à jamais mémorable pour le bonheur et la prospérité du royaume ! c'est le souhait de mon cœur, c'est le plus ardent de mes vœux, c'est enfin le prix que j'attends de la droiture de mes intentions et de mon amour pour mes peuples.  
+>**Sa Majesté.** . . . Puisse, Messieurs, un heureux accord régner dans cette Assemblée, et cette époque devenir à jamais mémorable pour le bonheur et la prospérité du royaume ! c'est le souhait de mon cœur, c'est le plus ardent de mes vœux, c'est enfin le prix que j'attends de la droiture de mes intentions et de mon amour pour mes peuples. Puisse, Messieurs, un heureux accord régner dans cette Assemblée, et cette époque devenir à jamais mémorable pour le bonheur et la prospérité du royaume ! c'est le souhait de mon cœur, c'est le plus ardent de mes vœux, c'est enfin le prix que j'attends de la droiture de mes intentions et de mon amour pour mes peuples.  
 >
 >[AP, Tuesday 5 May 1789]
 
-After Charles-Louis-François de Paule de Barentin (Keeper of the Seals), Necker addresses to the assembly for three hours regarding the financial situation.
+Nicker addresses to the assembly for three hours regarding the financial situation.
 
 More notable figures show up in this reenactment: 
 
@@ -103,11 +106,11 @@ Sitting on the left-hand side of the Queen is **Charles-Philippe, comte d'Artois
 
 In the front row of nobility, we see **Gilbert du Motier, marquis de La Fayette** (Sam Neill, VF: Pierre Arditi). Even the 7-year-old Dauphin knows he is the hero of the American Independence War. 
 
-Among the clergy is abbé **Emmanuel-Joseph Sieyès** (Jean Bouchaud), political theorist and the author of _Qu'est-ce que le Tiers-État ?_ [_What Is the Third Estate?_]
+Among the clergy is the abbé **Emmanuel-Joseph Sieyès** (Jean Bouchaud), political theorist and the author of _Qu'est-ce que le Tiers-État ?_ [_What Is the Third Estate?_]
 
 Camille Desmoulins, attending the convention as a spectator, greets his old classmate **Maximilien de Robespierre** (Andrzej Seweryn), a Third-Estate deputy for Arras.  
 
-After the session, Desmoulins reunites with Robespierre at the latter's place. On the table lays a copy of Jean-Jacques Rousseau, _Du contrat social; ou, Principes du droit politique_ (first edition printed in 1762). They recollect the words of an old lecturer at Louis-le-Grand, which are resonant with the core questions in abbé Sieyès's _Qu'est-ce que le Tiers-État ?_ (1789):
+After the session, Desmoulins reunites with Robespierre at the latter's place. On the table lays a copy of Jean-Jacques Rousseau, _Du contrat social; ou, Principes du droit politique_ (first edition printed in 1762). They recollect the words of an old lecturer at Louis-le-Grand, which are resonant with the core questions in the abbé Sieyès's _Qu'est-ce que le Tiers-État ?_ (1789):
 
 >1º Qu’est-ce que le Tiers-État ? Tout. <br />
 >2º Qu’a-t-il été jusqu’à présent dans l’ordre politique ? Rien. <br />
@@ -115,11 +118,8 @@ After the session, Desmoulins reunites with Robespierre at the latter's place. O
 >
 >[1. What is the Third Estate? Everything;&nbsp; 2. What has it been hitherto in the political order? Nothing;&nbsp; 3. What does it desire to be? To become something.]
 
-<br />
 
-
-
-#### 20 June 1789: Tennis Court Oath
+#### <br /> 20 June 1789: Tennis Court Oath
 
 On June 4 1789, Louis-Joseph, Dauphin of France, dies at age seven of tuberculosis. Meanwhile, the tension between the estates in the convention ramps up.
 
@@ -140,16 +140,12 @@ The Oath can be found in _Gazette nationale ou le Moniteur universel_, the offic
 >["We swear never to separate from the National Assembly and to meet wherever circumstances require until the kingdom’s Constitution is established and grounded on solid foundations."]
 
 
-<br />
 
-
-#### 23 June 1789: _Séance royale_
+#### <br /> 23 June 1789: _Séance royale_
 
 This dramatic royal session is centered around the conflict between the privileged and the reformers, starting from the King's declarations nullifying the decisions of the National Assembly:
 
->**Sa Majesté** 
->
-> . . . Réfléchissez, Messieurs, qu'aucun de vos projets, aucune de vos dispositions ne peut avoir force de loi sans mon approbation spéciale. Ainsi, je suis le garant naturel de vos droits respectifs ; et tous les ordres de l'Etat peuvent se reposer sur mon équitable impartialité.
+>**Sa Majesté.** . . . Réfléchissez, Messieurs, qu'aucun de vos projets, aucune de vos dispositions ne peut avoir force de loi sans mon approbation spéciale. Ainsi, je suis le garant naturel de vos droits respectifs ; et tous les ordres de l'Etat peuvent se reposer sur mon équitable impartialité.
 >
 >Toute défiance de votre part serait une grande injustice. C'est moi, jusqu'à présent, qui fais tout le bonheur de mes peuples ; et il est rare peut-être que l'unique ambition d'un souverain soit d'obtenir de ses sujets qu'ils s'entendent enfin pour accepter ses bienfaits.
 >
@@ -184,12 +180,12 @@ Counteractions of the royal court include the dismissal of Necker and the milita
 
 This inspiring speech at the Café de Foy near the Galerie de Montpensier in the Palais-Royal is vividly reenacted in the film. So is the attack on the multitude in the Tuileries Garden by the German Régiment Royal-Allemand cavalerie commanded by **Charles Eugène de Lorraine, prince de Lambesc** (Mario Luraschi). 
 
-In the meantime, Danton launches his political career by orating at the Club des Cordeliers, although its synchronization with the Parisian insurrections is probably fictional. Among the enthusiastic crowd are Marat, Legendre, Simon, and the Saint-Domingue distiller **Claude Fournier l'Américain** (Georges Trillat). <br /><br />
+In the meantime, Danton launches his political career by orating at the Club des Cordeliers, _although its synchronization with the Parisian insurrections is probably fictional._ Among the enthusiastic crowd are Marat, Legendre, Simon, and the Saint-Domingue distiller **Claude Fournier l'Américain** (Georges Trillat). <br /><br />
 
 
 #### 14 July 1789: Storming of the Bastille
 
-The Bastille, demolished in late 1789, was "reconstructed" using the Château de Tarascon in Bouches-du-Rhône. Most narrative of this siege and sieze is historically accurate.
+The Bastille, demolished in late 1789, is "reconstructed" using the Château de Tarascon in Bouches-du-Rhône. Most narrative of this siege and sieze is historically accurate.
 
 The commanders of defense are **Bernard René Jourdan, marquis de Launay** (Henri Serre), governor of the Bastille, and Lieutenant **Ludwig von Flüe/Louis de Flue** (Philippe Chemin), commanding officer of the Swiss Guards from the Régiment de Salis-Samade. On the side of besiegers are **Stanislas-Marie Maillard** (Patrick Tessari), the "capitaine des volontaires de la Bastille," who stands on a plank over the moat to get the letter from de Launay, and **Pierre-Augustin Hulin** (Bernard Lepinaux), who leads one of the two mutinous columns of Gardes Françaises. **Jacques-Alexis Thuriot de la Rosière** (Michel Melki) serves as the negotiator between the two sides.
 
@@ -221,4 +217,7 @@ At night, Louis is informed of the seriousness of the fall of the Bastille by **
 >
 >[– Why, is this a revolt? — No, sire, it's a Revolution!]
 
-<br />
+
+<p align="right">
+(35 historical figures)
+</p>

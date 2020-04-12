@@ -13,9 +13,12 @@ tags: film
 
 #### 31 May–2 June 1793: Fall of the Girondins
 
+#### 13 July 1793: Assassination of Marat
+
+
 #### 30 March–5 April 1794: Fall of the Dantonists
 
-
+, M<sup>me</sup> Duplessis
 
 #### 26–28 July 1794: Fall of Maximilien Robespierre 
 
