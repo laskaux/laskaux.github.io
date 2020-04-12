@@ -18,8 +18,8 @@ tags: film
 | **Marie-Antoinette d'Autriche** | Queen of France |
 | **Marie-Thérèse Charlotte** | Madame Royale |
 | **Louis-Joseph** | Dauphin of France, died on 4 June 1789 | 
-|**Louis-Charles** | Dauphin of France after 4 June 1789, the future **Louis XVII** |
-**Charles-Philippe, comte d'Artois**| Younger brother of Louis XVI,  the future **Charles X** |
+|**Louis-Charles** | Dauphin of France after 4 June 1789; the future **Louis XVII** |
+**Charles-Philippe, comte d'Artois**| Younger brother of Louis XVI; the future **Charles X** |
 |**Madame Élisabeth** | Youngest sister of Louis XVI|
 
 
@@ -28,47 +28,43 @@ tags: film
 |**Louise-Élisabeth de Croÿ, marquise de Tourzel**| Governess of the Children of France after the exile of Polignac|
 |**Adélaïde Genet, Madame Auguié**| Attendant of the Queen|
 |**Jean-Baptiste Cléry** |Valet of the King|
-
+|**Antoine Louis** (mentioned)| King's physician, co-inventor of the guillotine|
 
 
 #### Deputies of the Estate-General
 
-<p align="center"> CLERGY </p>
-
+|CLERGY|
 |**Emmanuel-Joseph Sieyès**| Author of _Qu'est-ce que le Tiers-État ?_ |
-|**Anne-Louis-Henri de La Fare**| Bishop of Nancy |
-|**Jean-Sifrein Maury**| |
-
-<p align="center"> NOBLE </p>
-
+|**Anne-Louis-Henri de La Fare**| Bishop of Nancy, renounced feudal privileges on 4 Aug 1789 |
+|**Jean-Sifrein Maury**| Interrupted Danton on 10 Nov 1790|
+|NOBLES |
 |**Gilbert du Motier, marquis de La Fayette**  | First commander-in-chief of the Garde nationale (July 1789–Oct 1791)|
 |**François Alexandre Frédéric, duc de la Rochefoucauld-Liancourt** |President of the National Constituent Assembly (18 July–3 Aug 1789), "Non, sire, c'est une Révolution !"|
-|**Louis Marc Antoine, vicomte de Noailles** |
-|**Alexandre François Marie, vicomte de Beauharnais** |
-
-<p align="center"> THIRD-ESTATES </p>
-
-|**Jean Sylvain Bailly** | First president of the National Assembly (17 June–3 July 1789); first mayor of Paris (15 July 1789–18 Nov 1791)|
+|**Louis Marc Antoine, vicomte de Noailles** | Renounced feudal privileges on 4 Aug 1789|
+|**Alexandre François Marie, vicomte de Beauharnais** | Renounced feudal privileges on 4 Aug 1789|
+|THIRD-ESTATES |
 |**Honoré-Gabriel Riqueti, comte de Mirabeau** | |
 |**Maximilien de Robespierre** | |
-|**Isaac René Guy le Chapelier** |President (3–17 August 1789) on the night session of 4 August, deputy of Brittany|
-|**Jean-Joseph Mounier** | President (28 Sept–7 Oct 1789) during the October Days| 
-|**Joseph Ignace Guillotin**| Doctor, promoter of the guillotine |
+|**Jean Sylvain Bailly** | First president of the National Assembly (17 June–3 July 1789); first mayor of Paris (15 July 1789–18 Nov 1791)|
+|**Isaac René Guy le Chapelier** |President (3–17 August 1789) on the night session of 4 August; deputy of Brittany|
+|**Jean-Joseph Mounier** | President (28 Sept–7 Oct 1789) during the October Days|
+|**Félix-Julien-Jean Bigot de Préameneu**|President (15–29 Apr 1792) when France declared war on Austria|
+|**Pierre-Louis Rœderer**| Procureur général (Nov 1791-Dec 1793); led the royal family to the Assembly on 10 Aug 1792 
+|**Joseph Ignace Guillotin**| Physician, promoter of the guillotine |
+
 
 #### Club des Cordeliers
 
 |**Georges Jacques Danton**| | 
 |**Camille Desmoulins** | |
-|**Jean-Paul Marat**| |
+|**Jean-Paul Marat**| Physician |
 |**Antoine Simon**| Shoemaker|
 |**Louis Legendre**| Butcher|
 |**Claude Fournier l'Américain**| Distiller|
 |**Antoine-Joseph Santerre**|Leader of the demonstration on 20 June 1792 |
 |**Jacques-René Hébert** | |
 |**Jean-Lambert Tallien**| |
-
-<p align="center"> RELATIVES </p>
-
+| RELATIVES |
 |**Antoinette Gabrielle Danton**| Wife of Danton| 
 |**Jean-Benoist-Nicolas Desmoulins**| Father of Camille Desmoulins|
 |**Lucile Desmoulins**| Wife of Camille|
@@ -83,7 +79,7 @@ tags: film
 |**Jérôme Pétion de Villeneuve**| Second mayor of Paris|
 |**Pierre Victurnien Vergniaud** | |
 
-**Félix-Julien-Jean Bigot de Préameneu**
+
 
 
 #### Royalist politicians
@@ -124,12 +120,12 @@ tags: film
 
 #### Miscellaneous
 
-|**Stanislas-Marie Maillard**|
-|**Pierre-Augustin Hulin** |
-|**Jacques-Alexis Thuriot de la Rosière**|
+|**Stanislas-Marie Maillard**| "Captain of the Bastille Volunteers," leader of the Women's March on Versailles |
+|**Jacques-Alexis Thuriot de la Rosière**| Committe member of the Hôtel de ville, negotiator with de Launay at the Bastille
+|**Pierre-Augustin Hulin** | Sergeant of a mutinous column of Gardes Françaises
 |**Louison Chabry**| Flowergirl, delegate on 5 October 1789|
-|**Jean-Baptiste Drouet** | |
-|**Jean-Baptiste Sauce** | |
+|**Jean-Baptiste Drouet** | Postmaster of Sainte-Menehould |
+|**Jean-Baptiste Sauce** | Prosecutor of Varennes |
 |**Maurice Duplay**| Landlord of Robespierre|
 |**Éléonore Duplay**| Daughter of Maurice Duplay|
 
@@ -143,27 +139,30 @@ tags: film
 
 |**Hôtel des Menus-Plaisirs** | Estate-General; National Assembly (17 June–9 July 1789); National Consituent Assembly (9 July–6 Oct 1789) |
 
-<p align="center"> PARC DE VERSAILLES </p>
-
+| PARC DE VERSAILLES|
 |**Grand Canal**| Opening sequence 
 |**Bassin de Latone**| Opening sequence  
 |**Hameau de la Reine**| Louis-Joseph rides a pony
-
-<p align="center"> CHÂTEAU DE VERSAILLES </p>
-| **Galerie des Glaces**| Royal ball
-|**Opéra royal**| _Orgie des Gardes du corps_ (1 Otc 1789)
-
-
+| CHÂTEAU DE VERSAILLES|
+| **Galerie des Glaces**| Royal ball (1788)
+|**Opéra royal**| _Orgie des Gardes du corps_ (1 Oct 1789)
+|**Escalier de Marbre**| October Days (6 Oct 1789)
+|**Queen’s Guard Room**| October Days (6 Oct 1789)
+|**Chambre de la Reine**| Bedchamber of Marie-Antoinette; October Days (6 Oct 1789)
+|**Salon de l’Œil-de-Bœuf**| October Days (6 Oct 1789)
+|**Cour de Marble**| October Days (6 Oct 1789)
 
 
 #### Paris
 
 |**Bastille**| Storming of the Bastille (14 July 1789)|
 |**Salle du Manège**| National Constituent Assembly (6 Oct 1789–30 Sept 1791); National Legislative Assembly (1 Oct 1791–10 Aug 1792)
-|**Palais des Tuileries**| March of the _sans-culottes_ (20 June 1792; Insurrection of 10 Aug 1792)
-|**Jardin des Tuileries**| 
-
+|**Palais des Tuileries**| Residence of the royal family after 6 Oct 1789; March of the _sans-culottes_ (20 June 179); Insurrection of 10 Aug 1792
+|**Jardin des Tuileries**| Riot of 12 July 1789
 |**Champ de Mars** | _Fête de la Fédération_ (14 July 1790); Champ de Mars massacre (17 July 1791)|
+|**Hôtel de Ville**| Louis XVI visted Paris on 17 July 1789
+|**Barrière de Chaillot**| "Ket Ceremony" on 17 July 1789 (filmed in Hôtel de Ville)
+
 
 
 ----
@@ -223,7 +222,9 @@ _L'Ami du peuple, or Le Publiciste parisien_, No. 431 (16 April 1791) <br/><br/>
 "Ah ! ça ira, ça ira, ça ira," music from the contredanse "Le carillon national"
 
 **Rouget de Lisle** <br/>
-_Chant de guerre pour l'armée du Rhin_, or _La Marseillaise_ <br/><br/>
+_Chant de guerre pour l'armée du Rhin_, or _La Marseillaise_ 
+
+<br/>
 
 
 

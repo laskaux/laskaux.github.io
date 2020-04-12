@@ -254,7 +254,7 @@ Active in Section-business, one peril threatening all. Thus he, though an offici
 >[AP, Friday 10 August 1792]
 
 
-**Pierre-Louis Roederer** (Jerry Di Giacomo)
+**Pierre-Louis Rœderer** (Jerry Di Giacomo)
 
 
 

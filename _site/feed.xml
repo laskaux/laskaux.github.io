@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Sun, 12 Apr 2020 01:24:05 -0400</pubDate>
+    <pubDate>Sun, 12 Apr 2020 02:53:29 -0400</pubDate>
     
       <item>
         <title>A Cheet Sheet of &lt;em&gt;La Révolution&lt;/em&gt;&amp;colon;&amp;nbsp; I. &lt;em&gt;Les Années lumière&lt;/em&gt;</title>
@@ -35,11 +35,11 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Louis-Charles&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Dauphin of France after 4 June 1789, the future &lt;strong&gt;Louis XVII&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Dauphin of France after 4 June 1789; the future &lt;strong&gt;Louis XVII&lt;/strong&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Charles-Philippe, comte d’Artois&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Younger brother of Louis XVI,  the future &lt;strong&gt;Charles X&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Younger brother of Louis XVI; the future &lt;strong&gt;Charles X&lt;/strong&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Madame Élisabeth&lt;/strong&gt;&lt;/td&gt;
@@ -70,34 +70,37 @@
       &lt;td&gt;&lt;strong&gt;Jean-Baptiste Cléry&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;Valet of the King&lt;/td&gt;
     &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Antoine Louis&lt;/strong&gt; (mentioned)&lt;/td&gt;
+      &lt;td&gt;King’s physician, co-inventor of the guillotine&lt;/td&gt;
+    &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
 &lt;h4 id=&quot;deputies-of-the-estate-general&quot;&gt;Deputies of the Estate-General&lt;/h4&gt;
 
-&lt;p align=&quot;center&quot;&gt; CLERGY &lt;/p&gt;
-
 &lt;table&gt;
   &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;CLERGY&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Emmanuel-Joseph Sieyès&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;Author of &lt;em&gt;Qu’est-ce que le Tiers-État ?&lt;/em&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Anne-Louis-Henri de La Fare&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Bishop of Nancy&lt;/td&gt;
+      &lt;td&gt;Bishop of Nancy, renounced feudal privileges on 4 Aug 1789&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Jean-Sifrein Maury&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Interrupted Danton on 10 Nov 1790&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;NOBLES&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p align=&quot;center&quot;&gt; NOBLE &lt;/p&gt;
-
-&lt;table&gt;
-  &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Gilbert du Motier, marquis de La Fayette&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;First commander-in-chief of the Garde nationale (July 1789–Oct 1791)&lt;/td&gt;
@@ -108,22 +111,15 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Louis Marc Antoine, vicomte de Noailles&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Renounced feudal privileges on 4 Aug 1789&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Alexandre François Marie, vicomte de Beauharnais&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Renounced feudal privileges on 4 Aug 1789&lt;/td&gt;
     &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p align=&quot;center&quot;&gt; THIRD-ESTATES &lt;/p&gt;
-
-&lt;table&gt;
-  &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Jean Sylvain Bailly&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;First president of the National Assembly (17 June–3 July 1789); first mayor of Paris (15 July 1789–18 Nov 1791)&lt;/td&gt;
+      &lt;td&gt;THIRD-ESTATES&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Honoré-Gabriel Riqueti, comte de Mirabeau&lt;/strong&gt;&lt;/td&gt;
@@ -134,16 +130,28 @@
       &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Jean Sylvain Bailly&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;First president of the National Assembly (17 June–3 July 1789); first mayor of Paris (15 July 1789–18 Nov 1791)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Isaac René Guy le Chapelier&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;President (3–17 August 1789) on the night session of 4 August, deputy of Brittany&lt;/td&gt;
+      &lt;td&gt;President (3–17 August 1789) on the night session of 4 August; deputy of Brittany&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Jean-Joseph Mounier&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;President (28 Sept–7 Oct 1789) during the October Days&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Félix-Julien-Jean Bigot de Préameneu&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;President (15–29 Apr 1792) when France declared war on Austria&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Pierre-Louis Rœderer&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Procureur général (Nov 1791-Dec 1793); led the royal family to the Assembly on 10 Aug 1792&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Joseph Ignace Guillotin&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Doctor, promoter of the guillotine&lt;/td&gt;
+      &lt;td&gt;Physician, promoter of the guillotine&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -162,7 +170,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Jean-Paul Marat&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Physician&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Antoine Simon&lt;/strong&gt;&lt;/td&gt;
@@ -188,13 +196,10 @@
       &lt;td&gt;&lt;strong&gt;Jean-Lambert Tallien&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p align=&quot;center&quot;&gt; RELATIVES &lt;/p&gt;
-
-&lt;table&gt;
-  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;RELATIVES&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Antoinette Gabrielle Danton&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;Wife of Danton&lt;/td&gt;
@@ -240,8 +245,6 @@
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-
-&lt;p&gt;&lt;strong&gt;Félix-Julien-Jean Bigot de Préameneu&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;royalist-politicians&quot;&gt;Royalist politicians&lt;/h4&gt;
 
@@ -350,15 +353,15 @@
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Stanislas-Marie Maillard&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Pierre-Augustin Hulin&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;“Captain of the Bastille Volunteers,” leader of the Women’s March on Versailles&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Jacques-Alexis Thuriot de la Rosière&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Committe member of the Hôtel de ville, negotiator with de Launay at the Bastille&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Pierre-Augustin Hulin&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Sergeant of a mutinous column of Gardes Françaises&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Louison Chabry&lt;/strong&gt;&lt;/td&gt;
@@ -366,11 +369,11 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Jean-Baptiste Drouet&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Postmaster of Sainte-Menehould&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Jean-Baptiste Sauce&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Prosecutor of Varennes&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Maurice Duplay&lt;/strong&gt;&lt;/td&gt;
@@ -400,10 +403,12 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p align=&quot;center&quot;&gt; PARC DE VERSAILLES &lt;/p&gt;
-
 &lt;table&gt;
   &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PARC DE VERSAILLES&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Grand Canal&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;Opening sequence&lt;/td&gt;
@@ -416,12 +421,40 @@
       &lt;td&gt;&lt;strong&gt;Hameau de la Reine&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;Louis-Joseph rides a pony&lt;/td&gt;
     &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;CHÂTEAU DE VERSAILLES&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Galerie des Glaces&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Royal ball (1788)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Opéra royal&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;Orgie des Gardes du corps&lt;/em&gt; (1 Oct 1789)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Escalier de Marbre&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;October Days (6 Oct 1789)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Queen’s Guard Room&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;October Days (6 Oct 1789)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Chambre de la Reine&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Bedchamber of Marie-Antoinette; October Days (6 Oct 1789)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Salon de l’Œil-de-Bœuf&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;October Days (6 Oct 1789)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Cour de Marble&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;October Days (6 Oct 1789)&lt;/td&gt;
+    &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-
-&lt;p align=&quot;center&quot;&gt; CHÂTEAU DE VERSAILLES &lt;/p&gt;
-&lt;p&gt;| &lt;strong&gt;Galerie des Glaces&lt;/strong&gt;| Royal ball
-|&lt;strong&gt;Opéra royal&lt;/strong&gt;| &lt;em&gt;Orgie des Gardes du corps&lt;/em&gt; (1 Otc 1789)&lt;/p&gt;
 
 &lt;h4 id=&quot;paris&quot;&gt;Paris&lt;/h4&gt;
 
@@ -437,20 +470,23 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Palais des Tuileries&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;March of the &lt;em&gt;sans-culottes&lt;/em&gt; (20 June 1792; Insurrection of 10 Aug 1792)&lt;/td&gt;
+      &lt;td&gt;Residence of the royal family after 6 Oct 1789; March of the &lt;em&gt;sans-culottes&lt;/em&gt; (20 June 179); Insurrection of 10 Aug 1792&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Jardin des Tuileries&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Riot of 12 July 1789&lt;/td&gt;
     &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;table&gt;
-  &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Champ de Mars&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;&lt;em&gt;Fête de la Fédération&lt;/em&gt; (14 July 1790); Champ de Mars massacre (17 July 1791)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Hôtel de Ville&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Louis XVI visted Paris on 17 July 1789&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Barrière de Chaillot&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;“Ket Ceremony” on 17 July 1789 (filmed in Hôtel de Ville)&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -512,7 +548,9 @@
 “Ah ! ça ira, ça ira, ça ira,” music from the contredanse “Le carillon national”&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Rouget de Lisle&lt;/strong&gt; &lt;br /&gt;
-&lt;em&gt;Chant de guerre pour l’armée du Rhin&lt;/em&gt;, or &lt;em&gt;La Marseillaise&lt;/em&gt; &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;em&gt;Chant de guerre pour l’armée du Rhin&lt;/em&gt;, or &lt;em&gt;La Marseillaise&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 11 Apr 2020 00:00:00 -0400</pubDate>
@@ -817,7 +855,7 @@ Active in Section-business, one peril threatening all. Thus he, though an offici
   &lt;p&gt;[AP, Friday 10 August 1792]&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;strong&gt;Pierre-Louis Roederer&lt;/strong&gt; (Jerry Di Giacomo)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Pierre-Louis Rœderer&lt;/strong&gt; (Jerry Di Giacomo)&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Éléonore Duplay&lt;/strong&gt; (Fabienne Tricottet)&lt;/p&gt;
 
