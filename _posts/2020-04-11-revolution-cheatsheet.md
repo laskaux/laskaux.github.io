@@ -155,15 +155,20 @@ tags: film
 
 #### Paris
 
-|**Bastille**| Storming of the Bastille (14 July 1789)|
+|**Bastille**| |
 |**Salle du Manège**| National Constituent Assembly (6 Oct 1789–30 Sept 1791); National Legislative Assembly (1 Oct 1791–10 Aug 1792)
-|**Palais des Tuileries**| Residence of the royal family after 6 Oct 1789; March of the _sans-culottes_ (20 June 179); Insurrection of 10 Aug 1792
+|**Palais des Tuileries**| Residence of the royal family after 6 Oct 1789; Demonstration of 20 June 1792; Insurrection of 10 Aug 1792
 |**Jardin des Tuileries**| Riot of 12 July 1789
+|**Café de Foy**, near **Galerie de Montpensier, Palais-Royal**| Camille Desmoulins's speech on 12 July 1789
 |**Champ de Mars** | _Fête de la Fédération_ (14 July 1790); Champ de Mars massacre (17 July 1791)|
 |**Hôtel de Ville**| Louis XVI visted Paris on 17 July 1789
 |**Barrière de Chaillot**| "Ket Ceremony" on 17 July 1789 (filmed in Hôtel de Ville)
+|**Château de Saint-Cloud**|Mirabeau's rendezvous with the Queen on 2 July 1790|
+|**1 Cour du Commerce Saint-André**| Danton's apartment
+|**8 Cour du Commerce Saint-André**| Marat's printing house
+|**398 Rue Saint-Honoré**| House of Maurice Duplay; Robespierre's residence after 17 July 1789
 
-
+<br/>
 
 ----
 ## Insurrections

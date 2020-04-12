@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Sun, 12 Apr 2020 02:53:29 -0400</pubDate>
+    <pubDate>Sun, 12 Apr 2020 03:20:29 -0400</pubDate>
     
       <item>
         <title>A Cheet Sheet of &lt;em&gt;La Révolution&lt;/em&gt;&amp;colon;&amp;nbsp; I. &lt;em&gt;Les Années lumière&lt;/em&gt;</title>
@@ -462,7 +462,7 @@
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Bastille&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Storming of the Bastille (14 July 1789)&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Salle du Manège&lt;/strong&gt;&lt;/td&gt;
@@ -470,11 +470,15 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Palais des Tuileries&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Residence of the royal family after 6 Oct 1789; March of the &lt;em&gt;sans-culottes&lt;/em&gt; (20 June 179); Insurrection of 10 Aug 1792&lt;/td&gt;
+      &lt;td&gt;Residence of the royal family after 6 Oct 1789; Demonstration of 20 June 1792; Insurrection of 10 Aug 1792&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Jardin des Tuileries&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;Riot of 12 July 1789&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Café de Foy&lt;/strong&gt;, near &lt;strong&gt;Galerie de Montpensier, Palais-Royal&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Camille Desmoulins’s speech on 12 July 1789&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Champ de Mars&lt;/strong&gt;&lt;/td&gt;
@@ -488,8 +492,26 @@
       &lt;td&gt;&lt;strong&gt;Barrière de Chaillot&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;“Ket Ceremony” on 17 July 1789 (filmed in Hôtel de Ville)&lt;/td&gt;
     &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Château de Saint-Cloud&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Mirabeau’s rendezvous with the Queen on 2 July 1790&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;1 Cour du Commerce Saint-André&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Danton’s apartment&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;8 Cour du Commerce Saint-André&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Marat’s printing house&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;398 Rue Saint-Honoré&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;House of Maurice Duplay; Robespierre’s residence after 17 July 1789&lt;/td&gt;
+    &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;h2 id=&quot;insurrections&quot;&gt;Insurrections&lt;/h2&gt;
