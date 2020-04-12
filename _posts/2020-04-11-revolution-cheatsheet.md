@@ -12,7 +12,7 @@ tags: film
 
 ## Historical figures
 
-#### The royal family and court
+#### Royal family and court
 
 |**Louis XVI** |King of France|
 | **Marie-Antoinette d'Autriche** | Queen of France |
@@ -33,16 +33,21 @@ tags: film
 
 #### Deputies of the Estate-General
 
-|CLERGY|
+<p align="center"> CLERGY </p>
+
 |**Emmanuel-Joseph Sieyès**| Author of _Qu'est-ce que le Tiers-État ?_ |
 |**Anne-Louis-Henri de La Fare**| Bishop of Nancy |
 |**Jean-Sifrein Maury**| |
-|NOBLES|
+
+<p align="center"> NOBLE </p>
+
 |**Gilbert du Motier, marquis de La Fayette**  | First commander-in-chief of the Garde nationale (July 1789–Oct 1791)|
 |**François Alexandre Frédéric, duc de la Rochefoucauld-Liancourt** |President of the National Constituent Assembly (18 July–3 Aug 1789), "Non, sire, c'est une Révolution !"|
 |**Louis Marc Antoine, vicomte de Noailles** |
 |**Alexandre François Marie, vicomte de Beauharnais** |
-|THIRD-ESTATES|
+
+<p align="center"> THIRD-ESTATES </p>
+
 |**Jean Sylvain Bailly** | First president of the National Assembly (17 June–3 July 1789); first mayor of Paris (15 July 1789–18 Nov 1791)|
 |**Honoré-Gabriel Riqueti, comte de Mirabeau** | |
 |**Maximilien de Robespierre** | |
@@ -61,7 +66,9 @@ tags: film
 |**Antoine-Joseph Santerre**|Leader of the demonstration on 20 June 1792 |
 |**Jacques-René Hébert** | |
 |**Jean-Lambert Tallien**| |
-|RELATIVES|
+
+<p align="center"> RELATIVES </p>
+
 |**Antoinette Gabrielle Danton**| Wife of Danton| 
 |**Jean-Benoist-Nicolas Desmoulins**| Father of Camille Desmoulins|
 |**Lucile Desmoulins**| Wife of Camille|
@@ -135,11 +142,14 @@ tags: film
 #### Versailles
 
 |**Hôtel des Menus-Plaisirs** | Estate-General; National Assembly (17 June–9 July 1789); National Consituent Assembly (9 July–6 Oct 1789) |
-|PARC DE VERSAILLES
+
+<p align="center"> PARC DE VERSAILLES </p>
+
 |**Grand Canal**| Opening sequence 
 |**Bassin de Latone**| Opening sequence  
 |**Hameau de la Reine**| Louis-Joseph rides a pony
-|CHÂTEAU DE VERSAILLES|
+
+<p align="center"> CHÂTEAU DE VERSAILLES </p>
 | **Galerie des Glaces**| Royal ball
 |**Opéra royal**| _Orgie des Gardes du corps_ (1 Otc 1789)
 
