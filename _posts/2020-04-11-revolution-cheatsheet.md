@@ -80,7 +80,7 @@ tags: film
 
 |**Jacques Pierre Brissot**| Girondist |
 |**Pierre Victurnien Vergniaud** | Girondist |
-
+|**Jean-François Merlet**| President of the National Legislative Assembly (3–20 Aug 1792) |
 
 #### Royalist politicians
 
@@ -90,7 +90,6 @@ tags: film
 |**Jérôme Champion de Cicé**| Minister of Justice (Keeper of the Seals), dismissed in November 1790 | 
 |**François-Emmanuel Guignard, comte de Saint-Priest**| Minister of Interior Affairs, dismissed in 1791 |
 |**Armand Marc, comte de Montmorin Saint-Hérem**| Minister of Foreign Affairs, agent of Mirabeau|
-
 
 #### Military personnel
 
@@ -104,16 +103,10 @@ tags: film
 |**François Claude Amour, marquis de Bouillé**| Cousin of La Fayette
 |**Claude-Antoine-Gabriel, duc de Choiseul**|Commander of the hussars of Régiment de Lauzun; arrested in Varennes|
 |**Jean-Louis Romeuf**| Aide-de-camp of La Fayette; bore the order to intercept the fleeing King
-|**Louis-François de Civalart** | Commander of the Austrian troop at Marquain, Belgium |
+|**Louis-François de Civalart** | Commander of the Austrian troop at Marquain, Belgium | 
 |**Karl Wilhelm Ferdinand von Braunschweig-Wolfenbüttel**| Commander of the Austrian-Prussian army|
-|**Theobald de Dillon** (mentioned)| |
-
-
-
-
-
-
-
+|**Theobald de Dillon** (mentioned)| Commander of the Régiment de Dillon, murdered on 29 Apr 1792  |
+|**Antoine Galiot Mandat de Grancey** (mentioned)| Commander-in-chief of the Garde nationale after La Fayette; murdered on 10 Aug 1792  |
 
 
 #### Miscellaneous
@@ -152,15 +145,17 @@ tags: film
 #### Paris
 
 |**Bastille**| |
-|**Salle du Manège**| National Constituent Assembly (6 Oct 1789–30 Sept 1791); National Legislative Assembly (1 Oct 1791–20 Sept 1792)
+|**Salle du Manège**| National Constituent Assembly (6 Oct 1789–30 Sept 1791); Legislative Assembly (1 Oct 1791–20 Sept 1792)
 |**Palais des Tuileries**| Residence of the royal family after 6 Oct 1789; Demonstration of 20 June 1792; Insurrection of 10 Aug 1792
 |**Jardin des Tuileries**| Riot of 12 July 1789
-|**Café de Foy**, near **Galerie de Montpensier, Palais-Royal**| Camille Desmoulins's speech on 12 July 1789
+|**Café de Foy, Galerie de Montpensier, Palais-Royal**| Camille Desmoulins's speech on 12 July 1789
 |**Champ de Mars** | _Fête de la Fédération_ (14 July 1790); Champ de Mars massacre (17 July 1791)|
 |**Hôtel de Ville**| Louis XVI visted Paris on 17 July 1789
-|**Barrière de Chaillot**| "Ket Ceremony" on 17 July 1789 (filmed in Hôtel de Ville)
+|**Barrière de Chaillot**| "Key Ceremony" on 17 July 1789 (filmed in Hôtel de Ville)
 |**Château de Saint-Cloud**|Mirabeau's rendezvous with the Queen on 2 July 1790|
 |**Louis-le-Grand**| Alma Mater of Robespierre and Camille Desmoulins
+|**Couvent des Cordeliers**| Club des Cordeliers
+|**Couvent des Jacobins de la rue Saint-Honoré**| Club des Jacobins|
 |**1 Cour du Commerce Saint-André**| Danton's apartment
 |**8 Cour du Commerce Saint-André**| Marat's printing house
 |**398 Rue Saint-Honoré**| House of Maurice Duplay; Robespierre's residence after 17 July 1791
@@ -176,11 +171,15 @@ tags: film
 
 **[5–6 Oct 1789]**&nbsp; Women's March on Versailles
 
+**[31 Aug 1790]**&nbsp; Nancy Mutiny
+
 **[17 July 1791]**&nbsp; Champ de Mars massacre
 
 **[20 June 1792]**&nbsp; March of the _sans-culottes_
 
 **[10 Aug 1792]**&nbsp; Assault on the Tuileries
+
+<br/>
 
 ----
 
