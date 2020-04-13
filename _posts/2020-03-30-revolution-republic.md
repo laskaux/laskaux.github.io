@@ -228,37 +228,54 @@ This battle hymn is none other than _Chant de guerre pour l'armée du Rhin_, or 
 
 #### Insurrection of 10 August 1792
 
-> The threat added to the popular conviction that Louis was com- plicit in the defeats being suffered by the army. In response, all but one of the forty-eight sections of Paris voted to form a Commune of Paris to organize insurrection and an army of 20,000 _sans-culottes_ from the newly democratized National Guard. Joined by _fédérés_, volunteers from the provinces on their way to the front, these _sans-culottes_, led by Santerre and other sectional commanders, assaulted and took the Tuileries palace on 10 August. Among the women involved in the fighting was Théroigne de Méricourt, well known with Pauline Léon for advocating women’s right to bear arms. After Louis took refuge in the nearby Assembly, 600 Swiss guards, the palace’s main defenders, were killed in the fighting or subsequently in bloody acts of retribution.  &nbsp;[PM]
+Robespierre, at his residence in Maurice Duplay's house, exchanges opinions on the ongoing politcal instability with Desmoulins and Danton, who is conspiring an armed insurrection against the royalists. Robespierre expresses his objection to dictatorship and faith to the constitution, but conceives its implementation through a new "National Convention." **Éléonore Duplay** (Fabienne Tricottet)—Maurice's eldest daughter—quickly appears and serves tea.
+
+This meeting is likely to be fictional, but it conveys the views of these revolutionary leaders at this time. Moreover, Duplay's house was indeed used as a meeting place for planning the insurrection of 10 August.
+
+> It was now certain that the demonstration of June 20th would have a more violent sequel. Already at the Jacobins on July 15th Danton’s bitter young secretary, the ex-Oratorian teacher, dramatist, and pamphleteer, Billaud-Varenne, had outlined a programme for the next insurrection. Exile the king, he had said: dismiss the generals; elect a National Convention; transfer the royal veto to the people; appoint a new Civil Service; arrest Luckner and Lafayette; deport all public enemies; exempt the poor from taxation. This programme was repeated almost intact in a strongly worded manifesto drawn up by Robespierre, and declaimed by a federal orator at the bar of the House. . . .
+>
+>Already (July 15th) a co-ordinating committee had been formed of one federal from each department. Within this body soon appeared a secret committee of five members. Vaugeois of Blois, Debesse of the Drôme, Guillaume of Caen, and Simon of Strasbourg were names as little known in Paris as they are to history; but they were the authors of a movement that shook France. They met at Duplay’s house in the rue Saint-Honoré, where Robespierre had his lodgings, in a room occupied by their fifth member, Antoine, the mayor of Metz, during his visits to Paris.
+> <p align="right">—J. M. Thompson, <em>The French Revolution</em> (1944)
+
+Meanwhile, Danton succeeds in transferring the _fédérés_ from Marseilles into an insurgent troop.
 
 > President Danton, in the Cordeliers Section, does another
 thing: invites all Passive Citizens to take place among the
 Active in Section-business, one peril threatening all. Thus he, though an official person; cloudy Atlas of the whole. Likewise he manages to have that blackbrowed Battalion of Marseillese shifted to new Barracks, in his own region of the remote Southeast.
 > <p align="right">—Thomas Carlyle, <em>The French Revolution: A History</em>, Vol. 2 (1923)
 
+The night before the rebellion is painted with some humanistic color:
+
+> The outcome was never really in doubt. But as the tocsin rang through the night of the ninth-tenth of August, many of the men who made their way towards the Hôtel de Ville were apprehensive. After dinner Camille Desmoulins and his wife had gone to Danton’s apartment to try to stiffen their morale but had found Danton’s wife Gabrielle in floods of tears. Lucile, who remembered herself “laughing like a madwoman,” took Danton’s wife for some air in the street and found a great crowd in the apartment when they got back, everyone trying to outdo each other with grandiloquent utterances that seemed appropriate to their overwrought sense of historymaking. But beneath the oracular declarations, agitation and fear put everyone on edge. When Camille set off into the night, carrying a musket and promising his wife to stay with the reassuringly enormous figure of Danton, she too began to weep passionately.
+> <p align="right">—Simon Schama, <em>Citizens: A Chronicle of the French Revolution</em> (1989)
+
+
 **Jean-Lambert Tallien**
 **Jacques-René Hébert** (Georges Corraface)
 
+**Pierre-Louis Rœderer** (Jerry Di Giacomo)
+
 > While all this was passing at the Tuileries, the insurgents were advancing in several columns; they had passed the night in assembling, and becoming organized. . . . At this moment Roederer arrived, and increased the alarm of the court by announcing that the danger was extreme; that the insurgents would not be treated with, and that the national guard could not be depended upon. “Sire,” said he, urgently, “your majesty has not  ve minutes to lose: your only safety is in the national assembly; it is the opinion of the department that you ought to repair thither without delay. There are not sufficient men in the court to defend the chateau; nor are we sure of them.” . . . at the renewed urgency of Roederer, the king after looking at him attentively for a few minutes, turned to the queen, and said, as he rose: “Let us go.” “Monsieur Roederer,” said Madame Elizabeth, addressing the recorder, “you answer for the life of the king?” “Yes, madame, with my own,” he replied. “I will walk immediately before him.”
 >
-> Louis XVI. left his chamber with his family, ministers, and the members of the department, and announced to the persons assembled for the defence of the chateau that he was going to the national assembly. He placed himself between two ranks of national guards, summoned to escort him, and crossed the apartments and garden of the Tuileries. A deputation of the assembly, apprised of his approach, came to meet him: “Sire,” said the president of this deputation, “the assembly, eager to provide for your safety, offers you and your family an asylum in its bosom.” The procession resumed its march, and had some dif culty in crossing the terrace of the Tuileries, which was crowded with an animated mob, breathing forth threats and insults. The king and his family had great dif culty in reaching the hall of the assembly, where they took the seats reserved for the ministers. “Gentlemen,” said the king, “I come here to avoid a great crime; I think I cannot be safer than with you.” “Sire,” replied Vergniaud, who  lled the chair, “you may rely on the firmness of the national assembly. Its members have sworn to die in maintaining the rights of the people, and the constituted authorities.” The king then took his seat next the president. But Chabot reminded him that the assembly could not deliberate in the presence of the king, and Louis XVI. retired with his family and ministers into the reporter’s box behind the president, whence all that took place could be seen and heard.  &nbsp;[FAM]
+> Louis XVI. left his chamber with his family, ministers, and the members of the department, and announced to the persons assembled for the defence of the chateau that he was going to the national assembly. He placed himself between two ranks of national guards, summoned to escort him, and crossed the apartments and garden of the Tuileries. A deputation of the assembly, apprised of his approach, came to meet him: “Sire,” said the president of this deputation, “the assembly, eager to provide for your safety, offers you and your family an asylum in its bosom.” The procession resumed its march, and had some dif culty in crossing the terrace of the Tuileries, which was crowded with an animated mob, breathing forth threats and insults. The king and his family had great dif culty in reaching the hall of the assembly, where they took the seats reserved for the ministers. “Gentlemen,” said the king, “I come here to avoid a great crime; I think I cannot be safer than with you.” “Sire,” replied Vergniaud, who filled the chair, “you may rely on the firmness of the national assembly. Its members have sworn to die in maintaining the rights of the people, and the constituted authorities.” The king then took his seat next the president. But Chabot reminded him that the assembly could not deliberate in the presence of the king, and Louis XVI. retired with his family and ministers into the reporter’s box behind the president, whence all that took place could be seen and heard.  &nbsp;[FAM]
 
+The president of the Assembly session was **Jean-François Merlet**.
 
 >**Le Roi.**&nbsp; Je suis venu ici pour éviter un grand crime, et je me croirai toujours en sûreté avec ma famille, au milieu des représentants de la nation. (Applaudissements.) 
 >
 >J'y passerai la journée. (Applaudissements.)
 >
->**M. le Président** (M. Vergniaud).&nbsp; L'Assemblée nationale connaît tous ses devoirs. Elle regarde comme un des plus chers le maintien de toutes les autorités constituées. 
+>**M. le Président** (M. Merlet).&nbsp; L'Assemblée nationale connaît tous ses devoirs. Elle regarde comme un des plus chers le maintien de toutes les autorités constituées. 
 >
 >Elle demeurera ferme à son poste. Nous saurons tous y mourir. (Applaudissements.)
 >
 >[AP, Friday 10 August 1792]
 
 
-**Pierre-Louis Rœderer** (Jerry Di Giacomo)
 
 
 
-**Éléonore Duplay** (Fabienne Tricottet)
+
 
 > Nevertheless it was the Swiss who opened fire, and that sealed their fate when the commune’s forces gained the upper hand after about an hour. Once the Swiss began to retreat, they were pursued by mobs of bystanders without firearms who hacked them to death with knives, pikes, and hatchets, and tore their uniforms to pieces to make trophies. Altogether 600 of them perished, some in supposed safe custody after the siege was over. Less than half that number fell among the besiegers, 90 of them fédérés, and the rest the same sort of shopkeepers, petty tradesmen, and artisans who had been so prominent in the 1789 journées and on 20 June. It was the bloodiest day of the Revolution so far, but also one of the most decisive. Though the king and his family remained unscathed, his authority fell with his palace. As crowds rampaged through Paris destroying all symbols and images of royalty down to the very word ‘king’ in street names, the Legislative Assembly declared the monarchy suspended until a national Convention had met to decide on the future form of government. &nbsp;[WD]
 

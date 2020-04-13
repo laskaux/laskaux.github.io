@@ -26,23 +26,24 @@ tags: film
 |**Marie-Thérèse-Louise de Savoie-Carignan, princesse de Lamballe**| Superintendent of the Household to the Queen |
 |**Gabrielle de Polastron, duchesse de Polignac**| Governess of the Children of France |
 |**Louise-Élisabeth de Croÿ, marquise de Tourzel**| Governess of the Children of France after the exile of Polignac|
+|**Axel von Fersen**|Swedish noble, friend of Marie-Antoinette|
 |**Adélaïde Genet, Madame Auguié**| Attendant of the Queen|
 |**Jean-Baptiste Cléry** |Valet of the King|
-|**Antoine Louis** (mentioned)| King's physician, co-inventor of the guillotine|
+|**Antoine Louis** (mentioned)| King's physician; co-inventor of the guillotine|
 
 
 #### Deputies of the Estate-General
 
-|CLERGY|
+|I. CLERGY|
 |**Emmanuel-Joseph Sieyès**| Author of _Qu'est-ce que le Tiers-État ?_ |
 |**Anne-Louis-Henri de La Fare**| Bishop of Nancy, renounced feudal privileges on 4 Aug 1789 |
 |**Jean-Sifrein Maury**| Interrupted Danton on 10 Nov 1790|
-|NOBLES |
+|II. NOBLES |
 |**Gilbert du Motier, marquis de La Fayette**  | First commander-in-chief of the Garde nationale (July 1789–Oct 1791)|
 |**François Alexandre Frédéric, duc de la Rochefoucauld-Liancourt** |President of the National Constituent Assembly (18 July–3 Aug 1789), "Non, sire, c'est une Révolution !"|
 |**Louis Marc Antoine, vicomte de Noailles** | Renounced feudal privileges on 4 Aug 1789|
 |**Alexandre François Marie, vicomte de Beauharnais** | Renounced feudal privileges on 4 Aug 1789|
-|THIRD-ESTATES |
+|III. THIRD-ESTATES |
 |**Honoré-Gabriel Riqueti, comte de Mirabeau** | |
 |**Maximilien de Robespierre** | |
 |**Jean Sylvain Bailly** | First president of the National Assembly (17 June–3 July 1789); first mayor of Paris (15 July 1789–18 Nov 1791)|
@@ -50,18 +51,20 @@ tags: film
 |**Jean-Joseph Mounier** | President (28 Sept–7 Oct 1789) during the October Days|
 |**Félix-Julien-Jean Bigot de Préameneu**|President (15–29 Apr 1792) when France declared war on Austria|
 |**Pierre-Louis Rœderer**| Procureur général (Nov 1791-Dec 1793); led the royal family to the Assembly on 10 Aug 1792 
-|**Joseph Ignace Guillotin**| Physician, promoter of the guillotine |
+|**Jérôme Pétion de Villeneuve**| Second mayor of Paris (18 Nov 1791–15 Oct 1792); Girondist |
+|**Joseph Ignace Guillotin**| Physician; promoter of the guillotine |
 
 
 #### Club des Cordeliers
 
 |**Georges Jacques Danton**| | 
 |**Camille Desmoulins** | |
-|**Jean-Paul Marat**| Physician |
+|**Jean-Paul Marat**|  |
 |**Antoine Simon**| Shoemaker|
 |**Louis Legendre**| Butcher|
 |**Claude Fournier l'Américain**| Distiller|
-|**Antoine-Joseph Santerre**|Leader of the demonstration on 20 June 1792 |
+|**Antoine-Joseph Santerre**|Leader of the uprisings on 20 June and 10 Aug 1792 |
+|**Stanislas-Marie Maillard**| "Captain of the Bastille Volunteers"; leader of the Women's March on Versailles |
 |**Jacques-René Hébert** | |
 |**Jean-Lambert Tallien**| |
 | RELATIVES |
@@ -75,11 +78,8 @@ tags: film
 
 #### Club des Jacobins
 
-|**Jacques Pierre Brissot**| 
-|**Jérôme Pétion de Villeneuve**| Second mayor of Paris|
-|**Pierre Victurnien Vergniaud** | |
-
-
+|**Jacques Pierre Brissot**| Girondist |
+|**Pierre Victurnien Vergniaud** | Girondist |
 
 
 #### Royalist politicians
@@ -90,28 +90,26 @@ tags: film
 |**Jérôme Champion de Cicé**| Minister of Justice (Keeper of the Seals), dismissed in November 1790 | 
 |**François-Emmanuel Guignard, comte de Saint-Priest**| Minister of Interior Affairs, dismissed in 1791 |
 |**Armand Marc, comte de Montmorin Saint-Hérem**| Minister of Foreign Affairs, agent of Mirabeau|
-|**François Claude Amour, marquis de Bouillé**|
-|**Claude-Antoine-Gabriel, duc de Choiseul**
-
 
 
 #### Military personnel
 
 |**Charles Eugène de Lorraine, prince de Lambesc**| Commander of the Royal-Allemand cavalry in the riot of 12 July 1789| 
 |**Bernard René Jourdan, marquis de Launay** |Governor of the Bastille, lynched on 14 July 1789|
+|**Ludwig von Flüe/Louis de Flue**| Commander of the Swiss Guards at the Bastille|
 |**Marquis d’Aguesseau**| Major of the Garde du corps du roi at Versailles|
 |**Miomandre de Sainte-Marie**| Guard of the Queen, killed on 6 Oct 1789| 
 |**Tardivet du Repaire**|Guard of the Queen, killed on 6 Oct 1789|
-|**Jean-Louis Romeuf**|
+|**André Soret**| Ringleader of the Swiss mutineers in Nancy|
+|**François Claude Amour, marquis de Bouillé**| Cousin of La Fayette
+|**Claude-Antoine-Gabriel, duc de Choiseul**|Commander of the hussars of Régiment de Lauzun; arrested in Varennes|
+|**Jean-Louis Romeuf**| Aide-de-camp of La Fayette; bore the order to intercept the fleeing King
+|**Louis-François de Civalart** | Commander of the Austrian troop at Marquain, Belgium |
+|**Karl Wilhelm Ferdinand von Braunschweig-Wolfenbüttel**| Commander of the Austrian-Prussian army|
 |**Theobald de Dillon** (mentioned)| |
 
-#### Foreign nobles and officers
 
-|**Axel von Fersen**|Swedish, friend of Marie-Antoinette|
-|**Ludwig von Flüe/Louis de Flue**| Swiss, commander of the Swiss Guards at the Bastille|
-|**André Soret**| Swiss, ringleader of the Nancy mutineers|
-|**Louis-François de Civalart** | Austrian, commander of the Austrian troop at Marquain, Belgium |
-|**Karl Wilhelm Ferdinand von Braunschweig-Wolfenbüttel**| Prussian, commander of the Austrian-Prussian army|
+
 
 
 
@@ -120,7 +118,6 @@ tags: film
 
 #### Miscellaneous
 
-|**Stanislas-Marie Maillard**| "Captain of the Bastille Volunteers," leader of the Women's March on Versailles |
 |**Jacques-Alexis Thuriot de la Rosière**| Committe member of the Hôtel de ville, negotiator with de Launay at the Bastille
 |**Pierre-Augustin Hulin** | Sergeant of a mutinous column of Gardes Françaises
 |**Louison Chabry**| Flowergirl, delegate on 5 October 1789|
@@ -137,8 +134,7 @@ tags: film
 
 #### Versailles
 
-|**Hôtel des Menus-Plaisirs** | Estate-General; National Assembly (17 June–9 July 1789); National Consituent Assembly (9 July–6 Oct 1789) |
-
+|**Hôtel des Menus-Plaisirs** | Estate-General; National (Consituent) Assembly before 6 Oct 1789 |
 | PARC DE VERSAILLES|
 |**Grand Canal**| Opening sequence 
 |**Bassin de Latone**| Opening sequence  
@@ -156,7 +152,7 @@ tags: film
 #### Paris
 
 |**Bastille**| |
-|**Salle du Manège**| National Constituent Assembly (6 Oct 1789–30 Sept 1791); National Legislative Assembly (1 Oct 1791–10 Aug 1792)
+|**Salle du Manège**| National Constituent Assembly (6 Oct 1789–30 Sept 1791); National Legislative Assembly (1 Oct 1791–20 Sept 1792)
 |**Palais des Tuileries**| Residence of the royal family after 6 Oct 1789; Demonstration of 20 June 1792; Insurrection of 10 Aug 1792
 |**Jardin des Tuileries**| Riot of 12 July 1789
 |**Café de Foy**, near **Galerie de Montpensier, Palais-Royal**| Camille Desmoulins's speech on 12 July 1789
@@ -164,9 +160,10 @@ tags: film
 |**Hôtel de Ville**| Louis XVI visted Paris on 17 July 1789
 |**Barrière de Chaillot**| "Ket Ceremony" on 17 July 1789 (filmed in Hôtel de Ville)
 |**Château de Saint-Cloud**|Mirabeau's rendezvous with the Queen on 2 July 1790|
+|**Louis-le-Grand**| Alma Mater of Robespierre and Camille Desmoulins
 |**1 Cour du Commerce Saint-André**| Danton's apartment
 |**8 Cour du Commerce Saint-André**| Marat's printing house
-|**398 Rue Saint-Honoré**| House of Maurice Duplay; Robespierre's residence after 17 July 1789
+|**398 Rue Saint-Honoré**| House of Maurice Duplay; Robespierre's residence after 17 July 1791
 
 <br/>
 

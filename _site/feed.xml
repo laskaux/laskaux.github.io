@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Sun, 12 Apr 2020 03:20:29 -0400</pubDate>
+    <pubDate>Sun, 12 Apr 2020 23:03:08 -0400</pubDate>
     
       <item>
         <title>A Cheet Sheet of &lt;em&gt;La Révolution&lt;/em&gt;&amp;colon;&amp;nbsp; I. &lt;em&gt;Les Années lumière&lt;/em&gt;</title>
@@ -63,6 +63,10 @@
       &lt;td&gt;Governess of the Children of France after the exile of Polignac&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Axel von Fersen&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Swedish noble, friend of Marie-Antoinette&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Adélaïde Genet, Madame Auguié&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;Attendant of the Queen&lt;/td&gt;
     &lt;/tr&gt;
@@ -72,7 +76,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Antoine Louis&lt;/strong&gt; (mentioned)&lt;/td&gt;
-      &lt;td&gt;King’s physician, co-inventor of the guillotine&lt;/td&gt;
+      &lt;td&gt;King’s physician; co-inventor of the guillotine&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -82,7 +86,7 @@
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;CLERGY&lt;/td&gt;
+      &lt;td&gt;I. CLERGY&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
@@ -98,7 +102,7 @@
       &lt;td&gt;Interrupted Danton on 10 Nov 1790&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;NOBLES&lt;/td&gt;
+      &lt;td&gt;II. NOBLES&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
@@ -118,7 +122,7 @@
       &lt;td&gt;Renounced feudal privileges on 4 Aug 1789&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;THIRD-ESTATES&lt;/td&gt;
+      &lt;td&gt;III. THIRD-ESTATES&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
@@ -150,8 +154,12 @@
       &lt;td&gt;Procureur général (Nov 1791-Dec 1793); led the royal family to the Assembly on 10 Aug 1792&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Jérôme Pétion de Villeneuve&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Second mayor of Paris (18 Nov 1791–15 Oct 1792); Girondist&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Joseph Ignace Guillotin&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Physician, promoter of the guillotine&lt;/td&gt;
+      &lt;td&gt;Physician; promoter of the guillotine&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -170,7 +178,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Jean-Paul Marat&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Physician&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Antoine Simon&lt;/strong&gt;&lt;/td&gt;
@@ -186,7 +194,11 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Antoine-Joseph Santerre&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Leader of the demonstration on 20 June 1792&lt;/td&gt;
+      &lt;td&gt;Leader of the uprisings on 20 June and 10 Aug 1792&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Stanislas-Marie Maillard&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;“Captain of the Bastille Volunteers”; leader of the Women’s March on Versailles&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Jacques-René Hébert&lt;/strong&gt;&lt;/td&gt;
@@ -233,15 +245,11 @@
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Jacques Pierre Brissot&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Jérôme Pétion de Villeneuve&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Second mayor of Paris&lt;/td&gt;
+      &lt;td&gt;Girondist&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Pierre Victurnien Vergniaud&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Girondist&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -274,14 +282,6 @@
       &lt;td&gt;&lt;strong&gt;Armand Marc, comte de Montmorin Saint-Hérem&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;Minister of Foreign Affairs, agent of Mirabeau&lt;/td&gt;
     &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;François Claude Amour, marquis de Bouillé&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Claude-Antoine-Gabriel, duc de Choiseul&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
@@ -298,6 +298,10 @@
       &lt;td&gt;Governor of the Bastille, lynched on 14 July 1789&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Ludwig von Flüe/Louis de Flue&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Commander of the Swiss Guards at the Bastille&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Marquis d’Aguesseau&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;Major of the Garde du corps du roi at Versailles&lt;/td&gt;
     &lt;/tr&gt;
@@ -310,8 +314,28 @@
       &lt;td&gt;Guard of the Queen, killed on 6 Oct 1789&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;André Soret&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Ringleader of the Swiss mutineers in Nancy&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;François Claude Amour, marquis de Bouillé&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Cousin of La Fayette&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Claude-Antoine-Gabriel, duc de Choiseul&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Commander of the hussars of Régiment de Lauzun; arrested in Varennes&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Jean-Louis Romeuf&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Aide-de-camp of La Fayette; bore the order to intercept the fleeing King&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Louis-François de Civalart&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Commander of the Austrian troop at Marquain, Belgium&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Karl Wilhelm Ferdinand von Braunschweig-Wolfenbüttel&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Commander of the Austrian-Prussian army&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Theobald de Dillon&lt;/strong&gt; (mentioned)&lt;/td&gt;
@@ -320,41 +344,10 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h4 id=&quot;foreign-nobles-and-officers&quot;&gt;Foreign nobles and officers&lt;/h4&gt;
-
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Axel von Fersen&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Swedish, friend of Marie-Antoinette&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Ludwig von Flüe/Louis de Flue&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Swiss, commander of the Swiss Guards at the Bastille&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;André Soret&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Swiss, ringleader of the Nancy mutineers&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Louis-François de Civalart&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Austrian, commander of the Austrian troop at Marquain, Belgium&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Karl Wilhelm Ferdinand von Braunschweig-Wolfenbüttel&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Prussian, commander of the Austrian-Prussian army&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
 &lt;h4 id=&quot;miscellaneous&quot;&gt;Miscellaneous&lt;/h4&gt;
 
 &lt;table&gt;
   &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Stanislas-Marie Maillard&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;“Captain of the Bastille Volunteers,” leader of the Women’s March on Versailles&lt;/td&gt;
-    &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Jacques-Alexis Thuriot de la Rosière&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;Committe member of the Hôtel de ville, negotiator with de Launay at the Bastille&lt;/td&gt;
@@ -398,13 +391,8 @@
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Hôtel des Menus-Plaisirs&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Estate-General; National Assembly (17 June–9 July 1789); National Consituent Assembly (9 July–6 Oct 1789)&lt;/td&gt;
+      &lt;td&gt;Estate-General; National (Consituent) Assembly before 6 Oct 1789&lt;/td&gt;
     &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;table&gt;
-  &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;PARC DE VERSAILLES&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
@@ -466,7 +454,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Salle du Manège&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;National Constituent Assembly (6 Oct 1789–30 Sept 1791); National Legislative Assembly (1 Oct 1791–10 Aug 1792)&lt;/td&gt;
+      &lt;td&gt;National Constituent Assembly (6 Oct 1789–30 Sept 1791); National Legislative Assembly (1 Oct 1791–20 Sept 1792)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Palais des Tuileries&lt;/strong&gt;&lt;/td&gt;
@@ -497,6 +485,10 @@
       &lt;td&gt;Mirabeau’s rendezvous with the Queen on 2 July 1790&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Louis-le-Grand&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Alma Mater of Robespierre and Camille Desmoulins&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;1 Cour du Commerce Saint-André&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;Danton’s apartment&lt;/td&gt;
     &lt;/tr&gt;
@@ -506,7 +498,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;398 Rue Saint-Honoré&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;House of Maurice Duplay; Robespierre’s residence after 17 July 1789&lt;/td&gt;
+      &lt;td&gt;House of Maurice Duplay; Robespierre’s residence after 17 July 1791&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -844,9 +836,19 @@ Having officially adopted a consitutional monarchy, the Assembly proclaimed a ge
 
 &lt;h4 id=&quot;insurrection-of-10-august-1792&quot;&gt;Insurrection of 10 August 1792&lt;/h4&gt;
 
+&lt;p&gt;Robespierre, at his residence in Maurice Duplay’s house, exchanges opinions on the ongoing politcal instability with Desmoulins and Danton, who is conspiring an armed insurrection against the royalists. Robespierre expresses his objection to dictatorship and faith to the constitution, but conceives its implementation through a new “National Convention.” &lt;strong&gt;Éléonore Duplay&lt;/strong&gt; (Fabienne Tricottet)—Maurice’s eldest daughter—quickly appears and serves tea.&lt;/p&gt;
+
+&lt;p&gt;This meeting is likely to be fictional, but it conveys the views of these revolutionary leaders at this time. Moreover, Duplay’s house was indeed used as a meeting place for planning the insurrection of 10 August.&lt;/p&gt;
+
 &lt;blockquote&gt;
-  &lt;p&gt;The threat added to the popular conviction that Louis was com- plicit in the defeats being suffered by the army. In response, all but one of the forty-eight sections of Paris voted to form a Commune of Paris to organize insurrection and an army of 20,000 &lt;em&gt;sans-culottes&lt;/em&gt; from the newly democratized National Guard. Joined by &lt;em&gt;fédérés&lt;/em&gt;, volunteers from the provinces on their way to the front, these &lt;em&gt;sans-culottes&lt;/em&gt;, led by Santerre and other sectional commanders, assaulted and took the Tuileries palace on 10 August. Among the women involved in the fighting was Théroigne de Méricourt, well known with Pauline Léon for advocating women’s right to bear arms. After Louis took refuge in the nearby Assembly, 600 Swiss guards, the palace’s main defenders, were killed in the fighting or subsequently in bloody acts of retribution.   [PM]&lt;/p&gt;
+  &lt;p&gt;It was now certain that the demonstration of June 20th would have a more violent sequel. Already at the Jacobins on July 15th Danton’s bitter young secretary, the ex-Oratorian teacher, dramatist, and pamphleteer, Billaud-Varenne, had outlined a programme for the next insurrection. Exile the king, he had said: dismiss the generals; elect a National Convention; transfer the royal veto to the people; appoint a new Civil Service; arrest Luckner and Lafayette; deport all public enemies; exempt the poor from taxation. This programme was repeated almost intact in a strongly worded manifesto drawn up by Robespierre, and declaimed by a federal orator at the bar of the House. . . .&lt;/p&gt;
+
+  &lt;p&gt;Already (July 15th) a co-ordinating committee had been formed of one federal from each department. Within this body soon appeared a secret committee of five members. Vaugeois of Blois, Debesse of the Drôme, Guillaume of Caen, and Simon of Strasbourg were names as little known in Paris as they are to history; but they were the authors of a movement that shook France. They met at Duplay’s house in the rue Saint-Honoré, where Robespierre had his lodgings, in a room occupied by their fifth member, Antoine, the mayor of Metz, during his visits to Paris.&lt;/p&gt;
+  &lt;p align=&quot;right&quot;&gt;—J. M. Thompson, &lt;em&gt;The French Revolution&lt;/em&gt; (1944)
+&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;Meanwhile, Danton succeeds in transferring the &lt;em&gt;fédérés&lt;/em&gt; from Marseilles into an insurgent troop.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;President Danton, in the Cordeliers Section, does another
@@ -856,30 +858,38 @@ Active in Section-business, one peril threatening all. Thus he, though an offici
 &lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;p&gt;The night before the rebellion is painted with some humanistic color:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The outcome was never really in doubt. But as the tocsin rang through the night of the ninth-tenth of August, many of the men who made their way towards the Hôtel de Ville were apprehensive. After dinner Camille Desmoulins and his wife had gone to Danton’s apartment to try to stiffen their morale but had found Danton’s wife Gabrielle in floods of tears. Lucile, who remembered herself “laughing like a madwoman,” took Danton’s wife for some air in the street and found a great crowd in the apartment when they got back, everyone trying to outdo each other with grandiloquent utterances that seemed appropriate to their overwrought sense of historymaking. But beneath the oracular declarations, agitation and fear put everyone on edge. When Camille set off into the night, carrying a musket and promising his wife to stay with the reassuringly enormous figure of Danton, she too began to weep passionately.&lt;/p&gt;
+  &lt;p align=&quot;right&quot;&gt;—Simon Schama, &lt;em&gt;Citizens: A Chronicle of the French Revolution&lt;/em&gt; (1989)
+&lt;/p&gt;
+&lt;/blockquote&gt;
+
 &lt;p&gt;&lt;strong&gt;Jean-Lambert Tallien&lt;/strong&gt;
 &lt;strong&gt;Jacques-René Hébert&lt;/strong&gt; (Georges Corraface)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pierre-Louis Rœderer&lt;/strong&gt; (Jerry Di Giacomo)&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;While all this was passing at the Tuileries, the insurgents were advancing in several columns; they had passed the night in assembling, and becoming organized. . . . At this moment Roederer arrived, and increased the alarm of the court by announcing that the danger was extreme; that the insurgents would not be treated with, and that the national guard could not be depended upon. “Sire,” said he, urgently, “your majesty has not  ve minutes to lose: your only safety is in the national assembly; it is the opinion of the department that you ought to repair thither without delay. There are not sufficient men in the court to defend the chateau; nor are we sure of them.” . . . at the renewed urgency of Roederer, the king after looking at him attentively for a few minutes, turned to the queen, and said, as he rose: “Let us go.” “Monsieur Roederer,” said Madame Elizabeth, addressing the recorder, “you answer for the life of the king?” “Yes, madame, with my own,” he replied. “I will walk immediately before him.”&lt;/p&gt;
 
-  &lt;p&gt;Louis XVI. left his chamber with his family, ministers, and the members of the department, and announced to the persons assembled for the defence of the chateau that he was going to the national assembly. He placed himself between two ranks of national guards, summoned to escort him, and crossed the apartments and garden of the Tuileries. A deputation of the assembly, apprised of his approach, came to meet him: “Sire,” said the president of this deputation, “the assembly, eager to provide for your safety, offers you and your family an asylum in its bosom.” The procession resumed its march, and had some dif culty in crossing the terrace of the Tuileries, which was crowded with an animated mob, breathing forth threats and insults. The king and his family had great dif culty in reaching the hall of the assembly, where they took the seats reserved for the ministers. “Gentlemen,” said the king, “I come here to avoid a great crime; I think I cannot be safer than with you.” “Sire,” replied Vergniaud, who  lled the chair, “you may rely on the firmness of the national assembly. Its members have sworn to die in maintaining the rights of the people, and the constituted authorities.” The king then took his seat next the president. But Chabot reminded him that the assembly could not deliberate in the presence of the king, and Louis XVI. retired with his family and ministers into the reporter’s box behind the president, whence all that took place could be seen and heard.   [FAM]&lt;/p&gt;
+  &lt;p&gt;Louis XVI. left his chamber with his family, ministers, and the members of the department, and announced to the persons assembled for the defence of the chateau that he was going to the national assembly. He placed himself between two ranks of national guards, summoned to escort him, and crossed the apartments and garden of the Tuileries. A deputation of the assembly, apprised of his approach, came to meet him: “Sire,” said the president of this deputation, “the assembly, eager to provide for your safety, offers you and your family an asylum in its bosom.” The procession resumed its march, and had some dif culty in crossing the terrace of the Tuileries, which was crowded with an animated mob, breathing forth threats and insults. The king and his family had great dif culty in reaching the hall of the assembly, where they took the seats reserved for the ministers. “Gentlemen,” said the king, “I come here to avoid a great crime; I think I cannot be safer than with you.” “Sire,” replied Vergniaud, who filled the chair, “you may rely on the firmness of the national assembly. Its members have sworn to die in maintaining the rights of the people, and the constituted authorities.” The king then took his seat next the president. But Chabot reminded him that the assembly could not deliberate in the presence of the king, and Louis XVI. retired with his family and ministers into the reporter’s box behind the president, whence all that took place could be seen and heard.   [FAM]&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;The president of the Assembly session was &lt;strong&gt;Jean-François Merlet&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;strong&gt;Le Roi.&lt;/strong&gt;  Je suis venu ici pour éviter un grand crime, et je me croirai toujours en sûreté avec ma famille, au milieu des représentants de la nation. (Applaudissements.)&lt;/p&gt;
 
   &lt;p&gt;J’y passerai la journée. (Applaudissements.)&lt;/p&gt;
 
-  &lt;p&gt;&lt;strong&gt;M. le Président&lt;/strong&gt; (M. Vergniaud).  L’Assemblée nationale connaît tous ses devoirs. Elle regarde comme un des plus chers le maintien de toutes les autorités constituées.&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;M. le Président&lt;/strong&gt; (M. Merlet).  L’Assemblée nationale connaît tous ses devoirs. Elle regarde comme un des plus chers le maintien de toutes les autorités constituées.&lt;/p&gt;
 
   &lt;p&gt;Elle demeurera ferme à son poste. Nous saurons tous y mourir. (Applaudissements.)&lt;/p&gt;
 
   &lt;p&gt;[AP, Friday 10 August 1792]&lt;/p&gt;
 &lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;Pierre-Louis Rœderer&lt;/strong&gt; (Jerry Di Giacomo)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Éléonore Duplay&lt;/strong&gt; (Fabienne Tricottet)&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Nevertheless it was the Swiss who opened fire, and that sealed their fate when the commune’s forces gained the upper hand after about an hour. Once the Swiss began to retreat, they were pursued by mobs of bystanders without firearms who hacked them to death with knives, pikes, and hatchets, and tore their uniforms to pieces to make trophies. Altogether 600 of them perished, some in supposed safe custody after the siege was over. Less than half that number fell among the besiegers, 90 of them fédérés, and the rest the same sort of shopkeepers, petty tradesmen, and artisans who had been so prominent in the 1789 journées and on 20 June. It was the bloodiest day of the Revolution so far, but also one of the most decisive. Though the king and his family remained unscathed, his authority fell with his palace. As crowds rampaged through Paris destroying all symbols and images of royalty down to the very word ‘king’ in street names, the Legislative Assembly declared the monarchy suspended until a national Convention had met to decide on the future form of government.  [WD]&lt;/p&gt;
