@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: A Cheet Sheet of <em>La Révolution</em>&colon;&nbsp; I. <em>Les Années lumière</em>
+title: A Cheat Sheet of <em>La Révolution</em>&colon;&nbsp; I. <em>Les Années lumière</em>
 
 subtitle: 
 
@@ -80,7 +80,7 @@ tags: film
 
 |**Jacques Pierre Brissot**| Girondist |
 |**Pierre Victurnien Vergniaud** | Girondist |
-|**Jean-François Merlet**| President of the National Legislative Assembly (3–20 Aug 1792) |
+
 
 #### Royalist politicians
 
