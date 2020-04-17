@@ -5,7 +5,7 @@ title: In the Name of <em>Liberté</em>&colon;&nbsp; III. The Dusk of Monarchy
 
 subtitle: “Aux armes, citoyens”
 
-excerpt: Nancy Mutiny—Death of Mirabeau—<em>Civil Constitution of the Clery</em>—Flight to Varennes—Champ de Mars massacre—Constitution of 1791—War debate—Declaration of war on Austria—Demonstration of 20 June 1792—“The country in danger”—Brunswick Manifesto—Insurrection of 10 August 1792 <br />
+excerpt: Nancy Mutiny—Death of Mirabeau—<em>Civil Constitution of the Clery</em>—Flight to Varennes—Champ de Mars massacre—Constitution of 1791—War debate—Declaration of war on Austria—Demonstration of 20 June 1792—“The country in danger”—Brunswick Manifesto—Insurrection of 10 August <br />
 
 tags: film
 ---
