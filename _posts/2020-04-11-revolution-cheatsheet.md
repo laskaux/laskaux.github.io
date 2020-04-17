@@ -206,18 +206,18 @@ tags: film
 
 ## Books and Journals
 
-**Jean-Jacques Rousseau**  <br/>
-_Du contrat social; ou, Principes du droit politique_ (first edition, 1762)
+Jean-Jacques Rousseau, _Du contrat social; ou, Principes du droit politique_ (first edition, 1762)
 
-**Camille Desmoulins**  <br/>
-_Révolutions de France et de Brabant_, No. 46 (5 October 1790)
+Camille Desmoulins, _Révolutions de France et de Brabant_, No. 46 (5 October 1790)
 
-**Jean-Paul Marat** <br/>
-_L'Ami du peuple, or Le Publiciste parisien_, No. 431 (16 April 1791) <br/><br/>
+Jean-Paul Marat, _L'Ami du peuple, or Le Publiciste parisien_, No. 431 (16 April 1791) <br/><br/>
 
 ----
 
 ## Songs
+
+**Wolfgang Amadeus Mozart** <br/>
+No. 5 in F from "16 Minuets," K. 176
 
 **André Grétry** <br/>
 "Ô Richard, ô mon roi !" from the opéra comique _Richard Cœur-de-Lion_
@@ -227,6 +227,8 @@ _L'Ami du peuple, or Le Publiciste parisien_, No. 431 (16 April 1791) <br/><br/>
 
 **Rouget de Lisle** <br/>
 _Chant de guerre pour l'armée du Rhin_, or _La Marseillaise_ 
+
+[To be completed]
 
 <br/>
 
