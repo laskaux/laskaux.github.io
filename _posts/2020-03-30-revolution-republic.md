@@ -269,6 +269,7 @@ quarter before twelve the mournful notes of the great bell of the Cordeliers wit
 ears of the expectant city. . . .
 >
 >By three o'clock in the morning nineteen sections were represented by their commissioners at the Hôtel de Ville. By seven there were eighty-four commissioners, represent ing twenty-eight sections. They called themselves “the new commune” and installed themselves in a hall adjoining the one in which the council general was still sitting.
+> <p align="right">—George H. Allen, <em>The French Revolution</em>, vol. 2 (1923)
 
 **Antoine Galiot Mandat de Grancey** (mentioned), commander-in-chief of the Garde nationale, is murdered by the insurgents at the Hôtel de Ville. At dawn, convinced by 
 **Pierre-Louis Rœderer** (Jerry Di Giacomo), procureur général of the départment of Paris,  the royal family decide to take refuge in the National Assembly, which is in permant session.
