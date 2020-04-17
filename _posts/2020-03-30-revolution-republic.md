@@ -5,7 +5,7 @@ title: In the Name of <em>Liberté</em>&colon;&nbsp; III. The Dusk of Monarchy
 
 subtitle: “Aux armes, citoyens”
 
-excerpt: Nancy Mutiny—Death of Mirabeau—<em>Civil Constitution of the Clery</em>—Flight to Varennes—Champ de Mars massacre—Constitution of 1791—War debate—Declaration of war on Austria—Demonstration of 20 June 1792—<em>La Patrie en danger</em>—Brunswick Manifesto—Insurrection of 10 August 1792 <br />
+excerpt: Nancy Mutiny—Death of Mirabeau—<em>Civil Constitution of the Clery</em>—Flight to Varennes—Champ de Mars massacre—Constitution of 1791—War debate—Declaration of war on Austria—Demonstration of 20 June 1792—“The country in danger”—Brunswick Manifesto—Insurrection of 10 August 1792 <br />
 
 tags: film
 ---
@@ -52,6 +52,8 @@ The oration of Danton at the National Constituent Assembly in the Salle du Manè
 >1° De déclarer au roi que ces mêmes ministres sont indignes de la confiance publique et de le prier de les renvoyer; . . .  
 >
 >[AP, Wednesday 10 November 1790]
+
+![Danton](/assets/img/revolution/danton.jpg)
 
 These impeachments proved succesful: Minister of War **Jean-Frédéric de La Tour du Pin Gouvernet** was dismissed on 16 November; so was Keeper of the Seals **Jérôme Champion de Cicé** on 21 November and Minister of Interior Affairs **François-Emmanuel Guignard, comte de Saint-Priest** in January 1791. In his address, Danton yet defended for **Armand Marc, comte de Montmorin Saint-Hérem** (Yvan Varco), Minister of Foreign Affairs and Chief Minister, who is essentially the agent of Mirabeau regarding government affairs. <br/> <br/>
 
@@ -124,6 +126,8 @@ _However, an incident led to Bailly's proclaimation of martial law and the subse
 
 >Two Invalides, supposed to be spies, were massacred and their heads stuck on pikes. The insurrection became alarming. Lafayette again repaired to the Champ de Mars, at the head of twelve hundred of the national guard. Bailly accompanied him, and had the red banner unfurled. The crowd was then summoned to disperse in the name of the law; it refused to retire, and, contemning authority, shouted, “Down with the red flag!” and assailed the national guard with stones. Lafayette ordered his men to fire, but in the air. The crowd was not intimidated with this, and resumed the attack; compelled by the obstinacy of the insurgents, Lafayette then ordered another discharge, a real and effective one. The terri ed multitude  ed, leaving many dead on the  eld. The disturbances now ceased, order was restored; but blood had  own, and the people never forgave Bailly or Lafayette the cruel necessity to which the crowd had driven them. This was a regular combat, in which the republican party, not as yet sufficiently strong or established, was defeated by the constitutional monarchy party. The attempt of the Champ de Mars was the prelude of the popular movements which led to the 10th of August. &nbsp;[FAM]
 
+![Massacre](/assets/img/revolution/champ-de-mars.jpg)
+
 _In the film, the order to fire is given by Bailly instead of La Fayette, which is perhaps the most crucial discrepancy with the true history. But unarguably, the reputation of these two royalist leaders had never been restored among the populace afterwards._
 
 > The violent affray that took place on the Champ de Mars in July 1791 marked an important stage in the struggle for power between consitutional monarchists (Feuillants) and Jacobins, between liberal _bourgeoisie_ and revolutionary democrats. In Paris it led directly to the eclipse of Bailly and Lafayette as the leaders of the city administration; . . . In terms of the social history of Paris the Champ de Mars affair both represented the first bloody clash within the Third Estate—the growing divisions within which have already been noted—and the culmination of several months of social upheaval and of revolutionary agitation at the end of which de democrats organized in the Jacobin and Cordeliers Clubs appear as the undisputed leaders of the Parisian _san-culottes_. 
@@ -152,6 +156,8 @@ The scene is changed to the Club des Jacobins for the first time, with Jacques P
 
 > The ‘Brissotins’ argued that the Revolution would not be safe until this foreign threat was destroyed. A military strike at Austria and Prussia, which would be brief because of the welcome the commoners in those countries would give their liberated brothers, would expose internal counter-revolutionaries in the cauldron of armed conflict between old and new Europe. . . . By early in 1792, such was the combination of anxiety, exhilaration and fear pervading the Assembly that most deputies convinced themselves that the rulers of Austria and Prussia in particular were engaged in naked aggression towards the Revolution. They were encouraged in their optimism by the urgings of political refugees in Paris who had formed themselves into a force of fifty-four companies of volunteers ready to depart to liberate their homelands.  &nbsp;[PM]
 
+![Brissot](/assets/img/revolution/brissot.jpg)
+
 In reponse to Brissot's speeches on 29 and 30 December, Robespierre addressed at the Jacobins Club on 2 and 11 January:
 
 > La plus extravagante idée qui puisse naître dans la tête d'un politique est de croire qu'il suffise à un peuple d'entrer à main armée chez un peuple étranger, pour lui faire adopter ses lois et sa constitution. **Personne n'aime les missionnaires armés**; et le premier conseil que donnent la nature et la prudence, c'est de les repousser comme des ennemis. 
@@ -173,7 +179,7 @@ The session is presided over by **Félix-Julien-Jean Bigot de Préameneu**. <br/
 
 #### 29 April 1792: Battle of Marquain
 
->On the Frontiers, our Armies, be it treason or not, behave in the worst way. Troops badly commanded, shall we say? Or troops intrinsically bad? Unappointed, undisciplined, mutinous; that, in a thirty-years peace, have never seen fire ? In any case, Lafayette's and Rochambeau's little clutch, which they made at Austrian Flanders, has prospered as badly as clutch need do: soldiers starting at their own shadow; suddenly sheirking, '_On nous trahit,_' and flying off in wild panic, at or before the first shot; managing only to hang some two or three prisoners they had picked up, and massacre their own Commander, poor Theobald Dillon, driven into a granary by them in the Town of Lille. 
+>On the Frontiers, our Armies, be it treason or not, behave in the worst way. Troops badly commanded, shall we say? Or troops intrinsically bad? Unappointed, undisciplined, mutinous; that, in a thirty-years peace, have never seen fire ? In any case, Lafayette's and Rochambeau's little clutch, which they made at Austrian Flanders, has prospered as badly as clutch need do: soldiers starting at their own shadow; suddenly sheirking, '_On nous trahit,_' and flying off in wild panic, at or before the first shot; managing only to hang some two or three prisoners they had picked up, and massacre their own Commander, poor **Theobald Dillon**, driven into a granary by them in the Town of Lille. 
 > <p align="right">—Thomas Carlyle, <em>The French Revolution: A History</em>, Vol. 2 (1923)
 
 The Austrian troop defeating the French at Marquain, Belgium are commanded by **Louis-François de Civalart** (Tomasz Bialkowski). <br/><br/>
@@ -190,6 +196,8 @@ A demonstration in the spirit of that at the Champ de Mars are led by **Antoine-
 
 >Accordingly, on the morning of 20 June between 10,000 and 20,000 armed demonstrators converged on the Tuileries from the east in menacing silence. The palace guards made no attempt to stop them as they dragged cannon up the grand staircase and made for the king’s apartments. Now they began to shout slogans, proclaiming that they were ‘sans culottes’, ordinary patriots without fine clothes, come to intimidate tyrants. They found the king alone, and for two hours filed past him uttering threats and demanding the ministers’ reinstatement. But now for the first time Louis XVI showed the unexpected courage which dignified the last months of his dismal life and reign. He refused to be intimidated. He proclaimed his loyalty to the constitution. He even borrowed one of the fashionable new caps of liberty and wearing it drank to the health of the nation. In the end Pétion arrived from the Hôtel de Ville and persuaded the demonstrators to go home, empty-handed.  &nbsp;[WD]
 
+![June 20](/assets/img/revolution/june20.jpg)
+![Red cap](/assets/img/revolution/red-cap.jpg)
 
 #### <br/> 11 July 1792: _La Patrie en danger_
 
@@ -228,7 +236,7 @@ This battle hymn is none other than _Chant de guerre pour l'armée du Rhin_, or 
 
 #### Insurrection of 10 August 1792
 
-Robespierre, at his residence in Maurice Duplay's house, exchanges opinions on the ongoing politcal instability with Desmoulins and Danton, who is conspiring an armed insurrection against the royalists. Robespierre expresses his objection to dictatorship and faith to the constitution, but conceives its implementation through a new "National Convention." **Éléonore Duplay** (Fabienne Tricottet)—Maurice's eldest daughter—quickly appears and serves tea.
+Robespierre, at his residence in Maurice Duplay's house, exchanges opinions on the ongoing politcal instability with Desmoulins and Danton, who is conspiring an armed insurrection against the royalists. Robespierre expresses his objection to dictatorship and his faith to the constitution, but conceives its implementation through a new "National Convention." **Éléonore Duplay** (Fabienne Tricottet)—Maurice's eldest daughter—quickly appears and serves tea.
 
 This meeting is likely to be fictional, but it conveys the views of these revolutionary leaders at this time. Moreover, Duplay's house was indeed used as a meeting place for planning the insurrection of 10 August.
 
@@ -250,15 +258,26 @@ The night before the rebellion is painted with some humanistic color:
 > <p align="right">—Simon Schama, <em>Citizens: A Chronicle of the French Revolution</em> (1989)
 
 
-**Jean-Lambert Tallien**
-**Jacques-René Hébert** (Georges Corraface)
+The Hôtel de Ville chaired by **Jacques Antoine Joseph Cousin** (Sady Rebbot) is invaded first. An "Insurrectionary Commune" is founded by insurgent leaders including Danton, **Jacques-René Hébert** (Georges Corraface), and **Jean-Lambert Tallien**.
 
-**Pierre-Louis Rœderer** (Jerry Di Giacomo)
-
-> While all this was passing at the Tuileries, the insurgents were advancing in several columns; they had passed the night in assembling, and becoming organized. . . . At this moment Roederer arrived, and increased the alarm of the court by announcing that the danger was extreme; that the insurgents would not be treated with, and that the national guard could not be depended upon. “Sire,” said he, urgently, “your majesty has not  ve minutes to lose: your only safety is in the national assembly; it is the opinion of the department that you ought to repair thither without delay. There are not sufficient men in the court to defend the chateau; nor are we sure of them.” . . . at the renewed urgency of Roederer, the king after looking at him attentively for a few minutes, turned to the queen, and said, as he rose: “Let us go.” “Monsieur Roederer,” said Madame Elizabeth, addressing the recorder, “you answer for the life of the king?” “Yes, madame, with my own,” he replied. “I will walk immediately before him.”
+> Control of the Hôtel de Ville was essential for the success
+of insurrection. Once in control of the municipal authority, the revolutionists could depose Mandat, assume control of the National Guard, and deprive the Tuileries of the greater part of its defenders. By eleven o'clock the commissioners of the sections had begun to gather at the Hôtel de Ville. The council general of the commune then in session was following the progress of events with increasing anxiety. In the absence of Pétion, the mayor, who had gone to the Tuileries, its chairman was Cousin, a professor at the College de France. It endured the taunts and abuse of the public in the galleries. It vainly sent municipal officers to prevent the ringing of the tocsin. But on their return they reported evidence of reluctance and hesitation in the revolutionry movement.
 >
-> Louis XVI. left his chamber with his family, ministers, and the members of the department, and announced to the persons assembled for the defence of the chateau that he was going to the national assembly. He placed himself between two ranks of national guards, summoned to escort him, and crossed the apartments and garden of the Tuileries. A deputation of the assembly, apprised of his approach, came to meet him: “Sire,” said the president of this deputation, “the assembly, eager to provide for your safety, offers you and your family an asylum in its bosom.” The procession resumed its march, and had some dif culty in crossing the terrace of the Tuileries, which was crowded with an animated mob, breathing forth threats and insults. The king and his family had great dif culty in reaching the hall of the assembly, where they took the seats reserved for the ministers. “Gentlemen,” said the king, “I come here to avoid a great crime; I think I cannot be safer than with you.” “Sire,” replied Vergniaud, who filled the chair, “you may rely on the firmness of the national assembly. Its members have sworn to die in maintaining the rights of the people, and the constituted authorities.” The king then took his seat next the president. But Chabot reminded him that the assembly could not deliberate in the presence of the king, and Louis XVI. retired with his family and ministers into the reporter’s box behind the president, whence all that took place could be seen and heard.  &nbsp;[FAM]
+> Danton himself, as substitute for the procureur général,
+is said to have given the signal to the bell-ringers and at a
+quarter before twelve the mournful notes of the great bell of the Cordeliers with that of Saint-André-des-Arcs fell on the
+ears of the expectant city. . . .
+>
+>By three o'clock in the morning nineteen sections were represented by their commissioners at the Hôtel de Ville. By seven there were eighty-four commissioners, represent ing twenty-eight sections. They called themselves “the new commune” and installed themselves in a hall adjoining the one in which the council general was still sitting.
 
+**Antoine Galiot Mandat de Grancey** (mentioned), commander-in-chief of the Garde nationale, is murdered by the insurgents at the Hôtel de Ville. At dawn, convinced by 
+**Pierre-Louis Rœderer** (Jerry Di Giacomo), procureur général of the départment of Paris,  the royal family decide to take refuge in the National Assembly, which is in permant session.
+
+> While all this was passing at the Tuileries, the insurgents were advancing in several columns; they had passed the night in assembling, and becoming organized. . . . At this moment Roederer arrived, and increased the alarm of the court by announcing that the danger was extreme; that the insurgents would not be treated with, and that the national guard could not be depended upon. “Sire,” said he, urgently, “your majesty has not five minutes to lose: your only safety is in the national assembly; it is the opinion of the department that you ought to repair thither without delay. There are not sufficient men in the court to defend the chateau; nor are we sure of them.” . . . at the renewed urgency of Roederer, the king after looking at him attentively for a few minutes, turned to the queen, and said, as he rose: “Let us go.” “Monsieur Roederer,” said Madame Elizabeth, addressing the recorder, “you answer for the life of the king?” “Yes, madame, with my own,” he replied. “I will walk immediately before him.”
+>
+> Louis XVI. left his chamber with his family, ministers, and the members of the department, and announced to the persons assembled for the defence of the chateau that he was going to the national assembly. He placed himself between two ranks of national guards, summoned to escort him, and crossed the apartments and garden of the Tuileries. A deputation of the assembly, apprised of his approach, came to meet him: “Sire,” said the president of this deputation, “the assembly, eager to provide for your safety, offers you and your family an asylum in its bosom.” The procession resumed its march, and had some difficulty in crossing the terrace of the Tuileries, which was crowded with an animated mob, breathing forth threats and insults. The king and his family had great dif culty in reaching the hall of the assembly, where they took the seats reserved for the ministers. “Gentlemen,” said the king, “I come here to avoid a great crime; I think I cannot be safer than with you.” “Sire,” replied Vergniaud, who filled the chair, “you may rely on the firmness of the national assembly. Its members have sworn to die in maintaining the rights of the people, and the constituted authorities.” The king then took his seat next the president. But Chabot reminded him that the assembly could not deliberate in the presence of the king, and Louis XVI. retired with his family and ministers into the reporter’s box behind the president, whence all that took place could be seen and heard.  &nbsp;[FAM]
+
+At the Salle du Manège, Vergniaud welcomes the King and assures him of the safety of the royal family. 
 
 >**Le Roi.**&nbsp; Je suis venu ici pour éviter un grand crime, et je me croirai toujours en sûreté avec ma famille, au milieu des représentants de la nation. (Applaudissements.) 
 >
@@ -270,16 +289,18 @@ The night before the rebellion is painted with some humanistic color:
 >
 >[AP, Friday 10 August 1792]
 
+![Assembly](/assets/img/revolution/assembly.jpg)
 
-
-
-
-
+Back at Tuileries, nine hundred Swiss Guards, commanded by **Karl Josef von Bachmann** (Jean-Pierre Delamour), defend the empty palace with their lives. 
 
 > Nevertheless it was the Swiss who opened fire, and that sealed their fate when the commune’s forces gained the upper hand after about an hour. Once the Swiss began to retreat, they were pursued by mobs of bystanders without firearms who hacked them to death with knives, pikes, and hatchets, and tore their uniforms to pieces to make trophies. Altogether 600 of them perished, some in supposed safe custody after the siege was over. Less than half that number fell among the besiegers, 90 of them fédérés, and the rest the same sort of shopkeepers, petty tradesmen, and artisans who had been so prominent in the 1789 journées and on 20 June. It was the bloodiest day of the Revolution so far, but also one of the most decisive. Though the king and his family remained unscathed, his authority fell with his palace. As crowds rampaged through Paris destroying all symbols and images of royalty down to the very word ‘king’ in street names, the Legislative Assembly declared the monarchy suspended until a national Convention had met to decide on the future form of government. &nbsp;[WD]
 
+![Tuileries](/assets/img/revolution/tuileries.jpg)
+
 > Finally, the 23rd of September was appointed for opening the extraordinary assembly, destined to decide the fate of royalty. But royalty had already fallen on the 10th of August, that day marked by the insurrection of the multitude against the middle classes and the constitutional throne, as the 14th of July had seen the insurrection of the middle class against the privileged class and the absolute power of the crown. On the 10th of August began the dictatorial and arbitrary epoch of the revolution. Circumstances becoming more and more difficult to encounter, a vast warfare arose, requiring still greater energy than ever, and that energy irregular, because popular, rendered the domination of the lower class restless, cruel, and oppressive.   &nbsp;[FAM]
 
-
+<p align="right">
+(26 new historical figures; 2 mentioned)
+</p>
 
 

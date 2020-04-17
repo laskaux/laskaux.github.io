@@ -92,6 +92,8 @@ This historic convention opens in the magnificent Hôtel des Menus-Plaisirs in V
 
 >The royal session took place the following day in the Salle des Menus Galleries, arranged in the form of an amphitheatre, were filled with spectators. The deputies were summoned and introduced according to the order established in 1614. The clergy were conducted to the right, the nobility to the left, and the commons in front of the throne at the end of the hall. &nbsp;[FAM]
 
+![Estate-general](/assets/img/revolution/estate-general.jpg)
+
 _Among the 1139 delegates were 291 clergmen, 270 nobles, and 578 commoners._ As depicted in the film, Louis XVI delivers a short opening speech, whose text is modified from the documentation:
 
 >**Sa Majesté.** . . . Puisse, Messieurs, un heureux accord régner dans cette Assemblée, et cette époque devenir à jamais mémorable pour le bonheur et la prospérité du royaume ! c'est le souhait de mon cœur, c'est le plus ardent de mes vœux, c'est enfin le prix que j'attends de la droiture de mes intentions et de mon amour pour mes peuples. Puisse, Messieurs, un heureux accord régner dans cette Assemblée, et cette époque devenir à jamais mémorable pour le bonheur et la prospérité du royaume ! c'est le souhait de mon cœur, c'est le plus ardent de mes vœux, c'est enfin le prix que j'attends de la droiture de mes intentions et de mon amour pour mes peuples.  
@@ -133,11 +135,14 @@ Its first president, **Jean Sylvain Bailly** (Michel Duchaussoy), astronomer and
 
 >It was feared that the majority of the clergy would recognise the assembly by uniting with it; and to prevent so decided a step, instead of hastening the royal sitting, they closed the Salle des Etats, in order to suspend the assembly till the day of the sitting. . . . At that time Bailly presided over the assembly. . . . At an appointed hour on the following day, he repaired to the Salle des Etats, and finding an armed force in possession, he protested against this act of despotism. In the meantime the deputies arrived, dissatisfaction increased, all seemed disposed to brave the perils of a sitting. . . . one named the Tennis-court; this proposition was well received, and the deputies repaired thither in procession. Bailly was at their head; the people followed them with enthusiasm; even soldiers volunteered to escort them, and there, in a bare hall, the deputies of the commons standing with upraised hands, and hearts full of their sacred mission, swore, with only one exception, not to separate till they had given France a constitution. &nbsp;[FAM]
 
+![Tennis Court Oath](/assets/img/revolution/tennis-court.jpg)
+
 The Oath can be found in _Gazette nationale ou le Moniteur universel_, the official newspaper during the Revolution:
 
 > « Nous jurons de ne jamais nous séparer de l'Assemblée nationale, et de nous réunir partout où les circonstances l’exigeraient, jusqu’à ce que la Constitution du royaume fût établie et affermie par des fondements solides. »
 >
 >["We swear never to separate from the National Assembly and to meet wherever circumstances require until the kingdom’s Constitution is established and grounded on solid foundations."]
+
 
 
 
@@ -178,6 +183,8 @@ Counteractions of the royal court include the dismissal of Necker and the milita
 
 > On the following day, Sunday, the 12th of July, about four in the afternoon, Necker’s disgrace and departure became known at Paris. . . . In a short time the city was in the greatest confusion; crowds gathered together on every side; more than ten thousand persons flocked to the Palais Royal all affected by this news, ready for anything, but not knowing what measure to adopt. Camille Desmoulins, a young man, more daring than the rest, one of the usual orators of the crowd, mounted on a table, pistol in hand, exclaiming: “Citizens, there is no time to lose; the dismissal of Necker is the knell of a Saint Bartholomew for patriots! This very night all the Swiss and German battalions will leave the Champ de Mars to massacre us all; one resource is left; to take arms!” These words were received with violent acclamations. He proposed that cockades should be worn for mutual recognition and protection. “Shall they be green,” he cried, “the colour of hope; or red, the colour of the free order of Cincinnatus?” “Green! green!” shouted the multitude. The speaker descended from the table, and fastened the sprig of a tree in his hat. Every one imitated him. The chestnut-trees of the palace were almost stripped of their leaves . . . &nbsp;[FAM]
 
+![Cafe de Foy](/assets/img/revolution/desmoulins.jpg)
+
 This inspiring speech at the Café de Foy near the Galerie de Montpensier in the Palais-Royal is vividly reenacted in the film. So is the attack on the multitude in the Tuileries Garden by the German Régiment Royal-Allemand cavalerie commanded by **Charles Eugène de Lorraine, prince de Lambesc** (Mario Luraschi). 
 
 In the meantime, Danton launches his political career by orating at the Club des Cordeliers, _although its synchronization with the Parisian insurrections is probably fictional._ Among the enthusiastic crowd are Marat, Legendre, Simon, and the Saint-Domingue distiller **Claude Fournier l'Américain** (Georges Trillat). <br /><br />
@@ -186,6 +193,8 @@ In the meantime, Danton launches his political career by orating at the Club des
 #### 14 July 1789: Storming of the Bastille
 
 The Bastille, demolished in late 1789, is "reconstructed" using the Château de Tarascon in Bouches-du-Rhône. Most narrative of this siege and sieze is historically accurate.
+
+![Bastille](/assets/img/revolution/bastille.jpg)
 
 The commanders of defense are **Bernard René Jourdan, marquis de Launay** (Henri Serre), governor of the Bastille, and Lieutenant **Ludwig von Flüe/Louis de Flue** (Philippe Chemin), commanding officer of the Swiss Guards from the Régiment de Salis-Samade. On the side of besiegers are **Stanislas-Marie Maillard** (Patrick Tessari), the "capitaine des volontaires de la Bastille," who stands on a plank over the moat to get the letter from de Launay, and **Pierre-Augustin Hulin** (Bernard Lepinaux), who leads one of the two mutinous columns of Gardes Françaises. **Jacques-Alexis Thuriot de la Rosière** (Michel Melki) serves as the negotiator between the two sides.
 

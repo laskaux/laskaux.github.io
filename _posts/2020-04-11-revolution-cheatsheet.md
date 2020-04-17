@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: A Cheat Sheet of <em>La Révolution</em>&colon;&nbsp; I. <em>Les Années lumière</em>
+title: A Cheat Sheet of <em>La Révolution</em>
 
 subtitle: 
 
@@ -50,10 +50,20 @@ tags: film
 |**Isaac René Guy le Chapelier** |President (3–17 August 1789) on the night session of 4 August; deputy of Brittany|
 |**Jean-Joseph Mounier** | President (28 Sept–7 Oct 1789) during the October Days|
 |**Félix-Julien-Jean Bigot de Préameneu**|President (15–29 Apr 1792) when France declared war on Austria|
-|**Pierre-Louis Rœderer**| Procureur général (Nov 1791-Dec 1793); led the royal family to the Assembly on 10 Aug 1792 
-|**Jérôme Pétion de Villeneuve**| Second mayor of Paris (18 Nov 1791–15 Oct 1792); Girondist |
+|**Pierre-Louis Rœderer**| Procureur général of the départment of Paris (Nov 1791-Dec 1793); led the royal family to the Assembly on 10 Aug 1792 
+|**Jérôme Pétion de Villeneuve**| Second mayor of Paris (18 Nov 1791–15 Oct 1792); Girondin |
 |**Joseph Ignace Guillotin**| Physician; promoter of the guillotine |
 
+
+#### Royalists and constitutionalists
+
+|**Jacques Necker**| Chief Minister (25 Aug 1788–11 July 1789 & 29 July 1789–3 Sept 1790)|
+|**Henri Evrard, marquis de Dreux-Brézé** | Grand Master of Ceremonies|
+|**Jean-Frédéric de La Tour du Pin Gouvernet**| Minister of War, dismissed in November 1790 | 
+|**Jérôme Champion de Cicé**| Minister of Justice (Keeper of the Seals), dismissed in November 1790 | 
+|**François-Emmanuel Guignard, comte de Saint-Priest**| Minister of Interior Affairs, dismissed in 1791 |
+|**Armand Marc, comte de Montmorin Saint-Hérem**| Minister of Foreign Affairs, agent of Mirabeau|
+|**Jacques Antoine Joseph Cousin**| Mathematician; chaired the Paris Commune on the night of 10 Aug 1792
 
 #### Club des Cordeliers
 
@@ -66,11 +76,10 @@ tags: film
 |**Antoine-Joseph Santerre**|Leader of the uprisings on 20 June and 10 Aug 1792 |
 |**Stanislas-Marie Maillard**| "Captain of the Bastille Volunteers"; leader of the Women's March on Versailles |
 |**Jacques-René Hébert** | |
-|**Jean-Lambert Tallien**| |
 | RELATIVES |
 |**Antoinette Gabrielle Danton**| Wife of Danton| 
 |**Jean-Benoist-Nicolas Desmoulins**| Father of Camille Desmoulins|
-|**Lucile Desmoulins**| Wife of Camille|
+|**Lucile Desmoulins**| Wife of Camille Desmoulins|
 |**Claude-Étienne Laridon-Duplessis**| Father of Lucile|
 |**Anne-Françoise-Marie Bois de Veix**| Mother of Lucile|
 |**Simone Évrard**| Wife of Marat|
@@ -78,24 +87,17 @@ tags: film
 
 #### Club des Jacobins
 
-|**Jacques Pierre Brissot**| Girondist |
-|**Pierre Victurnien Vergniaud** | Girondist |
+|**Jacques Pierre Brissot**| Girondin |
+|**Pierre Victurnien Vergniaud** | Girondin; president of the National Convention (10–24 Jan 1793) |
+|**Jean-Lambert Tallien**| Montagne; president (21 Mar–5 Apr 1794) |
 
-
-#### Royalist politicians
-
-|**Jacques Necker**| Chief Minister (25 Aug 1788–11 July 1789 & 29 July 1789–3 Sept 1790)|
-|**Henri Evrard, marquis de Dreux-Brézé** | Grand Master of Ceremonies|
-|**Jean-Frédéric de La Tour du Pin Gouvernet**| Minister of War, dismissed in November 1790 | 
-|**Jérôme Champion de Cicé**| Minister of Justice (Keeper of the Seals), dismissed in November 1790 | 
-|**François-Emmanuel Guignard, comte de Saint-Priest**| Minister of Interior Affairs, dismissed in 1791 |
-|**Armand Marc, comte de Montmorin Saint-Hérem**| Minister of Foreign Affairs, agent of Mirabeau|
 
 #### Military personnel
 
 |**Charles Eugène de Lorraine, prince de Lambesc**| Commander of the Royal-Allemand cavalry in the riot of 12 July 1789| 
 |**Bernard René Jourdan, marquis de Launay** |Governor of the Bastille, lynched on 14 July 1789|
 |**Ludwig von Flüe/Louis de Flue**| Commander of the Swiss Guards at the Bastille|
+|**Pierre-Augustin Hulin** | Sergeant of a mutinous column of Gardes Françaises
 |**Marquis d’Aguesseau**| Major of the Garde du corps du roi at Versailles|
 |**Miomandre de Sainte-Marie**| Guard of the Queen, killed on 6 Oct 1789| 
 |**Tardivet du Repaire**|Guard of the Queen, killed on 6 Oct 1789|
@@ -105,15 +107,16 @@ tags: film
 |**Jean-Louis Romeuf**| Aide-de-camp of La Fayette; bore the order to intercept the fleeing King
 |**Louis-François de Civalart** | Commander of the Austrian troop at Marquain, Belgium | 
 |**Karl Wilhelm Ferdinand von Braunschweig-Wolfenbüttel**| Commander of the Austrian-Prussian army|
-|**Theobald de Dillon** (mentioned)| Commander of the Régiment de Dillon, murdered on 29 Apr 1792  |
+|**Karl Josef von Bachmann**| Commander of the Swiss Guards at the Tuileries Palace on 10 Aug 1792
+|**Theobald de Dillon** (mentioned)| Commander of the Régiment de Dillon; murdered on 29 Apr 1792  |
 |**Antoine Galiot Mandat de Grancey** (mentioned)| Commander-in-chief of the Garde nationale after La Fayette; murdered on 10 Aug 1792  |
+
 
 
 #### Miscellaneous
 
-|**Jacques-Alexis Thuriot de la Rosière**| Committe member of the Hôtel de ville, negotiator with de Launay at the Bastille
-|**Pierre-Augustin Hulin** | Sergeant of a mutinous column of Gardes Françaises
-|**Louison Chabry**| Flowergirl, delegate on 5 October 1789|
+|**Jacques-Alexis Thuriot de la Rosière**| Committe member of the Hôtel de ville; negotiator with de Launay at the Bastille
+|**Louison Chabry**| Flowergirl; delegate on 5 October 1789|
 |**Jean-Baptiste Drouet** | Postmaster of Sainte-Menehould |
 |**Jean-Baptiste Sauce** | Prosecutor of Varennes |
 |**Maurice Duplay**| Landlord of Robespierre|

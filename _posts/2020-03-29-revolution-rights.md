@@ -21,6 +21,8 @@ tags: film
 
 > Early on 17 July the Count d'Artois left Versailles for the north-east frontier, to be followed over subsequent weeks by many of the courtiers . . . And later the same day the king made his way, escorted only by a handful of deputies, to the Hôtel de Ville of Paris to confirm that the troops were withdrawing and announce that Necker had been recalled. He also confirmed the nomination of Bailly as mayor of Paris (a new title) and Lafayette as commander of the new citizens’ militia, now being called the National Guard. It was said that 150,000 armed citizens were on the streets that day, all wearing cockades in red and blue, the colours both of the city and the Duke d’Orlaéns. Later in the month Lafayette would splice them with Bourbon white for the uniform of his National Guardsmen, and so the patriotic tricolour was born. The king accepted a cockade and stuck it in his hat on arrival at the Hôtel de Ville; and then, for the first time, people began to cheer him.  &nbsp;[WD]
 
+![Key ceremony](/assets/img/revolution/key.jpg)
+
 Together with comte d'Artois, the family of duchesse de Polignac left France, who never reunites with Marie-Antoinette thereafter. Louis's visit to Paris on 17 July begins with a ceremonial key conferment _at the Barrière de Chaillot (rather than the Hôtel de Ville)_:
 
 > « J'apporte à votre Majesté les clés de sa bonne ville de Paris : ce sont les mêmes qui ont été présentées à Henri IV ; il avait reconquis son peuple, ici le peuple a reconquis son roi. »
@@ -57,6 +59,8 @@ duc de la Rochefoucauld-Liancourt (Yves-Marie Maurin), and
 >**M. de Lafare**, évêque de Nancy, . . . Je viens exprimer, au nom du clergé, le vœu de la justice, de la religion et de l'humanité ; je demande le rachat pour les fonds ecclésiastiques, et je demande que le rachat ne tourne pas au profit du seigneur ecclésiastique, mais qu'il en soit fait des placements utiles pour l'indigence. 
 >
 >[AP, Tuesday 4 August 1789]
+
+![August 4](/assets/img/revolution/august4.jpg)
 
 _The resolutions were proclaimed as the_ Décrets des 4, 6, 7, 8 et 11 août 1789, _or the_ August Decrees. _Slavery was not abolished throughout France until 1794._ <br /><br /> 
 
@@ -175,6 +179,8 @@ The banquet in honor of the Régiment de Flandre (in white uniforms) is hosted i
 
 > Banquets themselves seemed unpatriotic when bread was so scarce, and by 4 October all Paris believed that counter-revolutionary orgies at Versailles were the prelude to a new attempt to starve the capital. The next morning, several districts of the city were awakened by the ringing of the tocsin from church bell-towers, recognized ever since the days of July as a call to arms. Crowds of women began to assemble at markets, from where they marched to the Hôtel de Ville. After surging through the building to impress the city authorities with their determination, late in the morning they set off for Versailles dragging cannon and brandishing whatever makeshift weapons they could lay hands on, recruiting newcomers as they went along. Perhaps 7,000 of them reached Versailles early in the evening and invaded the National Assembly, calling for bread and punishment for those who had insulted the national cockade. The unprotected deputies had no alternative but to welcome them with mollifying speeches. They were visibly relieved when a deputation went on to confront the king.  &nbsp;[WD]
 
+![Women's March](/assets/img/revolution/women-march.jpg)
+
 Danton's involvement in this insurrection can be found in Hilaire Belloc's _Danton: A Study_ (1899):
 
 > On the morning of Sunday, a day when there was leisure to read, the walls were placarded with the manifesto of the Cordeliers. It demanded an insurrection, and was signed with Danton's name. On Monday morning they rang the tocsin at the belfry of the convent, and the battalion of the district was drawn up and armed.
@@ -190,7 +196,7 @@ Leading the Women's March is Stanislas-Marie Maillard (Patrick Tessari), the sam
 >Louison, overcome by emotion at the king's goodness, fainted. When she recovered her senses, she begged to kiss the king's hand.
 >
 >"She deserves better than that," said the king, and embraced her.
-> <p align="right">—George H. Allen, <em>The French Revolution</em> (1923)
+> <p align="right">—George H. Allen, <em>The French Revolution</em>, vol. 2 (1923)
 
 In the evening, Louis signs the August Decrees and the _Declaration of the Rights of Man and of the Citizen_. At midnight, La Fayette and his National Guard arrive.
 
@@ -207,6 +213,8 @@ At the request of La Fayette, the King and Queen confront the mob on the balcony
 >
 > Her Majesty too, on demand, shows herself, though there is peril in it : she steps out on the balcony, with her little boy and girl. ' No children, _Point d'enfans_! ' cry the voices. She gently pushes back her children; and stands alone, her hands serenely crossed on her breast: 'Should I die,' she had said, 'I will do it.' Such serenity of heroism has its eflPect. Lafayette, with ready wit, in his highflown chivalrous way, takes that fair queenly hand, and, reverently kneeling, kisses it: thereupon the people do shout _Vive la Reine_. Nevertheless, poor Weber 'saw' (or even thought he saw; for hardly the third part of poor Weber's experiences, in such hysterical days, will stand scrutiny) 'one of these brigands level his musket at her Majesty,'—with or without intention to shoot; for another of the brigands 'angrily struck it down.'
 > <p align="right">—Thomas Carlyle, <em>The French Revolution: A History</em>, Vol. 1 (1923)
+
+![Balcony](/assets/img/revolution/courtyard.jpg)
 
 Louis and the royal court move to the Tuileries Palace in the afternoon of 6 October.
 
@@ -229,6 +237,8 @@ The secret meeting of Mirabeau and Marie-Antoinette in the park of the Château 
 >
 >What is certain, is that the interview left him with a yet more resolute determination to serve her: that he imbued her with his master idea, of making the National party the King's party, and that his influence upon her mind can be traced long after his death.
 > <p align="right">—Stephen G. Tallentyre, <em>The Life of Mirabeau</em> (1912)
+
+![Queen and Mirabeau](/assets/img/revolution/queen-mirabeau.jpg)
 
 The confidential letters mentioned in the dialogue refer to Mirabeau's _Notes to the Court_, which were conveyed by Auguste d’Arenberg, comte de La Marck. _From June 1790 to March 1791, Mirabeau averaged two notes a week to the Court. Many were destroyed after Mirabeau's death and the insurrection of 10 August 1792. Only fifty of them still exist._
 
@@ -261,6 +271,8 @@ All of them are asynchronized with the preparation of _Fête de la Fédération_
 >
 >A profound silence now reigned in the vast inclosure, and Lafayette, appointed that day to the command in chief of all the national guards of the kingdom, advanced first to take the civic oath. Borne on the arms of grenadiers to the altar of the country, amidst the acclamations of the people, he exclaimed with a loud voice, in his own name, and that of the federates and troops: “We swear eternal fidelity to the nation, the law, and the king; to maintain to the utmost of our power the constitution decreed by the national assembly, and accepted by the king; and to remain united with every Frenchman by the indissoluble ties of fraternity.” Forthwith the firing of cannon, prolonged cries of “Vive la nation!” “Vive le roi!” and sounds of music, mingled in the air. The president of the national assembly took the same oath, and all the deputies repeated it with one voice. Then Louis XVI. rose and said: “I, king of the French, swear to employ all the power delegated to me by the constitutional act of the state, in maintaining the constitution decreed by the national assembly and accepted by me.” The queen, carried away by the enthusiasm of the moment, rose, lifted up the dauphin in her arms, and showing him to the people, exclaimed: “Behold my son, he unites with me in the same sentiments.” At that moment the banners were lowered, the acclamations of the people were heard, and the subjects believed in the sincerity of the monarch, the monarch in the affection of the subjects, and this happy day closed with a hymn of thanksgiving.  &nbsp;[FAM] 
 
+![Federation](/assets/img/revolution/federation.jpg)
+
 The ceremony concludes the events in the first year of the Revolution. <br/><br/>
 
 
@@ -283,7 +295,7 @@ The short dialogue between Louis XVI and Dr. **Joseph Ignace Guillotin** (Jacque
 
 The participation of Louis XVI in the modification of this machine can be found in the memoir of Charles-Henri Sanson, who later guillotined the King as well as Danton, Camille Desmoulins, and Robespierre.
 
-> Louis was the King's physician, and his royal patron heard of the mission he had to discharge. The dexterity of this prince as a locksmith is well known. He wished to assist Louis, and to give his personal attention to a matter in which, he said, he was interested as as sovereign. The King and his physician expressed as desire to examine the plan of the machine proposed by Guillotin. The latter was therefore requested by Dr. Louis to come to the Tuileries . . .
+> **Louis** was the King's physician, and his royal patron heard of the mission he had to discharge. The dexterity of this prince as a locksmith is well known. He wished to assist Louis, and to give his personal attention to a matter in which, he said, he was interested as as sovereign. The King and his physician expressed as desire to examine the plan of the machine proposed by Guillotin. The latter was therefore requested by Dr. Louis to come to the Tuileries . . .
 >
 >Guillotin showed Louis the plan of the machine drawn by Schmidt, to which my grandfather had added a few explanations. While Louis was examining it with great attention, a door was opened, and a new comer appeared in the closet. Dr. Louis, who was seated, immediately rose. The stranger looked coldly at Dr. Guillotin, who bowed; and abruptly addressing Louis, he said to him: 
 >
@@ -304,6 +316,6 @@ _This meeting allegedly happened on 2 March 1792. Five days later, the design wa
 
 
 <p align="right">
-(13 new historical figures)
+(13 new historical figures; 1 mentioned)
 </p>
 

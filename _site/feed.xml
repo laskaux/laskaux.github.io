@@ -5,10 +5,10 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Mon, 13 Apr 2020 14:53:46 -0400</pubDate>
+    <pubDate>Fri, 17 Apr 2020 01:16:49 -0400</pubDate>
     
       <item>
-        <title>A Cheat Sheet of &lt;em&gt;La Révolution&lt;/em&gt;&amp;colon;&amp;nbsp; I. &lt;em&gt;Les Années lumière&lt;/em&gt;</title>
+        <title>A Cheat Sheet of &lt;em&gt;La Révolution&lt;/em&gt;</title>
         <link>/2020/04/11/revolution-cheatsheet.html</link>
         <guid isPermaLink="true">/2020/04/11/revolution-cheatsheet.html</guid>
         <description>&lt;h2 id=&quot;historical-figures&quot;&gt;Historical figures&lt;/h2&gt;
@@ -151,15 +151,50 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Pierre-Louis Rœderer&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Procureur général (Nov 1791-Dec 1793); led the royal family to the Assembly on 10 Aug 1792&lt;/td&gt;
+      &lt;td&gt;Procureur général of the départment of Paris (Nov 1791-Dec 1793); led the royal family to the Assembly on 10 Aug 1792&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Jérôme Pétion de Villeneuve&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Second mayor of Paris (18 Nov 1791–15 Oct 1792); Girondist&lt;/td&gt;
+      &lt;td&gt;Second mayor of Paris (18 Nov 1791–15 Oct 1792); Girondin&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Joseph Ignace Guillotin&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;Physician; promoter of the guillotine&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h4 id=&quot;royalists-and-constitutionalists&quot;&gt;Royalists and constitutionalists&lt;/h4&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Jacques Necker&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Chief Minister (25 Aug 1788–11 July 1789 &amp;amp; 29 July 1789–3 Sept 1790)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Henri Evrard, marquis de Dreux-Brézé&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Grand Master of Ceremonies&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Jean-Frédéric de La Tour du Pin Gouvernet&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Minister of War, dismissed in November 1790&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Jérôme Champion de Cicé&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Minister of Justice (Keeper of the Seals), dismissed in November 1790&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;François-Emmanuel Guignard, comte de Saint-Priest&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Minister of Interior Affairs, dismissed in 1791&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Armand Marc, comte de Montmorin Saint-Hérem&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Minister of Foreign Affairs, agent of Mirabeau&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Jacques Antoine Joseph Cousin&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Mathematician; chaired the Paris Commune on the night of 10 Aug 1792&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -205,10 +240,6 @@
       &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Jean-Lambert Tallien&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
       &lt;td&gt;RELATIVES&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
@@ -222,7 +253,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Lucile Desmoulins&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Wife of Camille&lt;/td&gt;
+      &lt;td&gt;Wife of Camille Desmoulins&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Claude-Étienne Laridon-Duplessis&lt;/strong&gt;&lt;/td&gt;
@@ -245,42 +276,15 @@
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Jacques Pierre Brissot&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Girondist&lt;/td&gt;
+      &lt;td&gt;Girondin&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Pierre Victurnien Vergniaud&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Girondist&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h4 id=&quot;royalist-politicians&quot;&gt;Royalist politicians&lt;/h4&gt;
-
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Jacques Necker&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Chief Minister (25 Aug 1788–11 July 1789 &amp;amp; 29 July 1789–3 Sept 1790)&lt;/td&gt;
+      &lt;td&gt;Girondin; president of the National Convention (10–24 Jan 1793)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Henri Evrard, marquis de Dreux-Brézé&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Grand Master of Ceremonies&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Jean-Frédéric de La Tour du Pin Gouvernet&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Minister of War, dismissed in November 1790&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Jérôme Champion de Cicé&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Minister of Justice (Keeper of the Seals), dismissed in November 1790&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;François-Emmanuel Guignard, comte de Saint-Priest&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Minister of Interior Affairs, dismissed in 1791&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Armand Marc, comte de Montmorin Saint-Hérem&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Minister of Foreign Affairs, agent of Mirabeau&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Jean-Lambert Tallien&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Montagne; president (21 Mar–5 Apr 1794)&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -300,6 +304,10 @@
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Ludwig von Flüe/Louis de Flue&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;Commander of the Swiss Guards at the Bastille&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Pierre-Augustin Hulin&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Sergeant of a mutinous column of Gardes Françaises&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Marquis d’Aguesseau&lt;/strong&gt;&lt;/td&gt;
@@ -338,8 +346,12 @@
       &lt;td&gt;Commander of the Austrian-Prussian army&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Karl Josef von Bachmann&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Commander of the Swiss Guards at the Tuileries Palace on 10 Aug 1792&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Theobald de Dillon&lt;/strong&gt; (mentioned)&lt;/td&gt;
-      &lt;td&gt;Commander of the Régiment de Dillon, murdered on 29 Apr 1792&lt;/td&gt;
+      &lt;td&gt;Commander of the Régiment de Dillon; murdered on 29 Apr 1792&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Antoine Galiot Mandat de Grancey&lt;/strong&gt; (mentioned)&lt;/td&gt;
@@ -354,15 +366,11 @@
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Jacques-Alexis Thuriot de la Rosière&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Committe member of the Hôtel de ville, negotiator with de Launay at the Bastille&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Pierre-Augustin Hulin&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Sergeant of a mutinous column of Gardes Françaises&lt;/td&gt;
+      &lt;td&gt;Committe member of the Hôtel de ville; negotiator with de Launay at the Bastille&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Louison Chabry&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Flowergirl, delegate on 5 October 1789&lt;/td&gt;
+      &lt;td&gt;Flowergirl; delegate on 5 October 1789&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Jean-Baptiste Drouet&lt;/strong&gt;&lt;/td&gt;
@@ -640,6 +648,8 @@
   &lt;p&gt;[AP, Wednesday 10 November 1790]&lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/danton.jpg&quot; alt=&quot;Danton&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;These impeachments proved succesful: Minister of War &lt;strong&gt;Jean-Frédéric de La Tour du Pin Gouvernet&lt;/strong&gt; was dismissed on 16 November; so was Keeper of the Seals &lt;strong&gt;Jérôme Champion de Cicé&lt;/strong&gt; on 21 November and Minister of Interior Affairs &lt;strong&gt;François-Emmanuel Guignard, comte de Saint-Priest&lt;/strong&gt; in January 1791. In his address, Danton yet defended for &lt;strong&gt;Armand Marc, comte de Montmorin Saint-Hérem&lt;/strong&gt; (Yvan Varco), Minister of Foreign Affairs and Chief Minister, who is essentially the agent of Mirabeau regarding government affairs. &lt;br /&gt; &lt;br /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;28-december-1790-marriage-of-lucile-and-camille-desmouslins&quot;&gt;28 December 1790: Marriage of Lucile and Camille Desmouslins&lt;/h4&gt;
@@ -731,6 +741,8 @@
   &lt;p&gt;Two Invalides, supposed to be spies, were massacred and their heads stuck on pikes. The insurrection became alarming. Lafayette again repaired to the Champ de Mars, at the head of twelve hundred of the national guard. Bailly accompanied him, and had the red banner unfurled. The crowd was then summoned to disperse in the name of the law; it refused to retire, and, contemning authority, shouted, “Down with the red flag!” and assailed the national guard with stones. Lafayette ordered his men to fire, but in the air. The crowd was not intimidated with this, and resumed the attack; compelled by the obstinacy of the insurgents, Lafayette then ordered another discharge, a real and effective one. The terri ed multitude  ed, leaving many dead on the  eld. The disturbances now ceased, order was restored; but blood had  own, and the people never forgave Bailly or Lafayette the cruel necessity to which the crowd had driven them. This was a regular combat, in which the republican party, not as yet sufficiently strong or established, was defeated by the constitutional monarchy party. The attempt of the Champ de Mars was the prelude of the popular movements which led to the 10th of August.  [FAM]&lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/champ-de-mars.jpg&quot; alt=&quot;Massacre&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;em&gt;In the film, the order to fire is given by Bailly instead of La Fayette, which is perhaps the most crucial discrepancy with the true history. But unarguably, the reputation of these two royalist leaders had never been restored among the populace afterwards.&lt;/em&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -760,6 +772,8 @@ Having officially adopted a consitutional monarchy, the Assembly proclaimed a ge
   &lt;p&gt;The ‘Brissotins’ argued that the Revolution would not be safe until this foreign threat was destroyed. A military strike at Austria and Prussia, which would be brief because of the welcome the commoners in those countries would give their liberated brothers, would expose internal counter-revolutionaries in the cauldron of armed conflict between old and new Europe. . . . By early in 1792, such was the combination of anxiety, exhilaration and fear pervading the Assembly that most deputies convinced themselves that the rulers of Austria and Prussia in particular were engaged in naked aggression towards the Revolution. They were encouraged in their optimism by the urgings of political refugees in Paris who had formed themselves into a force of fifty-four companies of volunteers ready to depart to liberate their homelands.   [PM]&lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/brissot.jpg&quot; alt=&quot;Brissot&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;In reponse to Brissot’s speeches on 29 and 30 December, Robespierre addressed at the Jacobins Club on 2 and 11 January:&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -783,7 +797,7 @@ Having officially adopted a consitutional monarchy, the Assembly proclaimed a ge
 &lt;h4 id=&quot;29-april-1792-battle-of-marquain&quot;&gt;29 April 1792: Battle of Marquain&lt;/h4&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;On the Frontiers, our Armies, be it treason or not, behave in the worst way. Troops badly commanded, shall we say? Or troops intrinsically bad? Unappointed, undisciplined, mutinous; that, in a thirty-years peace, have never seen fire ? In any case, Lafayette’s and Rochambeau’s little clutch, which they made at Austrian Flanders, has prospered as badly as clutch need do: soldiers starting at their own shadow; suddenly sheirking, ‘&lt;em&gt;On nous trahit,&lt;/em&gt;’ and flying off in wild panic, at or before the first shot; managing only to hang some two or three prisoners they had picked up, and massacre their own Commander, poor Theobald Dillon, driven into a granary by them in the Town of Lille.&lt;/p&gt;
+  &lt;p&gt;On the Frontiers, our Armies, be it treason or not, behave in the worst way. Troops badly commanded, shall we say? Or troops intrinsically bad? Unappointed, undisciplined, mutinous; that, in a thirty-years peace, have never seen fire ? In any case, Lafayette’s and Rochambeau’s little clutch, which they made at Austrian Flanders, has prospered as badly as clutch need do: soldiers starting at their own shadow; suddenly sheirking, ‘&lt;em&gt;On nous trahit,&lt;/em&gt;’ and flying off in wild panic, at or before the first shot; managing only to hang some two or three prisoners they had picked up, and massacre their own Commander, poor &lt;strong&gt;Theobald Dillon&lt;/strong&gt;, driven into a granary by them in the Town of Lille.&lt;/p&gt;
   &lt;p align=&quot;right&quot;&gt;—Thomas Carlyle, &lt;em&gt;The French Revolution: A History&lt;/em&gt;, Vol. 2 (1923)
 &lt;/p&gt;
 &lt;/blockquote&gt;
@@ -805,6 +819,9 @@ Having officially adopted a consitutional monarchy, the Assembly proclaimed a ge
 &lt;blockquote&gt;
   &lt;p&gt;Accordingly, on the morning of 20 June between 10,000 and 20,000 armed demonstrators converged on the Tuileries from the east in menacing silence. The palace guards made no attempt to stop them as they dragged cannon up the grand staircase and made for the king’s apartments. Now they began to shout slogans, proclaiming that they were ‘sans culottes’, ordinary patriots without fine clothes, come to intimidate tyrants. They found the king alone, and for two hours filed past him uttering threats and demanding the ministers’ reinstatement. But now for the first time Louis XVI showed the unexpected courage which dignified the last months of his dismal life and reign. He refused to be intimidated. He proclaimed his loyalty to the constitution. He even borrowed one of the fashionable new caps of liberty and wearing it drank to the health of the nation. In the end Pétion arrived from the Hôtel de Ville and persuaded the demonstrators to go home, empty-handed.   [WD]&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/june20.jpg&quot; alt=&quot;June 20&quot; /&gt;
+&lt;img src=&quot;/assets/img/revolution/red-cap.jpg&quot; alt=&quot;Red cap&quot; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;-11-july-1792-la-patrie-en-danger&quot;&gt;&lt;br /&gt; 11 July 1792: &lt;em&gt;La Patrie en danger&lt;/em&gt;&lt;/h4&gt;
 
@@ -852,7 +869,7 @@ Having officially adopted a consitutional monarchy, the Assembly proclaimed a ge
 
 &lt;h4 id=&quot;insurrection-of-10-august-1792&quot;&gt;Insurrection of 10 August 1792&lt;/h4&gt;
 
-&lt;p&gt;Robespierre, at his residence in Maurice Duplay’s house, exchanges opinions on the ongoing politcal instability with Desmoulins and Danton, who is conspiring an armed insurrection against the royalists. Robespierre expresses his objection to dictatorship and faith to the constitution, but conceives its implementation through a new “National Convention.” &lt;strong&gt;Éléonore Duplay&lt;/strong&gt; (Fabienne Tricottet)—Maurice’s eldest daughter—quickly appears and serves tea.&lt;/p&gt;
+&lt;p&gt;Robespierre, at his residence in Maurice Duplay’s house, exchanges opinions on the ongoing politcal instability with Desmoulins and Danton, who is conspiring an armed insurrection against the royalists. Robespierre expresses his objection to dictatorship and his faith to the constitution, but conceives its implementation through a new “National Convention.” &lt;strong&gt;Éléonore Duplay&lt;/strong&gt; (Fabienne Tricottet)—Maurice’s eldest daughter—quickly appears and serves tea.&lt;/p&gt;
 
 &lt;p&gt;This meeting is likely to be fictional, but it conveys the views of these revolutionary leaders at this time. Moreover, Duplay’s house was indeed used as a meeting place for planning the insurrection of 10 August.&lt;/p&gt;
 
@@ -882,16 +899,30 @@ Active in Section-business, one peril threatening all. Thus he, though an offici
 &lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;strong&gt;Jean-Lambert Tallien&lt;/strong&gt;
-&lt;strong&gt;Jacques-René Hébert&lt;/strong&gt; (Georges Corraface)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Pierre-Louis Rœderer&lt;/strong&gt; (Jerry Di Giacomo)&lt;/p&gt;
+&lt;p&gt;The Hôtel de Ville chaired by &lt;strong&gt;Jacques Antoine Joseph Cousin&lt;/strong&gt; (Sady Rebbot) is invaded first. An “Insurrectionary Commune” is founded by insurgent leaders including Danton, &lt;strong&gt;Jacques-René Hébert&lt;/strong&gt; (Georges Corraface), and &lt;strong&gt;Jean-Lambert Tallien&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;While all this was passing at the Tuileries, the insurgents were advancing in several columns; they had passed the night in assembling, and becoming organized. . . . At this moment Roederer arrived, and increased the alarm of the court by announcing that the danger was extreme; that the insurgents would not be treated with, and that the national guard could not be depended upon. “Sire,” said he, urgently, “your majesty has not  ve minutes to lose: your only safety is in the national assembly; it is the opinion of the department that you ought to repair thither without delay. There are not sufficient men in the court to defend the chateau; nor are we sure of them.” . . . at the renewed urgency of Roederer, the king after looking at him attentively for a few minutes, turned to the queen, and said, as he rose: “Let us go.” “Monsieur Roederer,” said Madame Elizabeth, addressing the recorder, “you answer for the life of the king?” “Yes, madame, with my own,” he replied. “I will walk immediately before him.”&lt;/p&gt;
+  &lt;p&gt;Control of the Hôtel de Ville was essential for the success
+of insurrection. Once in control of the municipal authority, the revolutionists could depose Mandat, assume control of the National Guard, and deprive the Tuileries of the greater part of its defenders. By eleven o’clock the commissioners of the sections had begun to gather at the Hôtel de Ville. The council general of the commune then in session was following the progress of events with increasing anxiety. In the absence of Pétion, the mayor, who had gone to the Tuileries, its chairman was Cousin, a professor at the College de France. It endured the taunts and abuse of the public in the galleries. It vainly sent municipal officers to prevent the ringing of the tocsin. But on their return they reported evidence of reluctance and hesitation in the revolutionry movement.&lt;/p&gt;
 
-  &lt;p&gt;Louis XVI. left his chamber with his family, ministers, and the members of the department, and announced to the persons assembled for the defence of the chateau that he was going to the national assembly. He placed himself between two ranks of national guards, summoned to escort him, and crossed the apartments and garden of the Tuileries. A deputation of the assembly, apprised of his approach, came to meet him: “Sire,” said the president of this deputation, “the assembly, eager to provide for your safety, offers you and your family an asylum in its bosom.” The procession resumed its march, and had some dif culty in crossing the terrace of the Tuileries, which was crowded with an animated mob, breathing forth threats and insults. The king and his family had great dif culty in reaching the hall of the assembly, where they took the seats reserved for the ministers. “Gentlemen,” said the king, “I come here to avoid a great crime; I think I cannot be safer than with you.” “Sire,” replied Vergniaud, who filled the chair, “you may rely on the firmness of the national assembly. Its members have sworn to die in maintaining the rights of the people, and the constituted authorities.” The king then took his seat next the president. But Chabot reminded him that the assembly could not deliberate in the presence of the king, and Louis XVI. retired with his family and ministers into the reporter’s box behind the president, whence all that took place could be seen and heard.   [FAM]&lt;/p&gt;
+  &lt;p&gt;Danton himself, as substitute for the procureur général,
+is said to have given the signal to the bell-ringers and at a
+quarter before twelve the mournful notes of the great bell of the Cordeliers with that of Saint-André-des-Arcs fell on the
+ears of the expectant city. . . .&lt;/p&gt;
+
+  &lt;p&gt;By three o’clock in the morning nineteen sections were represented by their commissioners at the Hôtel de Ville. By seven there were eighty-four commissioners, represent ing twenty-eight sections. They called themselves “the new commune” and installed themselves in a hall adjoining the one in which the council general was still sitting.&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Antoine Galiot Mandat de Grancey&lt;/strong&gt; (mentioned), commander-in-chief of the Garde nationale, is murdered by the insurgents at the Hôtel de Ville. At dawn, convinced by 
+&lt;strong&gt;Pierre-Louis Rœderer&lt;/strong&gt; (Jerry Di Giacomo), procureur général of the départment of Paris,  the royal family decide to take refuge in the National Assembly, which is in permant session.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;While all this was passing at the Tuileries, the insurgents were advancing in several columns; they had passed the night in assembling, and becoming organized. . . . At this moment Roederer arrived, and increased the alarm of the court by announcing that the danger was extreme; that the insurgents would not be treated with, and that the national guard could not be depended upon. “Sire,” said he, urgently, “your majesty has not five minutes to lose: your only safety is in the national assembly; it is the opinion of the department that you ought to repair thither without delay. There are not sufficient men in the court to defend the chateau; nor are we sure of them.” . . . at the renewed urgency of Roederer, the king after looking at him attentively for a few minutes, turned to the queen, and said, as he rose: “Let us go.” “Monsieur Roederer,” said Madame Elizabeth, addressing the recorder, “you answer for the life of the king?” “Yes, madame, with my own,” he replied. “I will walk immediately before him.”&lt;/p&gt;
+
+  &lt;p&gt;Louis XVI. left his chamber with his family, ministers, and the members of the department, and announced to the persons assembled for the defence of the chateau that he was going to the national assembly. He placed himself between two ranks of national guards, summoned to escort him, and crossed the apartments and garden of the Tuileries. A deputation of the assembly, apprised of his approach, came to meet him: “Sire,” said the president of this deputation, “the assembly, eager to provide for your safety, offers you and your family an asylum in its bosom.” The procession resumed its march, and had some difficulty in crossing the terrace of the Tuileries, which was crowded with an animated mob, breathing forth threats and insults. The king and his family had great dif culty in reaching the hall of the assembly, where they took the seats reserved for the ministers. “Gentlemen,” said the king, “I come here to avoid a great crime; I think I cannot be safer than with you.” “Sire,” replied Vergniaud, who filled the chair, “you may rely on the firmness of the national assembly. Its members have sworn to die in maintaining the rights of the people, and the constituted authorities.” The king then took his seat next the president. But Chabot reminded him that the assembly could not deliberate in the presence of the king, and Louis XVI. retired with his family and ministers into the reporter’s box behind the president, whence all that took place could be seen and heard.   [FAM]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;At the Salle du Manège, Vergniaud welcomes the King and assures him of the safety of the royal family.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;strong&gt;Le Roi.&lt;/strong&gt;  Je suis venu ici pour éviter un grand crime, et je me croirai toujours en sûreté avec ma famille, au milieu des représentants de la nation. (Applaudissements.)&lt;/p&gt;
@@ -905,13 +936,23 @@ Active in Section-business, one peril threatening all. Thus he, though an offici
   &lt;p&gt;[AP, Friday 10 August 1792]&lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/assembly.jpg&quot; alt=&quot;Assembly&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Back at Tuileries, nine hundred Swiss Guards, commanded by &lt;strong&gt;Karl Josef von Bachmann&lt;/strong&gt; (Jean-Pierre Delamour), defend the empty palace with their lives.&lt;/p&gt;
+
 &lt;blockquote&gt;
   &lt;p&gt;Nevertheless it was the Swiss who opened fire, and that sealed their fate when the commune’s forces gained the upper hand after about an hour. Once the Swiss began to retreat, they were pursued by mobs of bystanders without firearms who hacked them to death with knives, pikes, and hatchets, and tore their uniforms to pieces to make trophies. Altogether 600 of them perished, some in supposed safe custody after the siege was over. Less than half that number fell among the besiegers, 90 of them fédérés, and the rest the same sort of shopkeepers, petty tradesmen, and artisans who had been so prominent in the 1789 journées and on 20 June. It was the bloodiest day of the Revolution so far, but also one of the most decisive. Though the king and his family remained unscathed, his authority fell with his palace. As crowds rampaged through Paris destroying all symbols and images of royalty down to the very word ‘king’ in street names, the Legislative Assembly declared the monarchy suspended until a national Convention had met to decide on the future form of government.  [WD]&lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/tuileries.jpg&quot; alt=&quot;Tuileries&quot; /&gt;&lt;/p&gt;
+
 &lt;blockquote&gt;
   &lt;p&gt;Finally, the 23rd of September was appointed for opening the extraordinary assembly, destined to decide the fate of royalty. But royalty had already fallen on the 10th of August, that day marked by the insurrection of the multitude against the middle classes and the constitutional throne, as the 14th of July had seen the insurrection of the middle class against the privileged class and the absolute power of the crown. On the 10th of August began the dictatorial and arbitrary epoch of the revolution. Circumstances becoming more and more difficult to encounter, a vast warfare arose, requiring still greater energy than ever, and that energy irregular, because popular, rendered the domination of the lower class restless, cruel, and oppressive.    [FAM]&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p align=&quot;right&quot;&gt;
+(26 new historical figures; 2 mentioned)
+&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 30 Mar 2020 00:00:00 -0400</pubDate>
@@ -936,6 +977,8 @@ Active in Section-business, one peril threatening all. Thus he, though an offici
 &lt;blockquote&gt;
   &lt;p&gt;Early on 17 July the Count d’Artois left Versailles for the north-east frontier, to be followed over subsequent weeks by many of the courtiers . . . And later the same day the king made his way, escorted only by a handful of deputies, to the Hôtel de Ville of Paris to confirm that the troops were withdrawing and announce that Necker had been recalled. He also confirmed the nomination of Bailly as mayor of Paris (a new title) and Lafayette as commander of the new citizens’ militia, now being called the National Guard. It was said that 150,000 armed citizens were on the streets that day, all wearing cockades in red and blue, the colours both of the city and the Duke d’Orlaéns. Later in the month Lafayette would splice them with Bourbon white for the uniform of his National Guardsmen, and so the patriotic tricolour was born. The king accepted a cockade and stuck it in his hat on arrival at the Hôtel de Ville; and then, for the first time, people began to cheer him.   [WD]&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/key.jpg&quot; alt=&quot;Key ceremony&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Together with comte d’Artois, the family of duchesse de Polignac left France, who never reunites with Marie-Antoinette thereafter. Louis’s visit to Paris on 17 July begins with a ceremonial key conferment &lt;em&gt;at the Barrière de Chaillot (rather than the Hôtel de Ville)&lt;/em&gt;:&lt;/p&gt;
 
@@ -978,6 +1021,8 @@ duc de la Rochefoucauld-Liancourt (Yves-Marie Maurin), and
 
   &lt;p&gt;[AP, Tuesday 4 August 1789]&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/august4.jpg&quot; alt=&quot;August 4&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;The resolutions were proclaimed as the&lt;/em&gt; Décrets des 4, 6, 7, 8 et 11 août 1789, &lt;em&gt;or the&lt;/em&gt; August Decrees. &lt;em&gt;Slavery was not abolished throughout France until 1794.&lt;/em&gt; &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -1107,6 +1152,8 @@ duc de la Rochefoucauld-Liancourt (Yves-Marie Maurin), and
   &lt;p&gt;Banquets themselves seemed unpatriotic when bread was so scarce, and by 4 October all Paris believed that counter-revolutionary orgies at Versailles were the prelude to a new attempt to starve the capital. The next morning, several districts of the city were awakened by the ringing of the tocsin from church bell-towers, recognized ever since the days of July as a call to arms. Crowds of women began to assemble at markets, from where they marched to the Hôtel de Ville. After surging through the building to impress the city authorities with their determination, late in the morning they set off for Versailles dragging cannon and brandishing whatever makeshift weapons they could lay hands on, recruiting newcomers as they went along. Perhaps 7,000 of them reached Versailles early in the evening and invaded the National Assembly, calling for bread and punishment for those who had insulted the national cockade. The unprotected deputies had no alternative but to welcome them with mollifying speeches. They were visibly relieved when a deputation went on to confront the king.   [WD]&lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/women-march.jpg&quot; alt=&quot;Women's March&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;Danton’s involvement in this insurrection can be found in Hilaire Belloc’s &lt;em&gt;Danton: A Study&lt;/em&gt; (1899):&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -1125,7 +1172,7 @@ duc de la Rochefoucauld-Liancourt (Yves-Marie Maurin), and
   &lt;p&gt;Louison, overcome by emotion at the king’s goodness, fainted. When she recovered her senses, she begged to kiss the king’s hand.&lt;/p&gt;
 
   &lt;p&gt;“She deserves better than that,” said the king, and embraced her.&lt;/p&gt;
-  &lt;p align=&quot;right&quot;&gt;—George H. Allen, &lt;em&gt;The French Revolution&lt;/em&gt; (1923)
+  &lt;p align=&quot;right&quot;&gt;—George H. Allen, &lt;em&gt;The French Revolution&lt;/em&gt;, vol. 2 (1923)
 &lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -1153,6 +1200,8 @@ duc de la Rochefoucauld-Liancourt (Yves-Marie Maurin), and
 &lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/courtyard.jpg&quot; alt=&quot;Balcony&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;Louis and the royal court move to the Tuileries Palace in the afternoon of 6 October.&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -1176,6 +1225,8 @@ duc de la Rochefoucauld-Liancourt (Yves-Marie Maurin), and
   &lt;p align=&quot;right&quot;&gt;—Stephen G. Tallentyre, &lt;em&gt;The Life of Mirabeau&lt;/em&gt; (1912)
 &lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/queen-mirabeau.jpg&quot; alt=&quot;Queen and Mirabeau&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The confidential letters mentioned in the dialogue refer to Mirabeau’s &lt;em&gt;Notes to the Court&lt;/em&gt;, which were conveyed by Auguste d’Arenberg, comte de La Marck. &lt;em&gt;From June 1790 to March 1791, Mirabeau averaged two notes a week to the Court. Many were destroyed after Mirabeau’s death and the insurrection of 10 August 1792. Only fifty of them still exist.&lt;/em&gt;&lt;/p&gt;
 
@@ -1213,6 +1264,8 @@ Malgré les mutins tout réussira !&lt;/p&gt;
   &lt;p&gt;A profound silence now reigned in the vast inclosure, and Lafayette, appointed that day to the command in chief of all the national guards of the kingdom, advanced first to take the civic oath. Borne on the arms of grenadiers to the altar of the country, amidst the acclamations of the people, he exclaimed with a loud voice, in his own name, and that of the federates and troops: “We swear eternal fidelity to the nation, the law, and the king; to maintain to the utmost of our power the constitution decreed by the national assembly, and accepted by the king; and to remain united with every Frenchman by the indissoluble ties of fraternity.” Forthwith the firing of cannon, prolonged cries of “Vive la nation!” “Vive le roi!” and sounds of music, mingled in the air. The president of the national assembly took the same oath, and all the deputies repeated it with one voice. Then Louis XVI. rose and said: “I, king of the French, swear to employ all the power delegated to me by the constitutional act of the state, in maintaining the constitution decreed by the national assembly and accepted by me.” The queen, carried away by the enthusiasm of the moment, rose, lifted up the dauphin in her arms, and showing him to the people, exclaimed: “Behold my son, he unites with me in the same sentiments.” At that moment the banners were lowered, the acclamations of the people were heard, and the subjects believed in the sincerity of the monarch, the monarch in the affection of the subjects, and this happy day closed with a hymn of thanksgiving.   [FAM]&lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/federation.jpg&quot; alt=&quot;Federation&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;The ceremony concludes the events in the first year of the Revolution. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;march-1792-invention-of-the-guillotine&quot;&gt;March 1792: Invention of the Guillotine&lt;/h4&gt;
@@ -1238,7 +1291,7 @@ Malgré les mutins tout réussira !&lt;/p&gt;
 &lt;p&gt;The participation of Louis XVI in the modification of this machine can be found in the memoir of Charles-Henri Sanson, who later guillotined the King as well as Danton, Camille Desmoulins, and Robespierre.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Louis was the King’s physician, and his royal patron heard of the mission he had to discharge. The dexterity of this prince as a locksmith is well known. He wished to assist Louis, and to give his personal attention to a matter in which, he said, he was interested as as sovereign. The King and his physician expressed as desire to examine the plan of the machine proposed by Guillotin. The latter was therefore requested by Dr. Louis to come to the Tuileries . . .&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;Louis&lt;/strong&gt; was the King’s physician, and his royal patron heard of the mission he had to discharge. The dexterity of this prince as a locksmith is well known. He wished to assist Louis, and to give his personal attention to a matter in which, he said, he was interested as as sovereign. The King and his physician expressed as desire to examine the plan of the machine proposed by Guillotin. The latter was therefore requested by Dr. Louis to come to the Tuileries . . .&lt;/p&gt;
 
   &lt;p&gt;Guillotin showed Louis the plan of the machine drawn by Schmidt, to which my grandfather had added a few explanations. While Louis was examining it with great attention, a door was opened, and a new comer appeared in the closet. Dr. Louis, who was seated, immediately rose. The stranger looked coldly at Dr. Guillotin, who bowed; and abruptly addressing Louis, he said to him:&lt;/p&gt;
 
@@ -1260,7 +1313,7 @@ Malgré les mutins tout réussira !&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;This meeting allegedly happened on 2 March 1792. Five days later, the design was approved by the Legislative Assembly. The first experiments were carried out on 17 April 1792, whose results favored Louis’s suggestion.&lt;/em&gt; &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p align=&quot;right&quot;&gt;
-(13 new historical figures)
+(13 new historical figures; 1 mentioned)
 &lt;/p&gt;
 
 </description>
@@ -1359,6 +1412,8 @@ Malgré les mutins tout réussira !&lt;/p&gt;
   &lt;p&gt;The royal session took place the following day in the Salle des Menus Galleries, arranged in the form of an amphitheatre, were filled with spectators. The deputies were summoned and introduced according to the order established in 1614. The clergy were conducted to the right, the nobility to the left, and the commons in front of the throne at the end of the hall.  [FAM]&lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/estate-general.jpg&quot; alt=&quot;Estate-general&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;em&gt;Among the 1139 delegates were 291 clergmen, 270 nobles, and 578 commoners.&lt;/em&gt; As depicted in the film, Louis XVI delivers a short opening speech, whose text is modified from the documentation:&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -1408,6 +1463,8 @@ Malgré les mutins tout réussira !&lt;/p&gt;
 &lt;blockquote&gt;
   &lt;p&gt;It was feared that the majority of the clergy would recognise the assembly by uniting with it; and to prevent so decided a step, instead of hastening the royal sitting, they closed the Salle des Etats, in order to suspend the assembly till the day of the sitting. . . . At that time Bailly presided over the assembly. . . . At an appointed hour on the following day, he repaired to the Salle des Etats, and finding an armed force in possession, he protested against this act of despotism. In the meantime the deputies arrived, dissatisfaction increased, all seemed disposed to brave the perils of a sitting. . . . one named the Tennis-court; this proposition was well received, and the deputies repaired thither in procession. Bailly was at their head; the people followed them with enthusiasm; even soldiers volunteered to escort them, and there, in a bare hall, the deputies of the commons standing with upraised hands, and hearts full of their sacred mission, swore, with only one exception, not to separate till they had given France a constitution.  [FAM]&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/tennis-court.jpg&quot; alt=&quot;Tennis Court Oath&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The Oath can be found in &lt;em&gt;Gazette nationale ou le Moniteur universel&lt;/em&gt;, the official newspaper during the Revolution:&lt;/p&gt;
 
@@ -1464,6 +1521,8 @@ par la puissance des baïonnettes. »&lt;/p&gt;
   &lt;p&gt;On the following day, Sunday, the 12th of July, about four in the afternoon, Necker’s disgrace and departure became known at Paris. . . . In a short time the city was in the greatest confusion; crowds gathered together on every side; more than ten thousand persons flocked to the Palais Royal all affected by this news, ready for anything, but not knowing what measure to adopt. Camille Desmoulins, a young man, more daring than the rest, one of the usual orators of the crowd, mounted on a table, pistol in hand, exclaiming: “Citizens, there is no time to lose; the dismissal of Necker is the knell of a Saint Bartholomew for patriots! This very night all the Swiss and German battalions will leave the Champ de Mars to massacre us all; one resource is left; to take arms!” These words were received with violent acclamations. He proposed that cockades should be worn for mutual recognition and protection. “Shall they be green,” he cried, “the colour of hope; or red, the colour of the free order of Cincinnatus?” “Green! green!” shouted the multitude. The speaker descended from the table, and fastened the sprig of a tree in his hat. Every one imitated him. The chestnut-trees of the palace were almost stripped of their leaves . . .  [FAM]&lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/desmoulins.jpg&quot; alt=&quot;Cafe de Foy&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;This inspiring speech at the Café de Foy near the Galerie de Montpensier in the Palais-Royal is vividly reenacted in the film. So is the attack on the multitude in the Tuileries Garden by the German Régiment Royal-Allemand cavalerie commanded by &lt;strong&gt;Charles Eugène de Lorraine, prince de Lambesc&lt;/strong&gt; (Mario Luraschi).&lt;/p&gt;
 
 &lt;p&gt;In the meantime, Danton launches his political career by orating at the Club des Cordeliers, &lt;em&gt;although its synchronization with the Parisian insurrections is probably fictional.&lt;/em&gt; Among the enthusiastic crowd are Marat, Legendre, Simon, and the Saint-Domingue distiller &lt;strong&gt;Claude Fournier l’Américain&lt;/strong&gt; (Georges Trillat). &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
@@ -1471,6 +1530,8 @@ par la puissance des baïonnettes. »&lt;/p&gt;
 &lt;h4 id=&quot;14-july-1789-storming-of-the-bastille&quot;&gt;14 July 1789: Storming of the Bastille&lt;/h4&gt;
 
 &lt;p&gt;The Bastille, demolished in late 1789, is “reconstructed” using the Château de Tarascon in Bouches-du-Rhône. Most narrative of this siege and sieze is historically accurate.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/bastille.jpg&quot; alt=&quot;Bastille&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The commanders of defense are &lt;strong&gt;Bernard René Jourdan, marquis de Launay&lt;/strong&gt; (Henri Serre), governor of the Bastille, and Lieutenant &lt;strong&gt;Ludwig von Flüe/Louis de Flue&lt;/strong&gt; (Philippe Chemin), commanding officer of the Swiss Guards from the Régiment de Salis-Samade. On the side of besiegers are &lt;strong&gt;Stanislas-Marie Maillard&lt;/strong&gt; (Patrick Tessari), the “capitaine des volontaires de la Bastille,” who stands on a plank over the moat to get the letter from de Launay, and &lt;strong&gt;Pierre-Augustin Hulin&lt;/strong&gt; (Bernard Lepinaux), who leads one of the two mutinous columns of Gardes Françaises. &lt;strong&gt;Jacques-Alexis Thuriot de la Rosière&lt;/strong&gt; (Michel Melki) serves as the negotiator between the two sides.&lt;/p&gt;
 
