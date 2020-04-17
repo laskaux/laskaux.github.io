@@ -200,7 +200,7 @@ tags: film
 
 **[20 Apr 1792]**&nbsp; Declaration of war on Austria
 
-**[11 July 1792]**&nbsp; « Citoyens, la patrie est en danger ! » &nbsp;("The Country is in danger!") <br/><br/>
+**[11 July 1792]**&nbsp; « Citoyens, la patrie est en danger ! » &nbsp;("The country is in danger!") <br/><br/>
 
 ----
 
