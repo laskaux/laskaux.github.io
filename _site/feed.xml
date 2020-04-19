@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description></description>
-    <pubDate>Fri, 17 Apr 2020 14:37:36 -0400</pubDate>
+    <pubDate>Sun, 19 Apr 2020 04:53:28 -0400</pubDate>
     
       <item>
         <title>A Cheat Sheet of &lt;em&gt;La Révolution&lt;/em&gt;</title>
@@ -155,7 +155,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Jérôme Pétion de Villeneuve&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Second mayor of Paris (18 Nov 1791–15 Oct 1792); Girondin&lt;/td&gt;
+      &lt;td&gt;Second mayor of Paris (18 Nov 1791–15 Oct 1792); first president of the National Convention (20 Sept–4 Oct 1792); Girondin&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Joseph Ignace Guillotin&lt;/strong&gt;&lt;/td&gt;
@@ -190,7 +190,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Armand Marc, comte de Montmorin Saint-Hérem&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Minister of Foreign Affairs, agent of Mirabeau&lt;/td&gt;
+      &lt;td&gt;Minister of Foreign Affairs; agent of Mirabeau; lynched on 2 Sep 1792&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Jacques Antoine Joseph Cousin&lt;/strong&gt;&lt;/td&gt;
@@ -462,54 +462,70 @@
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Bastille&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;IV&lt;sup&gt;e&lt;/sup&gt;, XI&lt;sup&gt;e&lt;/sup&gt;, and XII&lt;sup&gt;e&lt;/sup&gt; arrondissements&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;I&lt;sup&gt;er&lt;/sup&gt; ARR&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Salle du Manège&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;National Constituent Assembly (6 Oct 1789–30 Sept 1791); Legislative Assembly (1 Oct 1791–20 Sept 1792)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Palais des Tuileries&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Residence of the royal family after 6 Oct 1789; Demonstration of 20 June 1792; Insurrection of 10 Aug 1792&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Jardin des Tuileries&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;Riot of 12 July 1789&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Palais des Tuileries&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Residence of the royal family after 6 Oct 1789; Demonstration of 20 June 1792; Insurrection of 10 Aug 1792&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Salle du Manège&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;National Constituent Assembly (6 Oct 1789–30 Sept 1791); Legislative Assembly (1 Oct 1791–20 Sept 1792); National Convention (21 Sep 1792–9 May 1793)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Salle des Machines&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;National Convention (10 May 1793–25 Oct 1795)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Café de Foy, Galerie de Montpensier, Palais-Royal&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;Camille Desmoulins’s speech on 12 July 1789&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Champ de Mars&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;em&gt;Fête de la Fédération&lt;/em&gt; (14 July 1790); Champ de Mars massacre (17 July 1791)&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;398 Rue Saint-Honoré&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;House of Maurice Duplay; Robespierre’s residence after 17 July 1791&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;III&lt;sup&gt;e&lt;/sup&gt; ARR&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Tour du Temple&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Detention place for the royal family since 13 Aug 1792&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;IV&lt;sup&gt;e&lt;/sup&gt; ARR&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Hôtel de Ville&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Louis XVI visted Paris on 17 July 1789&lt;/td&gt;
+      &lt;td&gt;City Hall of Paris&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Barrière de Chaillot&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;“Key Ceremony” on 17 July 1789 (filmed in Hôtel de Ville)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Château de Saint-Cloud&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Mirabeau’s rendezvous with the Queen on 2 July 1790&lt;/td&gt;
+      &lt;td&gt;V&lt;sup&gt;e&lt;/sup&gt; ARR&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Louis-le-Grand&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;Alma Mater of Robespierre and Camille Desmoulins&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
+      &lt;td&gt;VI&lt;sup&gt;e&lt;/sup&gt; ARR&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Couvent des Cordeliers&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Club des Cordeliers&lt;/td&gt;
+      &lt;td&gt;Club des CordeliersSaint-André&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Couvent des Jacobins de la rue Saint-Honoré&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Club des Jacobins&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;1 Cour du Commerce Saint-André&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;1 Cour du Commerce&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;Danton’s apartment&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
@@ -517,8 +533,42 @@
       &lt;td&gt;Marat’s printing house&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;398 Rue Saint-Honoré&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;House of Maurice Duplay; Robespierre’s residence after 17 July 1791&lt;/td&gt;
+      &lt;td&gt;VII&lt;sup&gt;e&lt;/sup&gt; ARR&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Champ de Mars&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;Fête de la Fédération&lt;/em&gt; (14 July 1790); Champ de Mars massacre (17 July 1791)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;VIII&lt;sup&gt;e&lt;/sup&gt; ARR&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Place de la Révolution&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Site of the guillotine; renamed Place de la Concorde in 1795&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Barrière de Chaillot&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;“Key Ceremony” on 17 July 1789 (filmed in front of Hôtel de Ville)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Château de Saint-Cloud&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Mirabeau’s rendezvous with the Queen on 2 July 1790&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Couvent des Jacobins de la rue Saint-Honoré&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Club des Jacobins&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -594,6 +644,503 @@ No. 5 in F from “16 Minuets,” K. 176&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 11 Apr 2020 00:00:00 -0400</pubDate>
+      </item>
+    
+      <item>
+        <title>In the Name of Liberté&amp;colon;&amp;nbsp; V. Virtue and Terror</title>
+        <link>/2020/04/01/revolution-terror.html</link>
+        <guid isPermaLink="true">/2020/04/01/revolution-terror.html</guid>
+        <description>&lt;h4 id=&quot;10-february-1793-death-of-antoinette-gabrielle-danton&quot;&gt;10 February 1793: Death of Antoinette Gabrielle Danton&lt;/h4&gt;
+
+&lt;h4 id=&quot;31-may2-june-1793-fall-of-the-girondins&quot;&gt;31 May–2 June 1793: Fall of the Girondins&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Marie-Jean Hérault de Séchelles&lt;/strong&gt; (Jean-Philippe Chatrier)&lt;/p&gt;
+
+&lt;h4 id=&quot;13-july-1793-assassination-of-marat&quot;&gt;13 July 1793: Assassination of Marat&lt;/h4&gt;
+
+&lt;h4 id=&quot;30-march5-april-1794-fall-of-the-dantonists&quot;&gt;30 March–5 April 1794: Fall of the Dantonists&lt;/h4&gt;
+
+&lt;p&gt;, M&lt;sup&gt;me&lt;/sup&gt; Duplessis&lt;/p&gt;
+
+&lt;h4 id=&quot;2628-july-1794-fall-of-maximilien-robespierre&quot;&gt;26–28 July 1794: Fall of Maximilien Robespierre&lt;/h4&gt;
+
+</description>
+        <pubDate>Wed, 01 Apr 2020 00:00:00 -0400</pubDate>
+      </item>
+    
+      <item>
+        <title>In the Name of Liberté&amp;colon;&amp;nbsp; IV. Reign or Die</title>
+        <link>/2020/03/31/revolution-trial.html</link>
+        <guid isPermaLink="true">/2020/03/31/revolution-trial.html</guid>
+        <description>&lt;hr /&gt;
+
+&lt;h2 id=&quot;part-two-les-années-terribles&quot;&gt;Part Two: &lt;em&gt;Les Années terribles&lt;/em&gt;&lt;/h2&gt;
+
+&lt;h4 id=&quot;13-august-1792-imprisonment-of-the-royal-family&quot;&gt;13 August 1792: Imprisonment of the royal family&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;As crowds rampaged through Paris destroying all symbols and images of royalty down to the very word ‘king’ in street names, the Legislative Assembly declared the monarchy suspended until a national Convention had met to decide on the future form of government. Only the efforts of Vergniaud averted the abolition of monarchy there and then. But as the king was transferred, under close custody, to the &lt;strong&gt;keep of the Temple&lt;/strong&gt;, a medieval fortress in the north-eastern suburbs, few believed that he would ever sit on the throne again unless with foreign aid.&lt;/p&gt;
+
+  &lt;p&gt;Power now lay not with the Assembly, but with the new Paris commune. The Assembly acted as if it was still in charge: for example it appointed a new team of ministers. The three who had fallen on 13 June were at last restored, tainted though they now were by association with the equivocating Brissotins. But the most sensational appointment was the new &lt;strong&gt;minister of justice, Danton&lt;/strong&gt;, who had built a career entirely in the sectional politics of Paris since 1789, and was brought in explicitly to keep the sansculottes happy. The appointments were made by less than 300 deputies. The majority had simply gone to ground over the previous few weeks, thus further diminishing the Assembly’s authority. During the six weeks left to it, this rump did almost everything the commune wanted.   [WD]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Camilles Desmoulins is appointed Secretary-General to Danton. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;17-august-1792-exile-of-la-fayette&quot;&gt;17 August 1792: Exile of La Fayette&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;What the commune wanted most was vengeance—on those who had abetted the king, and those who had resisted the popular will before and during the uprising of 10 August, on refractory priests protected for too long by the deposed tyrant, and on Lafayette, the butcher of the Champ de Mars and would-be military dictator. He at least escaped: after toying briefly with marching his army on Paris, on 17 August, the day the council of ministers decided to dismiss him, he crossed the Prussian lines and gave himself up to the enemy. Even that brought him five years in Austrian prisons.   [WD]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;-26-august-1792-fall-of-longwy&quot;&gt;&lt;br /&gt; 26 August 1792: Fall of Longwy&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The paranoid atmosphere only grew worse when it was learned that the Prussians had invaded French territory; and news arriving on the twenty-sixth of the fall of Longwy, with scarcely any resistance, seemed to confirm that traitors were everywhere. The response of Danton, who increasingly dominated his fellow ministers during these weeks, was to demand a general search of all dwellings in the capital for hidden arms and suspects. These ‘domiciliary visits’ took place on 30–31 August, resulting in 3,000 further arrests. The result was to cram the prisons of Paris to bursting-point with presumed traitors.   [WD]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;M. Danton&lt;/strong&gt; &lt;br /&gt;
+. . . il était important de se saisir des traîtres, mais y en eût-il 30,000 à arrêter, il faut qu’ils soient arrêtés demain, et que demain Paris communique avec la France entière.&lt;/p&gt;
+
+  &lt;p&gt;[AP, Tuesday 28 August 1792]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Meanwhile, Danton rejects the proposal of abadoning Paris.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The executive council, composed of the ministers, was summoned by the committee of general defence, to deliberate on the best measures to be adopted in this perilous conjuncture. Some proposed to wait for the enemy under the walls of the capital, others to retire to Saumur. “You are not ignorant,” said Danton, when his turn to speak arrived, “that France is Paris; if you abandon the capital to the foreigner, you surrender yourselves, and you surrender France. It is in Paris that we must defend ourselves by every possible means. I cannot sanction any plan tending to remove you from it.”  [FAM]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A few weeks ago, &lt;strong&gt;Horace-Camille Desmoulins&lt;/strong&gt;—the only child of Camille and Lucile—was born.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;On July 6th, 1792, at nine o’clock in the morning, Horace-Camille Desmoulins was born, the baby who was never really to know either his father or mother, who it is scarcely probable could even remember them in after years. It is possible that “the little Horace” may have had dim memories of that beautiful young mother, who must have seemed to his baby brain like some pictured angel as she bent over his cradle. Perhaps he vaguely remembered that boyish, excitable father, with brilliant dark eyes, who would romp with his “little lizard” in the evenings, rolling with him on the floor in peals of laughter, while Danton sat by quietly smiling and thinking of his own boys at the old home in Arcis-sur-Aube.&lt;/p&gt;
+  &lt;p align=&quot;right&quot;&gt;—Violet Methley, &lt;em&gt;Camille Desmoulins: A Biography&lt;/em&gt; (1914)
+&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In the film, Camille Desmoulins is consistently portrayed as a humanist objecting to terror towards civilians. &lt;em&gt;In reality, as a main promoter of popular violence, his political opinions were even closer to those of Marat.&lt;/em&gt; &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;29-august2-september-1792-battle-of-verdun&quot;&gt;29 August–2 September 1792: Battle of Verdun&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;At this period the Prussians, advancing on the plan of invasion described above, passed the frontier, after a march of twenty days. The army of Sedan was without a leader, and incapable of resisting a force so superior in numbers and so much better organised. On the 20th of August, Longwy was invested by the Prussians; on the 21st it was bombarded, and on the 24th it capitulated. On the 30th the hostile army arrived before Verdun, invested it, and began to bombard it. Verdun taken, the road to the capital was open. The capture of Longwy, and the approach of so great a danger, threw Paris into the utmost agitation and alarm.   [FAM]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;-27-september-1792-september-massacres&quot;&gt;&lt;br /&gt; 2–7 September 1792: September Massacres&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;After 10 August Marat, the self-styled friend of the people but hitherto too extreme and bloodthirsty in his opinions to command much support, came into his own. His solution to the crisis was massacre, both of the suspects herded together in the prisons and indeed of selected ministers and deputies. Many sections, and their representatives on the commune, thought the same . . .&lt;/p&gt;
+
+  &lt;p&gt;The trigger was further bad news from the front. After Longwy, Verdun came under Prussian siege, and on 2 September news came that the enemy had passed it. There were no other fortresses on the road to Paris. Danton, in his most famous speech, urged his compatriots to defiance—‘If we are bold, bolder still, and forever bold, then France is saved!’—but the predominant mood in Paris was panic. That afternoon, a convoy of prisoners going from the Hôtel de Ville to the Abbaye prison was stopped and attacked by sansculottes. Seventeen of them were hacked to death. Soon afterwards, a makeshift prison at the old Carmelite convent was attacked and there was more butchery, although most of it was now directed by a kangaroo court. By the end of the afternoon the commune had taken a hand, but only to co-ordinate the massacres, not to stop them. The next day it sent a circular to provincial centres hinting that they might like to follow the Parisian example. By then all except two of the capital’s prisons had been broken into, makeshift tribunals established claiming to dispense the people’s justice, and vengeance visited on all those deemed from the charges against them to be potential counter-revolutionaries. Extravagant celebrations and cheering marked each acquittal, and there were plenty of them. Even so, about half the prison population of Paris, between 1,100 and 1,400 people, were killed between 2 September and the last incidents on the seventh; and most of the victims were in no sense politically dangerous. Certainly, they included surviving Swiss defenders of the Tuileries, over 200 priests, and a number of prominent relics of the old order such as the former foreign minister &lt;strong&gt;Montmorin&lt;/strong&gt;, or the queen’s notorious favourite the &lt;strong&gt;Princess de Lamballe&lt;/strong&gt;. Forty-five political prisoners were also massacred at Versailles on the ninth, including Delessart. But most of those who died were common criminals, forging assignats being the nearest any of them came to subversive activity.    [WD]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;These massacres are at least excused, if not encouraged, by executive leaders including Danton.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The real truth would seem to be that Danton tacitly permitted the massacres, although he did not himself organise them. Possibly he felt himself to be powerless in the matter, and feared to lose his influence with the people if he interfered with their frightful vengeance. The country was in the most terrible and imminent danger; he may have beheved, with the mob, that there was real peril from the plots of the imprisoned aristocrats. All the thoughts and actions of the Minister of Justice at this moment were directed towards the defeat of the enemy who was advancing 
+towards Paris. . . .&lt;/p&gt;
+
+  &lt;p&gt;What we have said of Danton applies to Camille in a minor degree. . . . We have no means of ascertaining what his private opinion concerning them may have been, but it must be confessed that his pamphlet on the events of June 20th . . . indirectly advocated such a method of popular vengeance as that which was so terribly carried out on September 2nd and 3rd.&lt;/p&gt;
+
+  &lt;p&gt;It is almost certain that Danton and Camille alike later felt themselves to have been morally responsible for the massacres. The epithet of “Septembriseur” had the power to make Danton falter to the day of his death; he could not hear it applied to him, with a conscience clear of guilt.&lt;/p&gt;
+  &lt;p align=&quot;right&quot;&gt;—Violet Methley, &lt;em&gt;Camille Desmoulins: A Biography&lt;/em&gt; (1914)
+&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;-20-september-1792-battle-of-valmy&quot;&gt;&lt;br /&gt; 20 September 1792: Battle of Valmy&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;On 20 September, at Valmy, just east of Châlons, the French forces at last made a stand. Kellermann and Dumouriez had more men that the Prussians. They had fewer guns, but those they had were superior, and handled by graduates of the outstand- ing pre-revolutionary gunnery schools. So they outgunned the enemy, and when they followed up their advantage the French charged to cries of Vive la Nation! and the singing of ‘Ça ira’. They fought with an enthusiasm and determination not seen on European battlefields for generations, and they stopped the invaders in their tracks. Watching all this was Goethe, brought along by the Duke of Weimar to enliven the expected military promenade. In the stunned disappointment of the Prussian camp that damp night he offered Job’s comfort to his fellow invaders. ‘Here and today,’ he told them, ‘a new epoch in the history of the world has begun, and you can boast you were present at its birth.’    [WD]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is a decisive victory of the French army commanded by general &lt;strong&gt;François Christophe Kellermann&lt;/strong&gt; (Bernard Celeyron) against the Prussians commanded by the Duke of Brunswick.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The Prussian army had followed the movements of Dumouriez. On the 20th, it attacked Kellermann at Valmy, in order to cut off from the French army the retreat on Chalons. There was a brisk cannonade on both sides. The Prussians advanced in columns towards the heights of Valmy, to carry them. Kellermann also formed his infantry in columns, enjoined them not to  re, but to await the approach of the enemy, and charge them with the bayonet. He gave this command, with the cry of Vive la nation! and this cry, repeated from one end of the line to the other, startled the Prussians still more than the  rm attitude of our troops. The duke of Brunswick made his somewhat shaken battalions fall back; the  ring continued till the evening; the enemy attempted a fresh attack, but were repulsed. The day was ours; and the success of Valmy, almost insigni cant in itself, produced on our troops, and upon opinion in France, the effect of the most complete victory.   [FAM]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;-21-september-1792-abolition-of-the-monarchy&quot;&gt;&lt;br /&gt; 21 September 1792: Abolition of the monarchy&lt;/h4&gt;
+
+&lt;p&gt;The day after the Battle of Valmy, the new National Convention, presided over by Pétion, makes the &lt;em&gt;Proclamation de l’abolition de la royauté&lt;/em&gt;, which is proposed by &lt;strong&gt;Jean-Marie Collot d’Herbois&lt;/strong&gt; (Steve Kalfa), deputy of Paris.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Collot-d’Herbois&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;Vous venez de prendre une délibération sage ; mais il en est une grande, une salutaire, une indispensable ; il en est une que vous ne pouvez remettre à demain, que vous ne pouvez remettre à ce soir, que vous ne pouvez différer un seul instant, sans être infidèles au vœu de la nation; c’est Vabolition de la royauté. (&lt;em&gt;Applaudissements unanimes.&lt;/em&gt;)&lt;/p&gt;
+
+  &lt;p&gt;Je demande que la Convention nationale déclare que la base immuable de toutes ses opérations sera l’abolissement de la royauté. (&lt;em&gt;Nouveaux applaudissements.&lt;/em&gt;)&lt;/p&gt;
+
+  &lt;p&gt;[AP, Friday 21 September 1792]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In the film, the procedures of several successive days at the National Convention are combined into one single session. &lt;em&gt;The Convention first met on 20 September. The next day, monarchy was officially abolished. The news about the victory at Valmy was not heard in Paris until 22,&lt;/em&gt; when &lt;strong&gt;Jacques-Nicolas Billaud-Varenne&lt;/strong&gt; (Serge Dupire) proposed to date 1792 as the First Year of the French Republic.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Billaud-Varenne&lt;/strong&gt; &lt;br /&gt;
+demande qu’à compter de la journée d’hier, au lieu de dater les actes l’an quatrième de la liberté, etc… on date l’an premier de la République française. (&lt;em&gt;Vifs applaudissements des tribunes.&lt;/em&gt;)&lt;/p&gt;
+
+  &lt;p&gt;[AP, Saturday 22 September 1792]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Three days later, the Convention prounced that “the French Republic is one and indivisible,” initiated by Danton:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Danton&lt;/strong&gt; &lt;br /&gt;
+. . . après avoir posé ces bases qui garantissent le règne de l’égalité, anéantissons cet esprit de parti qui nous perdrait. On prétend qu’il est parmi nous des hommes qui ont l’opinion de vouloir morceler la France ; faisons disparaître ces idées absurdes, en prononçant la peine de mort contre leurs auteurs. &lt;strong&gt;La France doit être un tout indivisible&lt;/strong&gt;; elle doit avoir unité de représentation. Les citoyens de Marseille veulent donner la main aux citoyens de Dunkerque. Je demande donc la peine de mort contre quiconque voudrait détruire l’unité en France, et je propose de décréter que la Convention nationale pose pour base du gouvernement qu’elle va établir l’unité de représentation et d’exécution. (&lt;em&gt;Applaudissements.&lt;/em&gt;)&lt;/p&gt;
+
+  &lt;p&gt;(La Convention nationale décrète, à l’unanimité, que &lt;strong&gt;la République française est une et indivisible.&lt;/strong&gt;)&lt;/p&gt;
+
+  &lt;p&gt;[AP, Tuesday 25 September 1792]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;-13-november-1792-debut-of-saint-just&quot;&gt;&lt;br /&gt; 13 November 1792: Debut of Saint-Just&lt;/h4&gt;
+
+&lt;p&gt;The first time on the lectern, &lt;strong&gt;Louis Antoine de Saint-Just&lt;/strong&gt; (Christopher Thompson) delivered the electrifying speech—“The King must reign or die.”&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Saint-Just&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;. . . Outre ces motifs, qui tous vous portent à ne juger pas Louis comme citoyen mais à le juger cOraihë rébelié, de âiiel droit réclâmerait-il pour être jugé civilement l’engagement que nous avions pris àvép lui, lorsqu il est Clair qu il a violé lé seul quMl avait pris ênvers nous, celui de nous conserver? Quel serait cet acte dernier de la tyrannie, que de prétendre être jugé par des lois qu’il a détruites? Et, citoyens, si nous lui accordions de le juger civilement, c’est-à-dire suivant les lois, c’est-à-dire en citoyen, à ce titre il nous jugerait, il jugerait le peuple même.&lt;/p&gt;
+
+  &lt;p&gt;Pour moi, je ne vois point de milieu : &lt;strong&gt;cet homme doit régner ou mourir.&lt;/strong&gt; Il vous prouvera que tout ce qu’il a fait, il l’a fait pour soutenir lé dépôt qui lui était confié ; car, en engageant avec lui cette discussion, vous ne lui pouvez demander compte de sa malignité cachée : il vohs perdra dans le cercle vicieux que vous tracez vous-mêmes pour l’accuser.&lt;/p&gt;
+
+  &lt;p&gt;[AP, Tuesday 13 November 1792]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/saint-just.jpg&quot; alt=&quot;Saint-Just&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The president of the session should be Hérault de Séchelles (appears later) rather than Pétion.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The private meeting of Danton and Robespierre as shown in the film before Saint-Just’s address is probably fictional. But Robespierre’s demand for the King’s death was well reflected in his speech on 3 December—“Louis must die because the nation must live.”&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Maximilien Robespierre&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;Citoyens, l’Assemblée a été entraînée, à son insu, loin de la véritable question. Il n’y a point ici de procès à faire. Louis n’est un point accusé. Vous n’êtes point des juges. Vous n’êtes, vous ne pouvez être que des hommes d’Etat, et les représentants de la nation. Vous n’avez point une sentence à rendre pour ou contre un homme, mais une mesure de salut public à prendre, un acte de providence nationale à exercer. (&lt;em&gt;Applaudissements.&lt;/em&gt;)&lt;/p&gt;
+
+  &lt;p&gt;. . . Mais Louis doit mourir, parce qu’il faut que la patrie vive. Chez un peuple paisible, libre et respecté au dedans comme au dehors, on pourrait écouter les conseils qu’on vous donne d’être généreux. Mais un peuple à qui l’on dispute encore sa liberté, après tant de sacrifices et de combats ; un peuple chez qui les lois ne sont encore inexorables que pour les malheureux ; un peuple chez qui les crimes de la tyrannie sont des sujets de dispute, doit désirer qu’on le venge ; et la générosité dont on nous flatte ressemblerait trop à celle d’une société de brigands qui se partagent des dépouilles.&lt;/p&gt;
+
+  &lt;p&gt;[AP, Monday 3 December 1792]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;Contrary to the plea of Robespierre, the Natonal Convention decided on the same day to put Louis XVI on trial.&lt;/em&gt; &lt;br /&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;11-december-1792-interrogation-of-louis-xvi&quot;&gt;11 December 1792: Interrogation of Louis XVI&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Louis had been confined in the Temple for four months. . . . He had only one servant about his person, Clery, who at the same time waited on his family. During the first months of his imprisonment, he was not separated from his family; and he still found solace in meeting them. He comforted and supported his two companions in misfortune, his wife and sister; he acted as preceptor to the young dauphin, and gave him the lessons of an unfortunate man, of a captive king. . . . But the consolation he found in the sight of his family did not last long; as soon as his trial was decided, he was separated from them. . . .&lt;/p&gt;
+
+  &lt;p&gt;In this state of things, Santerre received the order to conduct Louis XVI. to the bar of the convention. He repaired to the Temple, accompanied by the mayor, who communicated his mission to the king, and inquired if he was willing to descend. Louis hesitated a moment, then said: “This is another violence. I must yield!” and he decided on appearing before the convention; not objecting to it, as Charles I.  [FAM]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;At this time, the mayor of Paris is &lt;strong&gt;Nicolas Chambon&lt;/strong&gt; (Michel Voletti), in whose carriage Louis is brought to the National Convention, chaired by &lt;strong&gt;Bertrand Barère&lt;/strong&gt; (François-Éric Gendron).&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Santerre&lt;/strong&gt;, &lt;em&gt;commandant de la garde nationale&lt;/em&gt;, paraît à la barre. &lt;br /&gt;
+Citoyen président, dit-il, nous venons d’exécuter le décret de l’Assemblée. Louis Capet est arrivé; il est aux portes de la salle, il attend vos ordres.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Le Président&lt;/strong&gt; (Barère) &lt;br /&gt;
+La Convention nationale a ordonné que Louis serait traduit à la barre. Faites exécuter son décret. &lt;br /&gt;&lt;br /&gt;
+Santerre quitte la salle des séances.&lt;/p&gt;
+
+  &lt;p&gt;(&lt;em&gt;Un silence profond s’établit dans l’Assemblée et parmi les citoyens qui Vl’nvironnent.&lt;/em&gt;)&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/louis-xvi.jpg&quot; alt=&quot;Louis XVI&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Le Président&lt;/strong&gt; &lt;br /&gt;
+Louis, la nation française vous accuse. L’Assemblée nationale a décrété, le 3 décembre,.que vous seriez jugé par elle; le 6 décembre, elle a décrété que vous seriez traduit à sa barre. On va vous lire i’acte énonciatif des délits qui vous sont imputés. Vous pouvez vous asseoir.&lt;/p&gt;
+
+  &lt;p&gt;(Louis s’assied.)&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Mailhe&lt;/strong&gt; &lt;br /&gt;
+secrétaire, fait lecture de cet acte en entier.&lt;/p&gt;
+
+  &lt;p&gt;[AP, Tuesday 11 December 1792]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Secretary &lt;strong&gt;Jean-Baptiste Mailhe&lt;/strong&gt; then reads the indictment, presented to the Convention the day before by Robert Lindet (appears later). Excerpts of the interrogation by Barère is depicted in the film:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Le Président&lt;/strong&gt; dit ensuite :&lt;/p&gt;
+
+  &lt;p&gt;Louis, vous allez répondre aux questions que la Convention nationale me charge de vous faire.&lt;/p&gt;
+
+  &lt;p&gt;Louis, le peuple français vous accuse d’avoir commis une multitude de crimes pour établir votre tyrannie, en détruisant sa liberté.&lt;/p&gt;
+
+  &lt;p&gt;. . .&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Le Président&lt;/strong&gt; &lt;br /&gt;
+Après votre arrestation à Varennes, l’exercice du pouvoir exécutif fut un moment suspendu dans vos mains, et vous conspirâtes encore. Le 17 juillet, le sang des citoyens fut versé au Champ-de-Mars. Une lettre de votre main, écrite en 1790, à La Fayette, prouve qu’il existait une coalition criminelle entre vous et La Fayette, à laquelle Mirabeau avait accédé. . . . Qu’avez-vous à répondre?&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Louis&lt;/strong&gt; &lt;br /&gt;
+Ce qui s’est passé le 17 juillet ne peut, en aucune manière, me regarder ; pour le reste, je n’en ai aucune connaissance.&lt;/p&gt;
+
+  &lt;p&gt;. . .&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Le Président&lt;/strong&gt; &lt;br /&gt;
+Vos frères, ennemis de l’Etat, ont rallié les émigrés sous leurs drapeaux; ils ont levé des régiments, fait des emprunts et contracté des alliances en votre nom; vous ne les avez désavoués qu’au moment où vous avez été bien certain que vous ne pouviez plus nuire à leurs projets. . . . Qu’avez-vous à répondre?&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Louis&lt;/strong&gt; &lt;br /&gt;
+J’ai désavoué toutes les démarches de mes frères, aussiôt qu’elles sont parvenues à ma connaissance, comme la Constitution me le prescrivait. Je n’en ai aucune de ce billet.&lt;/p&gt;
+
+  &lt;p&gt;. . .&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Le Président&lt;/strong&gt; &lt;br /&gt;
+Le Corps législatif avait rendu, le 29 novembre, un décret contre les prêtres factieux : vous en avez suspendu l’exécution. Qu’avez-vous à répondre?&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Louis&lt;/strong&gt; &lt;br /&gt;
+La Constitution me laissait la sanction libre des décrets.&lt;/p&gt;
+
+  &lt;p&gt;. . .&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Le Président&lt;/strong&gt; &lt;br /&gt;
+Pourquoi avez-vous fait doubler la garde des Suisses dans les premiers jours du mois d’août?&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Louis&lt;/strong&gt; &lt;br /&gt;
+Toutes les autorités constituées l’ont su ; et parce que le château était menacé d’être attaqué, j’étais une autorité constituée, je devais le défendre.&lt;/p&gt;
+
+  &lt;p&gt;. . .&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Le Président&lt;/strong&gt; &lt;br /&gt;
+Vous avez fait couler le sang des Français. Qu’avez-vous à Répondre?&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Louis&lt;/strong&gt; &lt;br /&gt;
+Non, Monsieur ; ce n’est pas moi.&lt;/p&gt;
+
+  &lt;p&gt;. . .&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Dufriche-Valazé&lt;/strong&gt; &lt;br /&gt;
+Voici une lettre de Louis Capet, en date du 29 juin 1790, laquelle établit la coalition entre Bailly et La Fayette, afin d’opérer une contre-révolution.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Le Président&lt;/strong&gt; &lt;br /&gt;
+Reconnaissez-vous votre écriture ?&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Louis&lt;/strong&gt; &lt;br /&gt;
+Cela a l’air d’être mon écriture ; mats je me réserve d’expliquer ce qui peut y être contenu.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Dufriche-Valazé&lt;/strong&gt; &lt;br /&gt;
+Voici une pièce ; il y a en tête : M. de La Fayette. Mémoire de….. (on ne peut lire le nom) 29 juin 1792. . . .&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Le Président&lt;/strong&gt; &lt;br /&gt;
+Louis, reconnaissez-vous cette lettre?&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Louis&lt;/strong&gt; &lt;br /&gt;
+Je demande à l’examiner avec attention ; il parait qu’elle n’a point été envoyée ; c’est un projet.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Le Président&lt;/strong&gt; &lt;br /&gt;
+Huissiers, présentez la lettre.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Louis&lt;/strong&gt; &lt;br /&gt;
+Je ne la connais pas.&lt;/p&gt;
+
+  &lt;p&gt;. . .&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Le Président&lt;/strong&gt; &lt;br /&gt;
+Avant de communiquer la pièce à Louis, j’ai une question à lui faire. Avez-vous fait construire une armoire dans la muraille du château des Tuileries, garnie d’une porte de fer? Y avez-vous renfermé des papiers?&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Louis&lt;/strong&gt; &lt;br /&gt;
+Je n’en ai aucune connaissance.&lt;/p&gt;
+
+  &lt;p&gt;[AP, Tuesday 11 December 1792]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;At the time of the trial, the division of the National Convention into the &lt;strong&gt;Girondins&lt;/strong&gt; (Brissots, Vergniaud, etc.) and the &lt;strong&gt;Montagnards&lt;/strong&gt; (Danton, Robespierre, Desmoulins, Marat, Legendre, etc.) is clearly shown in their sitting.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/convention.jpg&quot; alt=&quot;Convention&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;During a long examination, he (Louis XVI) displayed much calmness and presence of mind, he replied to each question appropriately, often in an affecting and triumphant manner. He repelled the reproaches addressed to him respecting his conduct before the 14th of July, reminding them that his authority was not then limited; before the journey to Varennes, by the decree of the constituent assembly, which had been satis ed with his replies; and after the 10th of August, by throwing all public acts on ministerial responsibility, and by denying all the secret measures which were personally attributed to him. This denial did not, however, in the eyes of the convention, overthrow facts, proved for the most part by documents written or signed by the hand of Louis XVI. himself; he made use of the natural right of every accused person. Thus he did not admit the existence of the iron chest, and the papers that were brought forward. Louis XVI. invoked a law of safety, which the convention did not admit, and the convention sought to protect itself from anti-revolutionary attempts, which Louis XVI. would not admit.   [FAM]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;-26-december-1792-defense-of-louis-xvi&quot;&gt;&lt;br /&gt; 26 December 1792: Defense of Louis XVI&lt;/h4&gt;
+
+&lt;p&gt;Louis XVI attends the Convention again with his defense team—Raymond de Sèze, Chrétien Guillaume de Lamoignon de Malesherbes, and François Denis Tronchet. Louis’s last statement is presented in the film with light modification to the original text:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Louis&lt;/strong&gt; prend la parole et dit :&lt;/p&gt;
+
+  &lt;p&gt;Citoyens,&lt;/p&gt;
+
+  &lt;p&gt;On vient de vous exposer mes moyens de défense : je ne les renouvellerai point. En vous parlant peut-être pour la dernière fois, je vous déclare que ma conscience ne me reproche rien, et que mes défenseurs ne vousontditque la vérité.&lt;/p&gt;
+
+  &lt;p&gt;Je n’ai jamais craint que ma conduite fût examinée publiquement; mais mon cœur est déchiré de trouver dans l’acte d’accusation, l’imputation d’avoir voulu faire répandre le sang du peuple, et surtout que les malheurs du 10 août me soient attribués.&lt;/p&gt;
+
+  &lt;p&gt;J’avoue que les preuves multipliées que j’avais données dans tous les temps, de mon amour pour le peuple, et la manière dont je m’étais toujours conduit, me paraissaient devoir prouver que je craignais peu de m’exposer pour épargner son sang, et éloigner à jatnais de moi une pareille imputation.&lt;/p&gt;
+
+  &lt;p&gt;[AP, Wednesday 26 December 1792]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;-1517-january-1793-verdict-and-sentence&quot;&gt;&lt;br /&gt; 15–17 January 1793: Verdict and sentence&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;« La Convention nationale décrète quelle ira demain aux voix, par appel nominal, sur les trois questions suivantes, dans cet ordre et dans la même séance :&lt;/p&gt;
+
+  &lt;p&gt;1° Louis est-il coupable de conspiration contre la liberté de la nation et d’attentat contre la sûreté générale de l’Etat?&lt;/p&gt;
+
+  &lt;p&gt;2° Le jugement, quel qu’il soit, sera-t-il envoyé à la sanction du peuple?&lt;/p&gt;
+
+  &lt;p&gt;3° Quelle peine lui sera-t-il infligée? »&lt;/p&gt;
+
+  &lt;p&gt;[AP, Wednesday 14 January 1793]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;The first two questions was voted on 15 January:&lt;/em&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;1°&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;2°&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;YES&lt;/td&gt;
+      &lt;td&gt;673&lt;/td&gt;
+      &lt;td&gt;286&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;NO&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;423&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Recused or abstained&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;12&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Various statements&lt;/td&gt;
+      &lt;td&gt;32&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Did not answer&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The assembly had unanimously decided that Louis was guilty, when the appeal to the people was put to the question. Two hundred and eighty-four voices voted for, four hundred and twenty-four against it; ten declined voting. Then came the terrible question as to the nature of the punishment. Paris was in a state of the greatest excitement: deputies were threatened at the very door of the assembly; fresh excesses on the part of the populace were dreaded; the Jacobin clubs resounded with extravagant invectives against Louis XVI., and the Right. The Mountain, till then the weakest party in the convention, sought to obtain the majority by terror, determined, if it did not succeed, none the less to sacri ce Louis XVI. Finally, after four hours of nominal appeal, the president, Vergniaud, said: “Citizens, I am about to proclaim the result of the scrutiny. When justice has spoken, humanity should have its turn.” There were seven hundred and twenty-one voters. The actual majority was three hundred and sixty-one. The death of the king was decided by a majority of twenty-six votes. Opinions were very various: Girondists voted for his death, with a reservation, it is true; most of the members of the Right voted for imprisonment or exile; a few of the Mountain voted with the Girondists. As soon as the result was known, the president said, in a tone of grief: “In the name of the convention, I declare the punishment, to which it condemns Louis Capet, to be death.”    [FAM]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;Among the 726 deputies being present: 387 voted for “death,” including 26 for the amendament proposed by Mailhe; 44 for “death with respite”; 290 for other penalties; 5 recused or abstained.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The session on 16–17 January, where deputies including &lt;strong&gt;Lazare Carnot&lt;/strong&gt; (Jean-Marie Lemaire) and &lt;strong&gt;Jean-Baptiste Robert Lindet&lt;/strong&gt; (Daniel Lombart) vote for sentences is reenacted in the film.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Mailhe&lt;/strong&gt; &lt;br /&gt;
+Par une conséquence naturelle de l’opinion que j’ai déjà émise sur la première question, je vote pour la mort de Louis. Je ferai jine seule observation. Si la mort a la majorité, je pense qu’il serait digne de la Convention nationale d’examiner s’il ne serait pas politique et utile de presser ou de relarder le moment de l’exécution. Cette proposition est indépendante de mon vote. Je reviens à la première question et je vote pour la mort.&lt;/p&gt;
+
+  &lt;p&gt;. . .&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Vergniaud&lt;/strong&gt; &lt;br /&gt;
+. . . Il s’agit maintenant de statuer sur la peine à infliger à Louis. J’ai déclaré hier que je le reconnaissais coupable de conspiration contre la liberté et la sûreté nationale. Il ne m’est pas permis aujourd’hui d’hésiter sur la peine. La loi parle : c’est la mort ; mais en prononçant ce mot terrible, inquiet sur le sort de ma patrie, sur les dangers qui menacent même la liberté, sur tout le sang qui peut être versé, j’exprime le même vœu que Mailhe, et je demande qu’il soit sou mis à une délibération de l’Assemblée.&lt;/p&gt;
+
+  &lt;p&gt;. . .&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Maximilien Robespierre&lt;/strong&gt; &lt;br /&gt;
+. . . Je suis inflexible pour les oppresseurs, parce que je suis compatissant pour les opprimés ; je ne Connais point l’humanité qui égorge les peuples, etqui pardonne aux despotes. . . . Je vote pour la mort.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Danton&lt;/strong&gt; &lt;br /&gt;
+Je ne suis point de cette foule d’hommes d’Etat qui ignorent qu’on ne compose point avec les tyrans, qui ignorent qu’on ne frappe les rais qu’à la tête, qui ignorent qu’on ne doit rien attendre de ceux de l’Europe que par la force de nos armes. Je vote pour la mort du tyran.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Collot-d’Herbois&lt;/strong&gt; &lt;br /&gt;
+Eloigné de la Convention nationale, j’ai déjà émis le vœu dont j’étais fortement convaincu ; ce vœu, c’est la mort. Fidèle à ma conscience, fidèle au vœu de mes commettants, je le répète aujourd’hui. . . . Je vote pour la mort.&lt;/p&gt;
+
+  &lt;p&gt;. . .&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Billaud-Varenne&lt;/strong&gt; &lt;br /&gt;
+La mort dans les vingt-quatre heures.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Camille Desmoulins&lt;/strong&gt; &lt;br /&gt;
+Manuel dans son opinion du mois de novembre a dit : Un roi mort, ce n’est pas un homme de moins. Je vote pour la mort, trop tard peut-être pour l’honneur de la Convention.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Marat&lt;/strong&gt; &lt;br /&gt;
+Dans l’intime conviction où je suis que Louis est le principal auteur des forfaits qui ont fait couler tant de sang le 10 août, et de tous les massacres qui ont souillé la France depuis la Révolution, je vote pour la mort du tyran dans les vingt-quatre heures.&lt;/p&gt;
+
+  &lt;p&gt;. . .&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Carnot&lt;/strong&gt; &lt;br /&gt;
+Dans mon opinion, la justice veut que Louis meure, et la politique le veut également. Jamais, je l’avoue, devoir ne pesa davantage sur mon cœur, que celui qui m’est imposé; mais je pense que pour prouver votre attachement aux lois de l’égalité, pour prouver que les ambitieux ne vous effraient point, vous devez frapper de mort le tyran. Je vote pour la mort.&lt;/p&gt;
+
+  &lt;p&gt;. . .&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Saint-Just&lt;/strong&gt; &lt;br /&gt;
+Puisque Louis XVI fut l’ennemi du peuple, de sa liberté et de son bonheur, je conclus à la mort.&lt;/p&gt;
+
+  &lt;p&gt;. . .&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Jean-Baptiste-Robert Lindet&lt;/strong&gt; &lt;br /&gt;
+Je ne puis voir des républicains dans ceux qui hésitent à frapper un tyran. Je vote pour la mort.&lt;/p&gt;
+
+  &lt;p&gt;. . .&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Brissot&lt;/strong&gt; &lt;br /&gt;
+Dans l’opinion que j’ai présentée, j’ai déclaré que Louis paraissait coupable du crime de haute trahison, qu’il méritait la mort. J’étais, et je suis encore convaincu que le jugement de la Convention, quel qu’il fût, entraînerait de terribles inconvénients. . . . Je vote pour là mort, en suspendant son exécution jusqu’après la ratification de la Constitution par le peuple.&lt;/p&gt;
+
+  &lt;p&gt;[AP, Wednesday 16 and Thursday 17 January 1793]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;-21-january-1793-execution-of-louis-xvi&quot;&gt;&lt;br /&gt; 21 January 1793: Execution of Louis XVI&lt;/h4&gt;
+
+&lt;p&gt;Accompanied by his confessor &lt;strong&gt;Henri Edgeworth de Firmont&lt;/strong&gt; (Richard De Burnchurch), Louis XVI is escorted to the guillotine at the Place de la Révolution (Place de la Concorde). The day was recorded in the memoir of his executioner &lt;strong&gt;Charles-Henri Sanson&lt;/strong&gt; (Christopher Lee):&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It was on December 11, 1792, that the monarch appeared before the Convention, then presided over by Barrère, whose cold and trenchant eloquence was to exercise a decisive influence on the final vote. Sentence was passed on January 17. The surprise caused by the result was so great that the votes were counted a second time ; but on the following day it was ascertained beyond doubt that the sentence passed upon Louis Capet was death.&lt;/p&gt;
+
+  &lt;p&gt;My grandfather heard the news on the 19th. . . . In the evening Charles Henri and his son went out. They learned that the King had asked for a delay of three day to prepare himself for death, and that the petition had been refused ; and Charles Henri, having gone as far as the legislative palace, was positively assured that the only favour granted to the King of France was a final meeting with his family and the assistance of a priest of his religion. It was therefore certain that the execution had been appointed for the following day.&lt;/p&gt;
+
+  &lt;p&gt;. . .&lt;/p&gt;
+
+  &lt;p&gt;On the following day, at dawn, my grandfather and my father were roused by the sound of the drums which were calling out the section, each district having to furnish a battalion for the execution. . . . At this stage, I cannot do better than let my grandfather speak for himself and give his own version of the events which followed:&lt;/p&gt;
+
+  &lt;p&gt;. . .&lt;/p&gt;
+
+  &lt;p&gt;‘  The carriage stopped at the foot of the scaffold. The King was sitting on the back seat on the right; next to him was his confessor, and on the front seat two gendarmes. The latter came down first; then the priest stepped out, and he was directly followed by the King, who appeared even more collected and calm than when I saw him at Versailles and in the Tuileries.&lt;/p&gt;
+
+  &lt;p&gt;‘  As he approached the steps of the scaffold I cast a last glance around. The people were silent, the drums were sounding, and not the slightest sign of a rescue being at hand was given. Charlemagne was as troubled as I was ; as to my brother Martin, he was younger and had more firmness. He advanced respectfully, took off his hat, and told the King that he must take his coat off.&lt;/p&gt;
+
+  &lt;p&gt;‘  “There is no necessity,” answered he; “despatch me as I am now.”&lt;/p&gt;
+
+  &lt;p&gt;‘  My brother insisted, and added that it was indis- 
+pensably necessary to bind his hands.&lt;/p&gt;
+
+  &lt;p&gt;. . .&lt;/p&gt;
+
+  &lt;p&gt;‘  In my turn I interfered, and bending to the ear of the priest, “Monsieur l’Abbé,” I said, “ask the King to submit. While I tie his hands we can gain time, and perhaps some assistance may be forthcoming.”&lt;/p&gt;
+
+  &lt;p&gt;‘  The abbé looked sadly and eagerly in my face, and 
+then addressing the King: “ Sire,” said he, “submit to 
+this last sacrifice, which shall make you look more like 
+our Saviour.”&lt;/p&gt;
+
+  &lt;p&gt;‘  The King held out his hands, while his confessor was presenting a crucifix to his lips. Two assistants tied the hands which had wielded a sceptre. He then ascended the steps of the scaffold, supported by the worthy priest. “Are these drums going to sound for ever?” he said to Charlemagne. On reaching the platform, he advanced to the side where the crowd was the thickest, and made such an imperative sign that the drummers stopped for a moment.&lt;/p&gt;
+
+  &lt;p&gt;‘ “Frenchmen!” he exclaimed, in a strong voice, “you see your King ready to die for you. May my blood cement your happiness! I die innocent of what I am charged with!”&lt;/p&gt;
+
+  &lt;p&gt;‘  He was about to continue when Santerre, who was at the head of his staff, ordered the drummers to beat, and nothing more could be heard.&lt;/p&gt;
+
+  &lt;p&gt;‘  In a moment he was bound to the weigh-plank, and a few seconds afterwards, while under my touch the knife was sliding down, he could still hear the voice of the priest pronouncing these words :&lt;/p&gt;
+
+  &lt;p&gt;‘ “Son of Saint-Louis, ascend to Heaven!”&lt;/p&gt;
+  &lt;p align=&quot;right&quot;&gt;—&lt;em&gt;Memoirs of the Sansons&lt;/em&gt;, Vol. 1 (1876)
+&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/louis-xvii.jpg&quot; alt=&quot;Louis XVII&quot; /&gt;&lt;/p&gt;
+
+&lt;p align=&quot;right&quot;&gt;
+(12 new historical figures)
+&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 31 Mar 2020 00:00:00 -0400</pubDate>
       </item>
     
       <item>
@@ -830,7 +1377,7 @@ Having officially adopted a consitutional monarchy, the Assembly proclaimed a ge
 &lt;blockquote&gt;
   &lt;p&gt;Citoyens, la patrie est en danger !&lt;/p&gt;
 
-  &lt;p&gt;« Que ceux qui vont obtenir l’honneur de marcher les premiers pour défendre ce qu’ils ont de plus cher, se souviennent toujours qu’ils sont Français et libres ; que leurs concitoyens maintiennent, dans leurs foyers, la sûreté des personnes et des propriétés ; que les magistrats au peuple veillent attentivement ; que tous, dans un courage calme, attribut de la véritable force, attendent, pour agir, le signal de la loi, et la patrie sera sauvée. » (Applaudissements.)&lt;/p&gt;
+  &lt;p&gt;« Que ceux qui vont obtenir l’honneur de marcher les premiers pour défendre ce qu’ils ont de plus cher, se souviennent toujours qu’ils sont Français et libres ; que leurs concitoyens maintiennent, dans leurs foyers, la sûreté des personnes et des propriétés ; que les magistrats au peuple veillent attentivement ; que tous, dans un courage calme, attribut de la véritable force, attendent, pour agir, le signal de la loi, et la patrie sera sauvée. » (&lt;em&gt;Applaudissements.&lt;/em&gt;)&lt;/p&gt;
 
   &lt;p&gt;[AP, Wednesday 11 July 1792]&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -901,6 +1448,14 @@ Active in Section-business, one peril threatening all. Thus he, though an offici
 &lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;p&gt;&lt;em&gt;These weeping scenes were recorded in the diary of Luile Desmoulins.&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;After all, these pages from the young wife’s diary, showing a great episode of history from the point of view of the women who waited to hear the upshot of the fight, is of greater interest than any cut-and-dried description. It is so plain throughout that, for the moment, Lucile Desmouhns, Gabrielle Danton and Madame Robert cared very little what was to be the issue of the day. What mattered it if their cause was won, if it meant the loss of their husbands ?&lt;/p&gt;
+  &lt;p align=&quot;right&quot;&gt;—Violet Methley, &lt;em&gt;Camille Desmoulins: A Biography&lt;/em&gt; (1914)
+&lt;/p&gt;
+&lt;/blockquote&gt;
+
 &lt;p&gt;The Hôtel de Ville chaired by &lt;strong&gt;Jacques Antoine Joseph Cousin&lt;/strong&gt; (Sady Rebbot) is invaded first. An “Insurrectionary Commune” is founded by insurgent leaders including Danton, &lt;strong&gt;Jacques-René Hébert&lt;/strong&gt; (Georges Corraface), and &lt;strong&gt;Jean-Lambert Tallien&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -929,13 +1484,13 @@ ears of the expectant city. . . .&lt;/p&gt;
 &lt;p&gt;At the Salle du Manège, Vergniaud welcomes the King and assures him of the safety of the royal family.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;Le Roi.&lt;/strong&gt;  Je suis venu ici pour éviter un grand crime, et je me croirai toujours en sûreté avec ma famille, au milieu des représentants de la nation. (Applaudissements.)&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;Le Roi.&lt;/strong&gt;  Je suis venu ici pour éviter un grand crime, et je me croirai toujours en sûreté avec ma famille, au milieu des représentants de la nation. (&lt;em&gt;Applaudissements.&lt;/em&gt;)&lt;/p&gt;
 
-  &lt;p&gt;J’y passerai la journée. (Applaudissements.)&lt;/p&gt;
+  &lt;p&gt;J’y passerai la journée. (&lt;em&gt;Applaudissements.&lt;/em&gt;)&lt;/p&gt;
 
   &lt;p&gt;&lt;strong&gt;M. le Président&lt;/strong&gt; (Vergniaud).  L’Assemblée nationale connaît tous ses devoirs. Elle regarde comme un des plus chers le maintien de toutes les autorités constituées.&lt;/p&gt;
 
-  &lt;p&gt;Elle demeurera ferme à son poste. Nous saurons tous y mourir. (Applaudissements.)&lt;/p&gt;
+  &lt;p&gt;Elle demeurera ferme à son poste. Nous saurons tous y mourir. (&lt;em&gt;Applaudissements.&lt;/em&gt;)&lt;/p&gt;
 
   &lt;p&gt;[AP, Friday 10 August 1792]&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -982,8 +1537,6 @@ ears of the expectant city. . . .&lt;/p&gt;
   &lt;p&gt;Early on 17 July the Count d’Artois left Versailles for the north-east frontier, to be followed over subsequent weeks by many of the courtiers . . . And later the same day the king made his way, escorted only by a handful of deputies, to the Hôtel de Ville of Paris to confirm that the troops were withdrawing and announce that Necker had been recalled. He also confirmed the nomination of Bailly as mayor of Paris (a new title) and Lafayette as commander of the new citizens’ militia, now being called the National Guard. It was said that 150,000 armed citizens were on the streets that day, all wearing cockades in red and blue, the colours both of the city and the Duke d’Orlaéns. Later in the month Lafayette would splice them with Bourbon white for the uniform of his National Guardsmen, and so the patriotic tricolour was born. The king accepted a cockade and stuck it in his hat on arrival at the Hôtel de Ville; and then, for the first time, people began to cheer him.   [WD]&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/key.jpg&quot; alt=&quot;Key ceremony&quot; /&gt;&lt;/p&gt;
-
 &lt;p&gt;Together with comte d’Artois, the family of duchesse de Polignac left France, who never reunites with Marie-Antoinette thereafter. Louis’s visit to Paris on 17 July begins with a ceremonial key conferment &lt;em&gt;at the Barrière de Chaillot (rather than the Hôtel de Ville)&lt;/em&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -993,6 +1546,8 @@ ears of the expectant city. . . .&lt;/p&gt;
   &lt;p align=&quot;right&quot;&gt;—Bailly, &lt;em&gt;Mémoires d'un témoin de la Révolution&lt;/em&gt;, Tome 2&lt;sup&gt;e&lt;/sup&gt; (1804)
 &lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/revolution/key.jpg&quot; alt=&quot;Key ceremony&quot; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;20-july6-august-1789-grande-peur&quot;&gt;&lt;br /&gt;20 July–6 August 1789: &lt;em&gt;Grande Peur&lt;/em&gt;&lt;/h4&gt;
 
@@ -1281,7 +1836,7 @@ Malgré les mutins tout réussira !&lt;/p&gt;
 
   &lt;p&gt;‘In every case of capital punishment the mode of execution shall be the same. The criminal shall be decapitated by means of a mechanical contrivance.’&lt;/p&gt;
 
-  &lt;p&gt;By a fortunate chance, Charles Henri Sanson had become acquainted with a German engineer of the name of Schmidt. . . . One evening, after playing an air of &lt;em&gt;Iphigénie en Aulide&lt;/em&gt;, Charles Henri spoke to his companion of his perplexity. Schmidt hesitated for a moment, and then traced a few rapid lines on a piece of paper, which he handed to my grandfather. It was the guillotine.&lt;/p&gt;
+  &lt;p&gt;By a fortunate chance, Charles Henri Sanson (appears later) had become acquainted with a German engineer of the name of Schmidt. . . . One evening, after playing an air of &lt;em&gt;Iphigénie en Aulide&lt;/em&gt;, Charles Henri spoke to his companion of his perplexity. Schmidt hesitated for a moment, and then traced a few rapid lines on a piece of paper, which he handed to my grandfather. It was the guillotine.&lt;/p&gt;
 
   &lt;p&gt;It was thus that the guillotine came into the world, as it were, in the midst of a concert.&lt;/p&gt;
 

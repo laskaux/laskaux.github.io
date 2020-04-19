@@ -203,7 +203,7 @@ A demonstration in the spirit of that at the Champ de Mars are led by **Antoine-
 
 >Citoyens, la patrie est en danger !
 >
-> « Que ceux qui vont obtenir l'honneur de marcher les premiers pour défendre ce qu'ils ont de plus cher, se souviennent toujours qu'ils sont Français et libres ; que leurs concitoyens maintiennent, dans leurs foyers, la sûreté des personnes et des propriétés ; que les magistrats au peuple veillent attentivement ; que tous, dans un courage calme, attribut de la véritable force, attendent, pour agir, le signal de la loi, et la patrie sera sauvée. » (Applaudissements.)
+> « Que ceux qui vont obtenir l'honneur de marcher les premiers pour défendre ce qu'ils ont de plus cher, se souviennent toujours qu'ils sont Français et libres ; que leurs concitoyens maintiennent, dans leurs foyers, la sûreté des personnes et des propriétés ; que les magistrats au peuple veillent attentivement ; que tous, dans un courage calme, attribut de la véritable force, attendent, pour agir, le signal de la loi, et la patrie sera sauvée. » (_Applaudissements._)
 >
 >[AP, Wednesday 11 July 1792]
 
@@ -257,6 +257,11 @@ The night before the rebellion is painted with some humanistic color:
 > The outcome was never really in doubt. But as the tocsin rang through the night of the ninth-tenth of August, many of the men who made their way towards the Hôtel de Ville were apprehensive. After dinner Camille Desmoulins and his wife had gone to Danton’s apartment to try to stiffen their morale but had found Danton’s wife Gabrielle in floods of tears. Lucile, who remembered herself “laughing like a madwoman,” took Danton’s wife for some air in the street and found a great crowd in the apartment when they got back, everyone trying to outdo each other with grandiloquent utterances that seemed appropriate to their overwrought sense of historymaking. But beneath the oracular declarations, agitation and fear put everyone on edge. When Camille set off into the night, carrying a musket and promising his wife to stay with the reassuringly enormous figure of Danton, she too began to weep passionately.
 > <p align="right">—Simon Schama, <em>Citizens: A Chronicle of the French Revolution</em> (1989)
 
+_These weeping scenes were recorded in the diary of Luile Desmoulins._
+
+>After all, these pages from the young wife's diary, showing a great episode of history from the point of view of the women who waited to hear the upshot of the fight, is of greater interest than any cut-and-dried description. It is so plain throughout that, for the moment, Lucile Desmouhns, Gabrielle Danton and Madame Robert cared very little what was to be the issue of the day. What mattered it if their cause was won, if it meant the loss of their husbands ? 
+ > <p align="right">—Violet Methley, <em>Camille Desmoulins: A Biography</em> (1914)
+
 
 The Hôtel de Ville chaired by **Jacques Antoine Joseph Cousin** (Sady Rebbot) is invaded first. An "Insurrectionary Commune" is founded by insurgent leaders including Danton, **Jacques-René Hébert** (Georges Corraface), and **Jean-Lambert Tallien**.
 
@@ -280,13 +285,13 @@ ears of the expectant city. . . .
 
 At the Salle du Manège, Vergniaud welcomes the King and assures him of the safety of the royal family. 
 
->**Le Roi.**&nbsp; Je suis venu ici pour éviter un grand crime, et je me croirai toujours en sûreté avec ma famille, au milieu des représentants de la nation. (Applaudissements.) 
+>**Le Roi.**&nbsp; Je suis venu ici pour éviter un grand crime, et je me croirai toujours en sûreté avec ma famille, au milieu des représentants de la nation. (_Applaudissements._) 
 >
->J'y passerai la journée. (Applaudissements.)
+>J'y passerai la journée. (_Applaudissements._)
 >
 >**M. le Président** (Vergniaud).&nbsp; L'Assemblée nationale connaît tous ses devoirs. Elle regarde comme un des plus chers le maintien de toutes les autorités constituées. 
 >
->Elle demeurera ferme à son poste. Nous saurons tous y mourir. (Applaudissements.)
+>Elle demeurera ferme à son poste. Nous saurons tous y mourir. (_Applaudissements._)
 >
 >[AP, Friday 10 August 1792]
 

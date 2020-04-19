@@ -51,7 +51,7 @@ tags: film
 |**Jean-Joseph Mounier** | President (28 Sept–7 Oct 1789) during the October Days|
 |**Félix-Julien-Jean Bigot de Préameneu**|President (15–29 Apr 1792) when France declared war on Austria|
 |**Pierre-Louis Rœderer**| Procureur général of the départment of Paris (Nov 1791-Dec 1793); led the royal family to the Assembly on 10 Aug 1792 
-|**Jérôme Pétion de Villeneuve**| Second mayor of Paris (18 Nov 1791–15 Oct 1792); Girondin |
+|**Jérôme Pétion de Villeneuve**| Second mayor of Paris (18 Nov 1791–15 Oct 1792); first president of the National Convention (20 Sept–4 Oct 1792); Girondin |
 |**Joseph Ignace Guillotin**| Physician; promoter of the guillotine |
 
 
@@ -62,7 +62,7 @@ tags: film
 |**Jean-Frédéric de La Tour du Pin Gouvernet**| Minister of War, dismissed in November 1790 | 
 |**Jérôme Champion de Cicé**| Minister of Justice (Keeper of the Seals), dismissed in November 1790 | 
 |**François-Emmanuel Guignard, comte de Saint-Priest**| Minister of Interior Affairs, dismissed in 1791 |
-|**Armand Marc, comte de Montmorin Saint-Hérem**| Minister of Foreign Affairs, agent of Mirabeau|
+|**Armand Marc, comte de Montmorin Saint-Hérem**| Minister of Foreign Affairs; agent of Mirabeau; lynched on 2 Sep 1792 |
 |**Jacques Antoine Joseph Cousin**| Mathematician; chaired the Paris Commune on the night of 10 Aug 1792
 
 #### Club des Cordeliers
@@ -147,21 +147,39 @@ tags: film
 
 #### Paris
 
-|**Bastille**| |
-|**Salle du Manège**| National Constituent Assembly (6 Oct 1789–30 Sept 1791); Legislative Assembly (1 Oct 1791–20 Sept 1792)
-|**Palais des Tuileries**| Residence of the royal family after 6 Oct 1789; Demonstration of 20 June 1792; Insurrection of 10 Aug 1792
+|**Bastille**| IV<sup>e</sup>, XI<sup>e</sup>, and XII<sup>e</sup> arrondissements |
+|I<sup>er</sup> ARR|
 |**Jardin des Tuileries**| Riot of 12 July 1789
+|**Palais des Tuileries**| Residence of the royal family after 6 Oct 1789; Demonstration of 20 June 1792; Insurrection of 10 Aug 1792
+|**Salle du Manège**| National Constituent Assembly (6 Oct 1789–30 Sept 1791); Legislative Assembly (1 Oct 1791–20 Sept 1792); National Convention (21 Sep 1792–9 May 1793)
+|**Salle des Machines**| National Convention (10 May 1793–25 Oct 1795)
 |**Café de Foy, Galerie de Montpensier, Palais-Royal**| Camille Desmoulins's speech on 12 July 1789
-|**Champ de Mars** | _Fête de la Fédération_ (14 July 1790); Champ de Mars massacre (17 July 1791)|
-|**Hôtel de Ville**| Louis XVI visted Paris on 17 July 1789
-|**Barrière de Chaillot**| "Key Ceremony" on 17 July 1789 (filmed in Hôtel de Ville)
-|**Château de Saint-Cloud**|Mirabeau's rendezvous with the Queen on 2 July 1790|
-|**Louis-le-Grand**| Alma Mater of Robespierre and Camille Desmoulins
-|**Couvent des Cordeliers**| Club des Cordeliers
-|**Couvent des Jacobins de la rue Saint-Honoré**| Club des Jacobins|
-|**1 Cour du Commerce Saint-André**| Danton's apartment
-|**8 Cour du Commerce Saint-André**| Marat's printing house
 |**398 Rue Saint-Honoré**| House of Maurice Duplay; Robespierre's residence after 17 July 1791
+|III<sup>e</sup> ARR|
+|**Tour du Temple**| Detention place for the royal family since 13 Aug 1792
+|IV<sup>e</sup> ARR|
+|**Hôtel de Ville**| City Hall of Paris
+|V<sup>e</sup> ARR|
+|**Louis-le-Grand**| Alma Mater of Robespierre and Camille Desmoulins
+|VI<sup>e</sup> ARR|
+|**Couvent des Cordeliers**| Club des CordeliersSaint-André
+|**1 Cour du Commerce**| Danton's apartment
+|**8 Cour du Commerce Saint-André**| Marat's printing house
+|VII<sup>e</sup> ARR|
+|**Champ de Mars** | _Fête de la Fédération_ (14 July 1790); Champ de Mars massacre (17 July 1791)|
+|VIII<sup>e</sup> ARR|
+|**Place de la Révolution**| Site of the guillotine; renamed Place de la Concorde in 1795
+
+
+|**Barrière de Chaillot**| "Key Ceremony" on 17 July 1789 (filmed in front of Hôtel de Ville)
+|**Château de Saint-Cloud**|Mirabeau's rendezvous with the Queen on 2 July 1790|
+
+|**Couvent des Jacobins de la rue Saint-Honoré**| Club des Jacobins|
+
+
+
+
+
 
 <br/>
 

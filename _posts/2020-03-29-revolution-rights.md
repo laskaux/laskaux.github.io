@@ -21,8 +21,6 @@ tags: film
 
 > Early on 17 July the Count d'Artois left Versailles for the north-east frontier, to be followed over subsequent weeks by many of the courtiers . . . And later the same day the king made his way, escorted only by a handful of deputies, to the Hôtel de Ville of Paris to confirm that the troops were withdrawing and announce that Necker had been recalled. He also confirmed the nomination of Bailly as mayor of Paris (a new title) and Lafayette as commander of the new citizens’ militia, now being called the National Guard. It was said that 150,000 armed citizens were on the streets that day, all wearing cockades in red and blue, the colours both of the city and the Duke d’Orlaéns. Later in the month Lafayette would splice them with Bourbon white for the uniform of his National Guardsmen, and so the patriotic tricolour was born. The king accepted a cockade and stuck it in his hat on arrival at the Hôtel de Ville; and then, for the first time, people began to cheer him.  &nbsp;[WD]
 
-![Key ceremony](/assets/img/revolution/key.jpg)
-
 Together with comte d'Artois, the family of duchesse de Polignac left France, who never reunites with Marie-Antoinette thereafter. Louis's visit to Paris on 17 July begins with a ceremonial key conferment _at the Barrière de Chaillot (rather than the Hôtel de Ville)_:
 
 > « J'apporte à votre Majesté les clés de sa bonne ville de Paris : ce sont les mêmes qui ont été présentées à Henri IV ; il avait reconquis son peuple, ici le peuple a reconquis son roi. »
@@ -30,6 +28,7 @@ Together with comte d'Artois, the family of duchesse de Polignac left France, wh
 >["I bring your Majesty the keys to his good city of Paris: these are the same ones that were presented to Henri IV; he had won back his people; here the people have won back their king."] 
 > <p align="right">—Bailly, <em>Mémoires d'un témoin de la Révolution</em>, Tome 2<sup>e</sup> (1804)
 
+![Key ceremony](/assets/img/revolution/key.jpg)
 
 
 #### <br />20 July–6 August 1789: _Grande Peur_
@@ -284,7 +283,7 @@ The short dialogue between Louis XVI and Dr. **Joseph Ignace Guillotin** (Jacque
 >
 >'In every case of capital punishment the mode of execution shall be the same. The criminal shall be decapitated by means of a mechanical contrivance.' 
 >
-> By a fortunate chance, Charles Henri Sanson had become acquainted with a German engineer of the name of Schmidt. . . . One evening, after playing an air of _Iphigénie en Aulide_, Charles Henri spoke to his companion of his perplexity. Schmidt hesitated for a moment, and then traced a few rapid lines on a piece of paper, which he handed to my grandfather. It was the guillotine.
+> By a fortunate chance, Charles Henri Sanson (appears later) had become acquainted with a German engineer of the name of Schmidt. . . . One evening, after playing an air of _Iphigénie en Aulide_, Charles Henri spoke to his companion of his perplexity. Schmidt hesitated for a moment, and then traced a few rapid lines on a piece of paper, which he handed to my grandfather. It was the guillotine.
 >
 > It was thus that the guillotine came into the world, as it were, in the midst of a concert.
 >
