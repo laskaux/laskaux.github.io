@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: In the Name of <em>Liberté</em>&colon;&nbsp; II. The Rights of Citizens
+title: In the Name of Liberté&colon;&nbsp; II. The Rights of Citizens
 
 subtitle: “La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui”
 
@@ -31,7 +31,7 @@ Together with comte d'Artois, the family of duchesse de Polignac left France, wh
 ![Key ceremony](/assets/img/revolution/key.jpg)
 
 
-#### <br />20 July–6 August 1789: _Grande Peur_
+#### <br />20 July – 6 August 1789: _Grande Peur_
 
 > Fear of aristocratic revenge replaced such hope as news of the Bastille arrived . . . Hope, fear, and hunger made the countryside a tinder-box ignited by imagined sightings of ‘brigands’. Panics spread from five separate sparks as bushfires of angry rumours, spreading from village to village at several kilometres an hour, engulfed every region but Brittany and the east. When noble revenge failed to materialize, village militias instead turned their weapons on the seigneurial system itself, compelling seigneurs or their agents to hand over feudal registers to be burned on the village square. This extraordinary revolt came to be known as the ‘Great Fear’. &nbsp;[PM]
 
@@ -195,7 +195,7 @@ Leading the Women's March is Stanislas-Marie Maillard (Patrick Tessari), the sam
 >Louison, overcome by emotion at the king's goodness, fainted. When she recovered her senses, she begged to kiss the king's hand.
 >
 >"She deserves better than that," said the king, and embraced her.
-> <p align="right">—George H. Allen, <em>The French Revolution</em>, vol. 2 (1923)
+> <p align="right">—George H. Allen, <em>The French Revolution</em>, Vol. 2 (1923)
 
 In the evening, Louis signs the August Decrees and the _Declaration of the Rights of Man and of the Citizen_. At midnight, La Fayette and his National Guard arrive.
 
@@ -261,7 +261,7 @@ During the construction scene involving Parisians from all occupations, the choi
 
 Camille and Lucile Desmoulins get engaged. This is however an anachronism: _in reality, M. and M<sup>me</sup> Duplessis did not sent their blessing until December 1790._ 
 
-Another few "rearrangements": _Danton was elected as a member of the Provisional Commune of Paris in January 1790, but the No. 46 of Camille Desmoulins's_ Révolutions de France et de Brabant _was published on 5 October 1790—the first Anniversary of the October Days. Desmoulins's famous_ Discours de la lanterne aux Parisiens—_the defense of political violence that earned him the title "procureur-général de la lanterne"—was nonetheless published in September 1789._
+Another few "rearrangements": _Danton was elected as a member of the Provisional Commune of Paris in January 1790, but the No. 46 of Camille Desmoulins's_ Révolutions de France et de Brabant _was published on 5 October 1790—the first Anniversary of the October Days. Desmoulins's famous_ Discours de la Lanterne aux Parisiens—_the defense of political violence that earned him the title "procureur-général de la lanterne"—was nonetheless published in September 1789._
 
 
 All of them are asynchronized with the preparation of _Fête de la Fédération_.
@@ -315,6 +315,6 @@ _This meeting allegedly happened on 2 March 1792. Five days later, the design wa
 
 
 <p align="right">
-(13 new historical figures; 1 mentioned)
+(13 new historical figures; 1 mentioned only)
 </p>
 

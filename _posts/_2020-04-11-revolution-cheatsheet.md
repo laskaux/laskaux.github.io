@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: A Cheat Sheet of <em>La Révolution</em>
+title: A Cheat Sheet of <em>La Révolution française</em>
 
 subtitle: 
 
@@ -136,13 +136,14 @@ tags: film
 |**Bassin de Latone**| Opening sequence  
 |**Hameau de la Reine**| Louis-Joseph rides a pony
 | CHÂTEAU DE VERSAILLES|
-| **Galerie des Glaces**| Royal ball (1788)
+| **Galerie des Glaces**| Royal ball
+|**Salon de la Paix**| Queen's cardroom
 |**Opéra royal**| _Orgie des Gardes du corps_ (1 Oct 1789)
 |**Escalier de Marbre**| October Days (6 Oct 1789)
-|**Queen’s Guard Room**| October Days (6 Oct 1789)
-|**Chambre de la Reine**| Bedchamber of Marie-Antoinette; October Days (6 Oct 1789)
-|**Salon de l’Œil-de-Bœuf**| October Days (6 Oct 1789)
-|**Cour de Marble**| October Days (6 Oct 1789)
+|**Queen’s Guard Room**| October Days
+|**Chambre de la Reine**| Bedchamber of Marie-Antoinette; October Days
+|**Salon de l’Œil-de-Bœuf**| October Days
+|**Cour de Marble**| October Days
 
 
 #### Paris
@@ -162,8 +163,8 @@ tags: film
 |V<sup>e</sup> ARR|
 |**Louis-le-Grand**| Alma Mater of Robespierre and Camille Desmoulins
 |VI<sup>e</sup> ARR|
-|**Couvent des Cordeliers**| Club des CordeliersSaint-André
-|**1 Cour du Commerce**| Danton's apartment
+|**Couvent des Cordeliers**| Club des Cordeliers 
+|**1 Cour du Commerce Saint-André**| Danton's apartment
 |**8 Cour du Commerce Saint-André**| Marat's printing house
 |VII<sup>e</sup> ARR|
 |**Champ de Mars** | _Fête de la Fédération_ (14 July 1790); Champ de Mars massacre (17 July 1791)|
@@ -173,6 +174,8 @@ tags: film
 
 |**Barrière de Chaillot**| "Key Ceremony" on 17 July 1789 (filmed in front of Hôtel de Ville)
 |**Château de Saint-Cloud**|Mirabeau's rendezvous with the Queen on 2 July 1790|
+
+
 
 |**Couvent des Jacobins de la rue Saint-Honoré**| Club des Jacobins|
 
@@ -200,6 +203,10 @@ tags: film
 
 **[10 Aug 1792]**&nbsp; Assault on the Tuileries
 
+**[2–7 Sep 1792]**&nbsp; September Massacres
+
+**[31 May – 2 June 1793]**&nbsp; Purge of the Girondins
+
 <br/>
 
 ----
@@ -218,7 +225,13 @@ tags: film
 
 **[20 Apr 1792]**&nbsp; Declaration of war on Austria
 
-**[11 July 1792]**&nbsp; « Citoyens, la patrie est en danger ! » &nbsp;("The country is in danger!") <br/><br/>
+**[11 July 1792]**&nbsp; « Citoyens, la patrie est en danger ! » &nbsp;("The country is in danger!") 
+
+**[21 Sep 1792]**&nbsp; _Proclamation de l’abolition de la royauté_
+
+**[17 Sep 1793]**&nbsp; _Décret qui ordonne l'arrestation des Gens suspects_, or the Law of Suspects <br/><br/>
+
+
 
 ----
 
@@ -226,9 +239,13 @@ tags: film
 
 Jean-Jacques Rousseau, _Du contrat social; ou, Principes du droit politique_ (first edition, 1762)
 
+Camille Desmoulins, _Discours de la Lanterne aux Parisiens_ (15 September 1789)
+
 Camille Desmoulins, _Révolutions de France et de Brabant_, No. 46 (5 October 1790)
 
-Jean-Paul Marat, _L'Ami du peuple, or Le Publiciste parisien_, No. 431 (16 April 1791) <br/><br/>
+Jean-Paul Marat, _L'Ami du peuple, or Le Publiciste parisien_, No. 431 (16 April 1791) 
+
+Camille Desmoulins, _L'Histoire des Brissotins, ou Fragment de l'histoire secrète de la Révolution_ (May 1791) <br/><br/>
 
 ----
 

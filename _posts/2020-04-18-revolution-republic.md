@@ -1,23 +1,114 @@
 ---
 layout: post
 
-title: In the Name of <em>Liberté</em>&colon;&nbsp; III. The Dusk of Monarchy
+title: In the Name of Liberté&colon;&nbsp; II. The Sunset of Monarchy
 
 subtitle: “Aux armes, citoyens”
 
-excerpt: Nancy Mutiny—Death of Mirabeau—<em>Civil Constitution of the Clery</em>—Flight to Varennes—Champ de Mars massacre—Constitution of 1791—War debate—Declaration of war on Austria—Demonstration of 20 June 1792—“The country in danger”—Brunswick Manifesto—Insurrection of 10 August <br />
+excerpt: Invention of the Guillotine—Secret letters of Mirabeau—<em>Fête de la Fédération</em>—Nancy Mutiny—Death of Mirabeau—<em>Civil Constitution of the Clery</em>—Flight to Varennes—Champ-de-Mars massacre—Constitution of 1791—War debate—Declaration of war on Austria—Demonstration of 20 June 1792—<em>La Patrie en danger</em>—Brunswick Manifesto—Insurrection of 10 August <br />
 
 tags: film
 ---
 
-> Les Rois veulent être absolus, & de loin on leur crie que le meilleur moyen de l’être est de se faire aimer de leurs peuples. Cette maxime est très belle, & même très vraye à certains égards. Malheureusement on s’en moquera toujours dans les Cours. La puissance qui vient de l’amour des peuples est sans doute la plus grande ; mais elle est précaire & conditionnelle, jamais les Princes ne s’en contenteront. Les meilleurs Rois veulent pouvoir être méchans s’il leur plait, sans cesser d’être les maitres.
+> Les Rois veulent être absolus, & de loin on leur crie que le meilleur moyen de l’être est de se faire aimer de leurs peuples. . . . Malheureusement on s’en moquera toujours dans les Cours. La puissance qui vient de l’amour des peuples est sans doute la plus grande ; mais elle est précaire & conditionnelle, jamais les Princes ne s’en contenteront. Les meilleurs Rois veulent pouvoir être méchans s’il leur plait, sans cesser d’être les maitres.
 >
 > [Kings desire to be absolute, and men are always crying out to them from afar that the best means of being so is to get themselves loved by their people. . . . Unfortunately, it will always be derided at court. The power which most of a people's love is no doubt the greatest; but it is precarious and conditional, and princes will never rest content with it. The best kings desire to be in a position to be wicked, if they please, without forfeiting their mastery.]
- > <p align="right">—Jean-Jacques Rousseau, <em>Du contrat social ou Principes du droit politique</em> (1762)
+ > <p align="right">—Jean-Jacques Rousseau, <em>Du contrat social ou Principes du droit politique</em>, Livre III (1762)
 
 
 
 ----
+
+#### <br/> October 1789 – April 1792: Invention of the Guillotine
+
+The short dialogue between Louis XVI and Dr. **Joseph Ignace Guillotin** (Jacques Ciron) is also advanced for more than half a year. Paradoxically, the guillotine—the notorious decapitation machine and icon of terror—is a product of the humanistic motive of Guillotin back in October 1789.
+
+> Guillotin's special object was to obtain the adoption of another innovation. Disgusted as he was at the sight of the gibbet, which exhibited a corpse for hours before the mob, he determined to substitute for all former modes a punishment by which suffering would be mitigated. He saw no better means for the furtherance of his object than decapitation. . . . But then the executioner's sword had often failed to accomplish its work; the hand was apt to tremble, and machinery only could give a guarantee of unswerving precision. Guillotin's purpose was, then, to discover the best decapitating machine; and although the search he undertook was novel work for a man who had hitherto endeavoured to save life rather than to devise means of destroying it, he pursued it with untiring zeal. . . .
+>
+>'In every case of capital punishment the mode of execution shall be the same. The criminal shall be decapitated by means of a mechanical contrivance.' 
+>
+> By a fortunate chance, Charles Henri Sanson (appears later) had become acquainted with a German engineer of the name of Schmidt. . . . One evening, after playing an air of _Iphigénie en Aulide_, Charles Henri spoke to his companion of his perplexity. Schmidt hesitated for a moment, and then traced a few rapid lines on a piece of paper, which he handed to my grandfather. It was the guillotine.
+>
+> It was thus that the guillotine came into the world, as it were, in the midst of a concert.
+>
+> Charles Henri Sanson informed Guillotin of the discovery. If the people gave the name of guillotine to the new instrument of execution—although, I need hardly repeat, the doctor was not the real inventor of it—it was simply a act of justice; for it was owing to his efforts that decapitation and the machine used for its infliction were adopted. 
+>
+> He described the new apparatus in the sitting of April 31, 1791. . . . The Assembly at length appointed Dr. Antoine Louis to enquire into the new mode of decapitation. 
+> <p align="right">—<em>Memoirs of the Sansons, from Private Notes and Documents 1688–1847</em>, Vol. 1 (1876)
+
+The participation of Louis XVI in the modification of this machine can be found in the memoir of Charles-Henri Sanson, who later guillotined the King as well as Danton, Camille Desmoulins, and Robespierre.
+
+> **Louis** was the King's physician, and his royal patron heard of the mission he had to discharge. The dexterity of this prince as a locksmith is well known. He wished to assist Louis, and to give his personal attention to a matter in which, he said, he was interested as as sovereign. The King and his physician expressed as desire to examine the plan of the machine proposed by Guillotin. The latter was therefore requested by Dr. Louis to come to the Tuileries . . .
+>
+>Guillotin showed Louis the plan of the machine drawn by Schmidt, to which my grandfather had added a few explanations. While Louis was examining it with great attention, a door was opened, and a new comer appeared in the closet. Dr. Louis, who was seated, immediately rose. The stranger looked coldly at Dr. Guillotin, who bowed; and abruptly addressing Louis, he said to him: 
+>
+>'Well, doctor, what do you think of it?'
+>
+>'It seems to me perfect,' answered the doctor; 'and fully justifies what M. Guillotin told me. You can judge for yourself.' And he handed the plan to the last comer, who looked at it, and then shook his head doubtfully.
+>
+> 'The knife has the shape of a crescent. Do you think a knife thus shaped would be suitable for all necks? There are some which it certainly could not cut.' . . .
+>
+>'This gentleman is quite right,' answered my grandfather; 'the knife is not what it should be.'
+>
+> The King smiled with an air of satisfaction, and taking a pen which lay on the table, he rectified the plan, and substituted an oblique line for the crescent. 
+>
+>'I may be mistaken, after all,' he added; 'the two shapes should be tried when the experiments are made.' 
+> <p align="right">—<em>Memoirs of the Sansons</em>, Vol. 1 (1876)
+
+This meeting allegedly happened on 2 March 1792. Five days later, the design was approved by the Legislative Assembly. The first experiments were carried out on 17 April 1792, whose results favored Louis's suggestion. 
+
+#### <br /> 2 July 1790: Mirabeau's rendezvous with the Queen
+
+The secret meeting of Mirabeau and Marie-Antoinette in the park of the Château de Saint-Cloud is substantiated:
+
+>On July 2d, he went to stay, as he often did, with his niece, Madame d'Aragon, at Passy. Very early in the morning of the following day, he took a cabriolet, and with his nephew, young du Saillant, disguised and acting as a postilion, drove through the quiet summer lanes which then led from Passy to Saint-Cloud. At an unfrequented entrance to the park he left the cabriolet and his nephew: a door was mysteriously opened to admit him and closed again. 
+>
+>In a summer-house, in the highest part of the gardens of Saint-Cloud, Mirabeau met the Queen, alone.
+>
+>. . . One story has it (there are several differing versions) that when she first saw the man who she believed had "led a band of outlaws to assassinate" the royal family at Versailles, she drew back with "a movement of horror." That passed. . . . But he won her, as he won everybody.
+>
+> . . . She spoke afterwards of the deep impression he made upon her. He himself alluded to the interview with a profound feeling, and often to her grace, her dignity, and her charm. Before they parted, it is said that he raised her hand to his lips: "Madame, the monarchy is saved!" 
+>
+>What is certain, is that the interview left him with a yet more resolute determination to serve her: that he imbued her with his master idea, of making the National party the King's party, and that his influence upon her mind can be traced long after his death.
+> <p align="right">—Stephen G. Tallentyre, <em>The Life of Mirabeau</em> (1912)
+
+![Queen and Mirabeau](/assets/img/revolution/queen-mirabeau.jpg)
+
+The confidential letters mentioned in the dialogue refer to Mirabeau's _Notes to the Court_, which were conveyed by Auguste d’Arenberg, comte de La Marck. From June 1790 to March 1791, Mirabeau averaged two notes a week to the Court. Many were destroyed after Mirabeau's death and the insurrection of 10 August 1792. Only fifty of them still exist.
+
+> In the afternoon M. Goguenot returned. He had 
+still the seals of France about him, and he brought me a statement of all he had burnt. . . . The most voluminous was that from Mirabeau. It was tied up with a scheme for an escape, which he thought necessary. 
+> <p align="right">—<em>Memoirs of Madame Campan</em>, Vol. 2 (1909)
+
+
+
+
+#### <br /> 14 July 1790: _Fête de la Fédération_
+
+> The 14th of July approached: that day was regarded by the nation as the anniversary of its deliverance, and preparations were made to celebrate it with a solemnity calculated to elevate the souls of the citizens, and to strengthen the common bonds of union. A confederation of the whole kingdom was appointed to take place in the Champ de Mars; and there, in the open air, the deputies sent by the eighty-three departments, the national representatives, the Parisian guard, and the monarch, were to take the oath to the constitution. . . . The immense preparations were scarcely completed in time; all Paris had been engaged for several weeks in getting the arrangements ready by the 14th.  &nbsp;[FAM] 
+
+During the construction scene involving Parisians from all occupations, the choir sings "Ça ira," whose music is from the contredanse "Le carillon national" composed by Bécourt.
+
+>Ah ! ça ira, ça ira, ça ira, <br/>
+>Le peuple en ce jour sans cesse répète. <br/>
+>Ah ! ça ira, ça ira, ça ira, <br/>
+>Malgré les mutins tout réussira ! 
+
+Camille and Lucile Desmoulins get engaged. This is however an anachronism: _in reality, M. and M<sup>me</sup> Duplessis did not sent their blessing until December 1790._ 
+
+Another few "rearrangements": _Danton was elected as a member of the Provisional Commune of Paris in January 1790, but the No. 46 of Camille Desmoulins's_ Révolutions de France et de Brabant _was published on 5 October 1790—the first Anniversary of the October Days. Desmoulins's famous_ Discours de la Lanterne aux Parisiens—_the defense of political violence that earned him the title "procureur-général de la lanterne"—was nonetheless published in September 1789._
+
+
+All of them are asynchronized with the preparation of _Fête de la Fédération_.
+
+> The vast space of the Champ de Mars was inclosed by raised seats of turf, occupied by four hundred thousand spectators. An antique altar was erected in the middle; and around it, on a vast amphitheatre, were the king, his family, the assembly, and the corporation. . . .
+>
+>A profound silence now reigned in the vast inclosure, and Lafayette, appointed that day to the command in chief of all the national guards of the kingdom, advanced first to take the civic oath. Borne on the arms of grenadiers to the altar of the country, amidst the acclamations of the people, he exclaimed with a loud voice, in his own name, and that of the federates and troops: “We swear eternal fidelity to the nation, the law, and the king; to maintain to the utmost of our power the constitution decreed by the national assembly, and accepted by the king; and to remain united with every Frenchman by the indissoluble ties of fraternity.” Forthwith the firing of cannon, prolonged cries of “Vive la nation!” “Vive le roi!” and sounds of music, mingled in the air. The president of the national assembly took the same oath, and all the deputies repeated it with one voice. Then Louis XVI. rose and said: “I, king of the French, swear to employ all the power delegated to me by the constitutional act of the state, in maintaining the constitution decreed by the national assembly and accepted by me.” The queen, carried away by the enthusiasm of the moment, rose, lifted up the dauphin in her arms, and showing him to the people, exclaimed: “Behold my son, he unites with me in the same sentiments.” At that moment the banners were lowered, the acclamations of the people were heard, and the subjects believed in the sincerity of the monarch, the monarch in the affection of the subjects, and this happy day closed with a hymn of thanksgiving.  &nbsp;[FAM] 
+
+![Federation](/assets/img/revolution/federation.jpg)
+
+The ceremony concludes the events in the first year of the Revolution. 
+
 
 #### <br/> 31 August 1790: Nancy Mutiny
 
@@ -70,14 +161,14 @@ It is therefore not unreasonable to place the Dantons among the wedding guests. 
 
 #### 2 April 1791: Death of Mirabeau
 
-_On 8 Feburary, Mirabeau met La Fayette for the last time discussing the salvation of the kingdom and her monarchy. No record shows Danton was around his deathbed. His decease accelerated the fall of the royalists in a more radical revolutionary age._
+On 8 Feburary, Mirabeau met La Fayette for the last time discussing the salvation of the kingdom and her monarchy. _No record shows Danton was around his deathbed._ Mirabeau's decease accelerated the fall of the royalists in a more radical revolutionary age.
 
 > A few days afterwards he terminated a life worn out by passions and by toil. His death . . . was considered a public calamity; all Paris attended his funeral; there was a general mourning throughout France, and his remains were deposited in the receptacle which had just been consecrated _aux grands hommes_, in the name of _la patrie reconnaissante_. No one succeeded him in power and popularity; and for a long time, in dif cult discussions, the eyes of the assembly would turn towards the seat from whence they had been accustomed to hear the commanding eloquence which terminated their debates. Mirabeau, after having assisted the revolution with his daring in seasons of trial, and with his powerful reasoning since its victory, died seasonably. He was revolving vast designs; he wished to strengthen the throne, and consolidate the revolution; two attempts extremely dif cult at such a time. It is to be feared that royalty, if he had made it independent, would have put down the revolution; or, if he had failed, that the revolution would have put down royalty. It is, perhaps, impossible to convert an ancient power into a new order; perhaps a revolution must be prolonged in order to become legitimate, and the throne, as it recovers, acquire the novelty of the other institutions.  &nbsp;[FAM]
 
 
 #### <br/> April 1791: Resistance to the _Civil Constitution of the Clery_
 
-_On 12 July 1790, two days before the_ Fête de la Fédération, _the National Constituent Assembly voted on the_ Constitution civile du clergé, _which subordinated the French Catholic Church to this revolutionary nation._
+On 12 July 1790, two days before the _Fête de la Fédération_, the National Constituent Assembly voted on the _Constitution civile du clergé_, which subordinated the French Catholic Church to this revolutionary nation.
 
 > . . . Most contentious, however, was the issue of how the clergy were to be appointed in future. To the trenchant objections from clerical deputies in the Assembly that the hierarchy of the Church was based on the principle of divine authority and inspired appointment by superiors, deputies such as Treilhard retorted that this had resulted in nepotism. Only the people could choose their priests and bishops. . . .
 >
@@ -107,12 +198,12 @@ However, later the same day, the royal family are recognized by **Jean-Baptiste 
 
 > At the same time, however, all these troop movements had aroused suspicion at towns along the route, National Guards were called out, and at Sainte-Ménehould, on the evening of 21 June, the king was recognized. Drouet, the local postmaster whose claims to have made the identification launched him into a career in radical politics, made a dash to Varennes, the next town on the route. Here the party was stopped, the whole town turned out, and the troops waiting there could do nothing. On the morning of the twenty-second messengers arrived from Paris with orders to bring the would-be escapers back. &nbsp;[WD]
 
-The National Guard officer galloping on the country road to Châlons is **Jean-Louis Romeuf** (François Levantal), later a general of the First French Empire. **Claude-Antoine-Gabriel, duc de Choiseul** (Jean Boissery, the rider), who commands the hussars of Régiment de Lauzun escorting the flight, is arrested in Varennes at the same time. _The official resolution to this attempted escape was decreed one month later, consistent with La Fayette's "The King is abducted" statement earlier._
+The National Guard officer galloping on the country road to Châlons is **Jean-Louis Romeuf** (François Levantal), later a general of the First French Empire. **Claude-Antoine-Gabriel, duc de Choiseul** (Jean Boissery, the rider), who commands the hussars of Régiment de Lauzun escorting the flight, is arrested in Varennes at the same time. The official resolution to this attempted escape was decreed one month later, consistent with La Fayette's "The King is abducted" statement earlier.
 
 > Nevertheless, despite his humiliating capture and return, the Assembly on 15 July decreed that he had in fact been mentally ‘kidnapped’ and that the monarchist provisions of the Constitution of 1791 would stand.   &nbsp;[PM]
 
 
-#### <br /> 17 July 1791: Champ de Mars massacre
+#### <br /> 17 July 1791: Champ-de-Mars massacre
 
 >The flight to Varennes was the Revolution’s second great turning-point. Like the oath of the clergy, it forced everybody to make choices that most would have preferred not to face. . . . The failure of the attempted escape postponed that danger—but demanded choices of a different order. The monarch had renounced the Revolution, and had explained why at great length in the proclamation he left behind. . . . How could such a man remain head of State? The blackest suspicions of the Parisian populace and radical leaders were confirmed. Republicans now came into the open. All over the capital symbols of royalty were attacked and defaced, and on 24 June the Cordeliers Club delivered a petition to the National Assembly to depose the king or consult the Nation on his fate in a referendum. A crowd of 30,000 escorted its presenters.
 &nbsp;[WD]
@@ -122,13 +213,13 @@ The scene is changed to the Cordeliers Convent for the third time (after the daw
 > The decision (the renewed confidence in Louis XVI as the head of the executive power) led to a breach in the ranks of he democrats. A protest demonstration, called for in a petition drafted by the Cordeliers Club on 16 July, was approved by the Jacobin Club; but the same evening, on Robespierre's initiative, the Jacobins withdrew their support. The Cordeliers, now faced with alternative of cancelling the demonstration or of going ahead on their own, decided on the latter course. The result as the petition of 17 July, drafted by François Robert and couched in more radical terms: while not specifically demanding a Republic, it called on the Assembly ‘de convoquer un nonveau corps constituant pour procéder au remplacement et à l’organisation d’un nouveau pouvoir exécutif’. . . . societies and clubs were invited . . . to march to the Champ de Mars to hold a peaceful demonstration.
 > <p align="right">—George F. E. Rudé, <em>The Crowd in the French Revolution</em> (1972)
 
-_However, an incident led to Bailly's proclaimation of martial law and the subsequent massacre:_ 
+However, an incident led to Bailly's proclaimation of martial law and the subsequent massacre:
 
 >Two Invalides, supposed to be spies, were massacred and their heads stuck on pikes. The insurrection became alarming. Lafayette again repaired to the Champ de Mars, at the head of twelve hundred of the national guard. Bailly accompanied him, and had the red banner unfurled. The crowd was then summoned to disperse in the name of the law; it refused to retire, and, contemning authority, shouted, “Down with the red flag!” and assailed the national guard with stones. Lafayette ordered his men to fire, but in the air. The crowd was not intimidated with this, and resumed the attack; compelled by the obstinacy of the insurgents, Lafayette then ordered another discharge, a real and effective one. The terri ed multitude  ed, leaving many dead on the  eld. The disturbances now ceased, order was restored; but blood had  own, and the people never forgave Bailly or Lafayette the cruel necessity to which the crowd had driven them. This was a regular combat, in which the republican party, not as yet sufficiently strong or established, was defeated by the constitutional monarchy party. The attempt of the Champ de Mars was the prelude of the popular movements which led to the 10th of August. &nbsp;[FAM]
 
 ![Massacre](/assets/img/revolution/champ-de-mars.jpg)
 
-_In the film, the order to fire is given by Bailly instead of La Fayette, which is perhaps the most crucial discrepancy with the true history. But unarguably, the reputation of these two royalist leaders had never been restored among the populace afterwards._
+_In the film, the order to fire is given by Bailly instead of La Fayette, which is perhaps its most crucial discrepancy with the true history._ But unarguably, the reputation of these two royalist leaders had never been restored among the populace afterwards.
 
 > The violent affray that took place on the Champ de Mars in July 1791 marked an important stage in the struggle for power between consitutional monarchists (Feuillants) and Jacobins, between liberal _bourgeoisie_ and revolutionary democrats. In Paris it led directly to the eclipse of Bailly and Lafayette as the leaders of the city administration; . . . In terms of the social history of Paris the Champ de Mars affair both represented the first bloody clash within the Third Estate—the growing divisions within which have already been noted—and the culmination of several months of social upheaval and of revolutionary agitation at the end of which de democrats organized in the Jacobin and Cordeliers Clubs appear as the undisputed leaders of the Parisian _san-culottes_. 
 > <p align="right">—George F. E. Rudé, <em>The Crowd in the French Revolution</em> (1972)
@@ -138,19 +229,18 @@ _In the film, the order to fire is given by Bailly instead of La Fayette, which 
 
 #### <br /> September 1791: First Constitution
 
-_The Champ de Mars massacre was followed by a series of prosecutions, from 23 July to 4 August, against radical democrats and their journals. Several revolutionists were forced in exile._
+The Champ-de-Mars massacre was followed by a series of prosecutions, from 23 July to 4 August, against radical democrats and their journals. Several revolutionists were forced in exile.
 
 Danton and Marat take refuge in London, and later return to Paris in August 1791 and Feburary 1792, repectively. _Marat's dermatosis began no latter than 1790. The pain could be only relieved through extended bath. He personally attributed the disease to his figitive life in sewers and cellars, but the true cause remains obscure._
 
 Camille Desmoulins's newspaper is suspended. He flees to Marseilles, and returns in September. Robespierre, however, stays in Paris. He moves into the house of **Maurice Duplay** (Jean Bouise) at 398 Rue Saint-Honoré near the Tuileries Palace, and has been residing there until his death in 1794.
 
-_The Constitution of 1791 was voted by the National Constituent Assembly on 3 September and promulgated by Louis on 14 September. 
-Having officially adopted a consitutional monarchy, the Assembly proclaimed a general amnest. Political activities in Paris were revitalized._ 
+The Constitution of 1791 was voted by the National Constituent Assembly on 3 September and promulgated by Louis on 14 September. Having officially adopted a consitutional monarchy, the Assembly proclaimed a general amnest. Political activities in Paris were revitalized.
 
 Robespierre's mistake that Marat metions refers to the self-denying ordinance he promoted, that all deputies of the former Constituent Assembly were forbidden from joining the new Legislative Assembly convened on 1 October 1791. This, nevertheless, marginalized the framers of the Consitution after its adoptation and assisted the growing of counter-revolutionary groups in late 1791. The devision between the royalists and the revolutionists were further deepened.  <br /><br />
 
 
-#### December 1791–January 1792: Debate on war
+#### December 1791 – January 1792: Debate on war
 
 The scene is changed to the Club des Jacobins for the first time, with Jacques Pierre Brissot, on behalf of the Girondins, delivering a pro-war speech in answer to the gathering of Armée des émigrés after the _Declaration of Pillnitz_ (17 August 1791) by Leopold II, Holy Roman Emperor, and Frederick William II, King of Prussia. 
 
@@ -158,11 +248,14 @@ The scene is changed to the Club des Jacobins for the first time, with Jacques P
 
 ![Brissot](/assets/img/revolution/brissot.jpg)
 
+"Vivre libre ou mourir"—the motto of the Jacobin Club—is inscribed below the constitution tablet.
+
 In reponse to Brissot's speeches on 29 and 30 December, Robespierre addressed at the Jacobins Club on 2 and 11 January:
 
 > La plus extravagante idée qui puisse naître dans la tête d'un politique est de croire qu'il suffise à un peuple d'entrer à main armée chez un peuple étranger, pour lui faire adopter ses lois et sa constitution. **Personne n'aime les missionnaires armés**; et le premier conseil que donnent la nature et la prudence, c'est de les repousser comme des ennemis. 
 >
 > [The most extravagant idea that can arise in the mind of a politician is the belief that a people need only make an armed incursion into the territory of a foreign people, to make it adopt its laws and its constitution. **No one likes armed missionaries**; and the first counsel given by nature and prudence is to repel them as enemies.]
+> <p align="right">—<em>Œuvres de Maximilien Robespierre</em>, Tome VIII
 
 
 
@@ -189,10 +282,10 @@ The Austrian troop defeating the French at Marquain, Belgium are commanded by **
 
 At the Cordeliers Club, Marat cries out again for "purging the world of liberty":
 
-> What struck his contemporaries most, and what stands out in all his writings and his speeches, is his eternal call to massacre. On the day of the fall of the Bastille, he asked for give hundred heads. A year later, he demanded five or six hundred more, not for vengeance, but for national security. As time went on, he showed more avidity. In August, 1791, he wanted eight hundred gibbetsl towards the end of 1791, he insisted upon five thousand, six thousand, twenty thousand, "And," said he, "let us not hesitate for an instant." With the new year, his demands grew: he asked for seventy thousand! His bloodthirtiness grew with the misfortunes of the nation.
+> What struck his contemporaries most, and what stands out in all his writings and his speeches, is his eternal call to massacre. On the day of the fall of the Bastille, he asked for give hundred heads. A year later, he demanded five or six hundred more, not for vengeance, but for national security. As time went on, he showed more avidity. In August, 1791, he wanted eight hundred gibbets towards the end of 1791, he insisted upon five thousand, six thousand, twenty thousand, "And," said he, "let us not hesitate for an instant." With the new year, his demands grew: he asked for seventy thousand! His bloodthirtiness grew with the misfortunes of the nation.
 > <p align="right">—Henri Béraud, <em>Twelve portraits of the French Revolution</em> (1928)
 
-A demonstration in the spirit of that at the Champ de Mars are led by **Antoine-Joseph Santerre** (Marc de Jonge) and Victor Amédée de La Fage, marquis de Saint-Huruge. In the film, Louis Legendre is portrayed as another leader.
+A demonstration in the spirit of that at the Champ-de-Mars are led by **Antoine-Joseph Santerre** (Marc de Jonge) and Victor Amédée de La Fage, marquis de Saint-Huruge. In the film, Louis Legendre is portrayed as another leader.
 
 >Accordingly, on the morning of 20 June between 10,000 and 20,000 armed demonstrators converged on the Tuileries from the east in menacing silence. The palace guards made no attempt to stop them as they dragged cannon up the grand staircase and made for the king’s apartments. Now they began to shout slogans, proclaiming that they were ‘sans culottes’, ordinary patriots without fine clothes, come to intimidate tyrants. They found the king alone, and for two hours filed past him uttering threats and demanding the ministers’ reinstatement. But now for the first time Louis XVI showed the unexpected courage which dignified the last months of his dismal life and reign. He refused to be intimidated. He proclaimed his loyalty to the constitution. He even borrowed one of the fashionable new caps of liberty and wearing it drank to the health of the nation. In the end Pétion arrived from the Hôtel de Ville and persuaded the demonstrators to go home, empty-handed.  &nbsp;[WD]
 
@@ -207,7 +300,7 @@ A demonstration in the spirit of that at the Champ de Mars are led by **Antoine-
 >
 >[AP, Wednesday 11 July 1792]
 
-In early July, the pressure of the coalition of foreign European powers forced the Assembly to announce that "The country is in danger."
+In early July, the pressure of the coalition of foreign European powers forced the Assembly to announce that "The country is in danger!"
 
 >Jean Debry, in the name of the same commission, proposed that the assembly should secure the tranquillity of the people, now greatly disturbed, by declaring that when the crisis became imminent, the assembly would declare the country is in danger; and that it would then take measures for the public safety. . . . Vergniaud, in a speech which deeply moved the assembly, drew a vivid picture of all the perils to which the country was at that moment exposed. He said that it was in the name of the king that the emigrants were assembled, that the sovereigns of Europe had formed a coalition, that foreign armies were marching on our frontiers, and that internal disturbances were taking place. . . 
 >
@@ -257,7 +350,7 @@ The night before the rebellion is painted with some humanistic color:
 > The outcome was never really in doubt. But as the tocsin rang through the night of the ninth-tenth of August, many of the men who made their way towards the Hôtel de Ville were apprehensive. After dinner Camille Desmoulins and his wife had gone to Danton’s apartment to try to stiffen their morale but had found Danton’s wife Gabrielle in floods of tears. Lucile, who remembered herself “laughing like a madwoman,” took Danton’s wife for some air in the street and found a great crowd in the apartment when they got back, everyone trying to outdo each other with grandiloquent utterances that seemed appropriate to their overwrought sense of historymaking. But beneath the oracular declarations, agitation and fear put everyone on edge. When Camille set off into the night, carrying a musket and promising his wife to stay with the reassuringly enormous figure of Danton, she too began to weep passionately.
 > <p align="right">—Simon Schama, <em>Citizens: A Chronicle of the French Revolution</em> (1989)
 
-_These weeping scenes were recorded in the diary of Luile Desmoulins._
+These weeping scenes were recorded in the diary of Luile Desmoulins.
 
 >After all, these pages from the young wife's diary, showing a great episode of history from the point of view of the women who waited to hear the upshot of the fight, is of greater interest than any cut-and-dried description. It is so plain throughout that, for the moment, Lucile Desmouhns, Gabrielle Danton and Madame Robert cared very little what was to be the issue of the day. What mattered it if their cause was won, if it meant the loss of their husbands ? 
  > <p align="right">—Violet Methley, <em>Camille Desmoulins: A Biography</em> (1914)
@@ -274,7 +367,7 @@ quarter before twelve the mournful notes of the great bell of the Cordeliers wit
 ears of the expectant city. . . .
 >
 >By three o'clock in the morning nineteen sections were represented by their commissioners at the Hôtel de Ville. By seven there were eighty-four commissioners, represent ing twenty-eight sections. They called themselves “the new commune” and installed themselves in a hall adjoining the one in which the council general was still sitting.
-> <p align="right">—George H. Allen, <em>The French Revolution</em>, vol. 2 (1923)
+> <p align="right">—George H. Allen, <em>The French Revolution</em>, Vol. 2 (1923)
 
 **Antoine Galiot Mandat de Grancey** (mentioned), commander-in-chief of the Garde nationale, is murdered by the insurgents at the Hôtel de Ville. At dawn, convinced by 
 **Pierre-Louis Rœderer** (Jerry Di Giacomo), procureur général of the départment of Paris,  the royal family decide to take refuge in the National Assembly, which is in permant session.
@@ -306,7 +399,7 @@ Back at Tuileries, nine hundred Swiss Guards, commanded by **Karl Josef von Bach
 > Finally, the 23rd of September was appointed for opening the extraordinary assembly, destined to decide the fate of royalty. But royalty had already fallen on the 10th of August, that day marked by the insurrection of the multitude against the middle classes and the constitutional throne, as the 14th of July had seen the insurrection of the middle class against the privileged class and the absolute power of the crown. On the 10th of August began the dictatorial and arbitrary epoch of the revolution. Circumstances becoming more and more difficult to encounter, a vast warfare arose, requiring still greater energy than ever, and that energy irregular, because popular, rendered the domination of the lower class restless, cruel, and oppressive.   &nbsp;[FAM]
 
 <p align="right">
-(26 new historical figures; 2 mentioned)
+(27 new historical figures; 3 mentioned only)
 </p>
 
 
