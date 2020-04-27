@@ -26,7 +26,7 @@ Prior to the bicentennial of the enlightening, electrifying, yet turbulent and f
 
 Below is an event-by-event breakdown of the film in the chronological order, with the following conventions: 
 
-**Historical figures** are in bold text at their first appearances, with their corresponding (cast members) in parentheses. 
+**Historical figures** are in bold text at their first appearances, with the corresponding (cast members) in parentheses. 
 
 Past tense is reserved for historical supplements to the plot. 
 
@@ -61,7 +61,7 @@ _Nevertheless, the record of this fateful encounter is generally considered unsu
 
 #### Royal family in 1788
 
-In the opulent royal ball hosted in the Galerie des Glaces (Hall of Mirrors) of the Palace of Versailles, **Louis XVI** (Jean-François Balmer) and **Marie-Antoinette d'Autriche** (Jane Seymour, VF: Béatrice Delfe) make their first appearances. "Madame Déficit" is accompanied by her dancing partner **Axel von Fersen** (Jean-Yves Berteloot), her superintendent **Marie-Thérèse-Louise de Savoie-Carignan, princesse de Lamballe** (Gabrielle Lazure), and her favorite **Gabrielle de Polastron, duchesse de Polignac** (Claudia Cardinale). Polignac sits closer to the Queen at the casino table in the Salon de la Paix, reflecting Lamballe's gradual falling out of favor since 1785.
+At the opulent royal ball hosted in the Galerie des Glaces (Hall of Mirrors) of the Palace of Versailles, **Louis XVI** (Jean-François Balmer) and **Marie-Antoinette d'Autriche** (Jane Seymour, VF: Béatrice Delfe) make their first appearances. "Madame Déficit" is accompanied by her dancing partner **Axel von Fersen** (Jean-Yves Berteloot), her superintendent **Marie-Thérèse-Louise de Savoie-Carignan, princesse de Lamballe** (Gabrielle Lazure), and her favorite **Gabrielle de Polastron, duchesse de Polignac** (Claudia Cardinale). Polignac sits closer to the Queen at the casino table in the Salon de la Paix, reflecting Lamballe's gradual falling out of favor since 1785.
 
 Shortly afterwards, three royal childern appear at the Hameau de la Reine in the Petit Trianon of Versailles: Dauphin of France **Louis-Joseph** (Benji Marcus) riding a pony, his elder sister **Marie-Thérèse Charlotte**, or **Madame Royale** (Katherine Flynn), and their younger brother **Louis-Charles**, the future **Louis XVII** (Sean Flynn). Katherine and Sean are Seymour's daughter and son in real life. <br /><br />
 
