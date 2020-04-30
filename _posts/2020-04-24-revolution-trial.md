@@ -144,10 +144,10 @@ Contrary to the plea of Robespierre, the Natonal Convention decided on the same 
 
 At this time, the mayor of Paris is **Nicolas Chambon** (Michel Voletti), in whose carriage Louis is brought to the National Convention, chaired by **Bertrand Barère** (François-Éric Gendron).
 
->**Santerre**, _commandant de la garde nationale_, paraît à la barre. <br/>
->Citoyen président, dit-il, nous venons d'exécuter le décret de l'Assemblée. Louis Capet est arrivé; il est aux portes de la salle, il attend vos ordres.
+>**Santerre**, _commandant de la garde nationale_, paraît à la barre.&nbsp; Citoyen président, dit-il, nous venons d'exécuter le décret de l'Assemblée. Louis Capet est arrivé; il est aux portes de la salle, il attend vos ordres.
 >
->**Le Président** (Barère).&nbsp; La Convention nationale a ordonné que Louis serait traduit à la barre. Faites exécuter son décret. <br/><br/>
+>**Le Président** (Barère).&nbsp; La Convention nationale a ordonné que Louis serait traduit à la barre. Faites exécuter son décret.
+>
 >Santerre quitte la salle des séances.
 >
 >(_Un silence profond s'établit dans l'Assemblée et parmi les citoyens qui Vl'nvironnent._)
@@ -442,7 +442,7 @@ The insurgents are led by **François Hanriot** (Jean-Pierre Laurent), **Pierre-
 >
 >[AP, Sunday 2 June 1793]
 
-The confrontation of Brissot and Danton in the office of the latter is probably a fictional creation. _However, the battle between Brissot and Camille Demoulins was well reflected in several pamphlets._ In the film, the one referred to in the exchange of Danton and Robespierre is _L'Histoire des Brissotins, ou Fragment de l'histoire secrète de la Révolution_, published by Camille in May 1793, which produced a notable destructive power on the Girondins preceding their evetual fall. 
+The confrontation of Brissot and Danton in the office of the latter is probably a fictional creation. _However, the battle between Brissot and Camille Demoulins was well reflected in several pamphlets._ In the film, the one referred to in the exchange of Danton and Robespierre is _L'Histoire des Brissotins, ou Fragment de l'histoire secrète de la Révolution_, published by Camille in May 1793, which produced a notable destructive power against the Girondins preceding their eventual fall. 
 
 > It is undoubted that this pamphlet of Camille's was written at the direct inspiration of Robespierre. During the greater part of this year of 1793 all the work of the journalist was practically dictated by his friend and colleague, who made use of the medium of Camille's brilliant style to express his own subtle policy. 
 > <p align="right">—Violet Methley, <em>Camille Desmoulins: A Biography</em> (1914)
@@ -461,6 +461,8 @@ The confrontation of Brissot and Danton in the office of the latter is probably 
 In the film, the exiled Pétion orates to a crowd in Caen, among whom stands **Charlotte Corday** (Philippine Leroy-Beaulieu). 
 
 > From there, a young, beautiful, and courageous woman, Charlotte Corday, went to punish Marat, the principal author of the 31st of May, and the 2nd of June. She hoped to save the republic by sacrificing herself to its cause. But tyranny did not rest with one man; it belonged to a party, and to the violent situation of the republic. Charlotte Corday, after executing her generous but vain design, died with unchanging calmness, modest courage, and the satisfaction of having done well. But Marat, after his assassination, became a greater object of enthusiasm with the people than he had been while living. He was invoked on all the public squares; his bust was placed in all the popular societies, and the convention was obliged to grant him the honours of the Pantheon. &nbsp;[FAM]
+
+![Marat](/assets/img/revolution/marat.jpg)
 
 In Marat's room, we also see **Catherine Évrard** (Isabelle Lafon), Simone Évrard's sister, and Catherine's husband **Jean Antoine Corne**, typographer of _L'Ami du peuple_.
 
