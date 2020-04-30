@@ -72,7 +72,7 @@ The secret meeting of Mirabeau and Marie-Antoinette in the park of the Château 
 >What is certain, is that the interview left him with a yet more resolute determination to serve her: that he imbued her with his master idea, of making the National party the King's party, and that his influence upon her mind can be traced long after his death.
 > <p align="right">—Stephen G. Tallentyre, <em>The Life of Mirabeau</em> (1912)
 
-![Queen and Mirabeau](/assets/img/revolution/queen-mirabeau.jpg)
+![Queen and Mirabeau](/assets/img/revolution/mirabeau.jpg)
 
 The confidential letters mentioned in the dialogue refer to Mirabeau's _Notes to the Court_, which were conveyed by Auguste d’Arenberg, comte de La Marck. From June 1790 to March 1791, Mirabeau averaged two notes a week to the Court. Many were destroyed after Mirabeau's death and the insurrection of 10 August 1792. Only fifty of them still exist.
 

@@ -190,7 +190,7 @@ Counteractions of the royal court include the dismissal of Necker and the milita
 
 > On the following day, Sunday, the 12th of July, about four in the afternoon, Necker’s disgrace and departure became known at Paris. . . . In a short time the city was in the greatest confusion; crowds gathered together on every side; more than ten thousand persons flocked to the Palais Royal all affected by this news, ready for anything, but not knowing what measure to adopt. Camille Desmoulins, a young man, more daring than the rest, one of the usual orators of the crowd, mounted on a table, pistol in hand, exclaiming: “Citizens, there is no time to lose; the dismissal of Necker is the knell of a Saint Bartholomew for patriots! This very night all the Swiss and German battalions will leave the Champ de Mars to massacre us all; one resource is left; to take arms!” These words were received with violent acclamations. He proposed that cockades should be worn for mutual recognition and protection. “Shall they be green,” he cried, “the colour of hope; or red, the colour of the free order of Cincinnatus?” “Green! green!” shouted the multitude. The speaker descended from the table, and fastened the sprig of a tree in his hat. Every one imitated him. The chestnut-trees of the palace were almost stripped of their leaves . . . &nbsp;[FAM]
 
-![Cafe de Foy](/assets/img/revolution/desmoulins.jpg)
+![Cafe de Foy](/assets/img/revolution/camille.jpg)
 
 This inspiring speech at the Café de Foy near the Galerie de Montpensier in the Palais-Royal is vividly reenacted in the film. So is the attack on the multitude in the Tuileries Garden by the German Régiment Royal-Allemand cavalerie commanded by **Charles Eugène de Lorraine, prince de Lambesc** (Mario Luraschi). 
 
@@ -428,7 +428,7 @@ At the request of La Fayette, the King and Queen confront the mob on the balcony
 > Her Majesty too, on demand, shows herself, though there is peril in it : she steps out on the balcony, with her little boy and girl. ' No children, _Point d'enfans_! ' cry the voices. She gently pushes back her children; and stands alone, her hands serenely crossed on her breast: 'Should I die,' she had said, 'I will do it.' Such serenity of heroism has its eflPect. Lafayette, with ready wit, in his highflown chivalrous way, takes that fair queenly hand, and, reverently kneeling, kisses it: thereupon the people do shout _Vive la Reine_. Nevertheless, poor Weber 'saw' (or even thought he saw; for hardly the third part of poor Weber's experiences, in such hysterical days, will stand scrutiny) 'one of these brigands level his musket at her Majesty,'—with or without intention to shoot; for another of the brigands 'angrily struck it down.'
 > <p align="right">—Thomas Carlyle, <em>The French Revolution: A History</em>, Vol. 1 (1923)
 
-![Balcony](/assets/img/revolution/courtyard.jpg)
+![Balcony](/assets/img/revolution/balcony.jpg)
 
 Louis and the royal court move to the Tuileries Palace in the afternoon of 6 October.
 
