@@ -10,11 +10,6 @@ excerpt: Opening and closing music from each <em>Civilisation</em> episode <br /
 tags: architecture art history music television
 ---
 
-Opening (a) and Closing (b) Sequences
-
-
-----
-
 1a&nbsp; César Franck
 : [Organ Chorale No. 3 in A minor](
 https://www.youtube.com/watch?v=99eEyXtwhAU)
