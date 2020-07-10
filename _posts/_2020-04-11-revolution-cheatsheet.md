@@ -1,13 +1,13 @@
 ---
 layout: post
 
-title: A Cheat Sheet of <em>La Révolution française</em>
+title: A Cheat Sheet of the Révolution
 
 subtitle: 
 
 excerpt: Historical figures | locations | insurrections | decrees and declarations | books and journals | songs <br />
 
-tags: film
+tags: history film
 ---
 
 ## Historical figures
@@ -249,16 +249,19 @@ Camille Desmoulins, _L'Histoire des Brissotins, ou Fragment de l'histoire secrè
 
 ----
 
-## Songs
+## Music and Songs
 
 **Wolfgang Amadeus Mozart** <br/>
 No. 5 in F from "16 Minuets," K. 176
 
+**Anonymous** <br/>
+"Le Palais-Royal est un beau quartier" (melody from the children's song "Ah ! vous dirai-je, maman")
+
 **André Grétry** <br/>
 "Ô Richard, ô mon roi !" from the opéra comique _Richard Cœur-de-Lion_
 
-**Bécourt** <br/>
-"Ah ! ça ira, ça ira, ça ira," music from the contredanse "Le carillon national"
+**Bécourt** and **Ladré** <br/>
+"Ah ! ça ira, ça ira, ça ira" (melody from the contredanse "Le carillon national)
 
 **Rouget de Lisle** <br/>
 _Chant de guerre pour l'armée du Rhin_, or _La Marseillaise_ 

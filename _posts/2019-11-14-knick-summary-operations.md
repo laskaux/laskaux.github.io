@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: The World around the Knick&colon; IA. The Playbill
+title: The World around the Knick&colon; Ia. The Playbill
 
 subtitle: A Summary of Key Surgical Operations
 

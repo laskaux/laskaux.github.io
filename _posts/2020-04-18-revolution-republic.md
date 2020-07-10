@@ -3,11 +3,11 @@ layout: post
 
 title: In the Name of Liberté&colon;&nbsp; II. The Sunset of Monarchy
 
-subtitle: “Aux armes, citoyens”
+subtitle: “La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui”
 
 excerpt: Invention of the Guillotine—Secret letters of Mirabeau—<em>Fête de la Fédération</em>—Nancy Mutiny—Death of Mirabeau—<em>Civil Constitution of the Clery</em>—Flight to Varennes—Champ-de-Mars massacre—Constitution of 1791—War debate—Declaration of war on Austria—Demonstration of 20 June 1792—<em>La Patrie en danger</em>—Brunswick Manifesto—Insurrection of 10 August <br />
 
-tags: film
+tags: history film
 ---
 
 > Les Rois veulent être absolus, & de loin on leur crie que le meilleur moyen de l’être est de se faire aimer de leurs peuples. . . . Malheureusement on s’en moquera toujours dans les Cours. La puissance qui vient de l’amour des peuples est sans doute la plus grande ; mais elle est précaire & conditionnelle, jamais les Princes ne s’en contenteront. Les meilleurs Rois veulent pouvoir être méchans s’il leur plait, sans cesser d’être les maitres.

@@ -7,7 +7,7 @@ subtitle: “Peuple, je meurs innocent”
 
 excerpt: Imprisonment of the royal family—Exile of La Fayette—Fall of Longwy and Verdun—September Massacres—Battle of Valmy—Abolition of the monarchy—Trial of Louis XVI—Execution of Louis XVI—Creation of the Revolutionary Tribunal—Arrest and acquittal of Marat—Fall of the Girondins—Assassination of Marat <br />
 
-tags: film
+tags: history film
 ---
 
 > « Je ne me crois pas le droit de tuer un homme; mais je me sens le devoir d'exterminer le mal. J'ai voté la fin du tyran. . . . J'ai voté la fraternité, la concorde, l'aurore! J'ai aidé à la chute des préjugés et des erreurs. Les écroulements des erreurs et des préjugés font de la lumière. Nous avons fait tomber le vieux monde, nous autres, et le vieux monde, vase des misères, en se renversant sur le genre humain, est devenu une urne de joie. »

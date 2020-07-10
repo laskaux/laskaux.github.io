@@ -7,7 +7,7 @@ subtitle: Classical music in <em>Simon Schama's Power of Art</em>
 
 excerpt: Classical music in <em>Simon Schama's Power of Art</em>&colon; Gian Lorenzo Bernini and Jacques-Louis David echoed with Monteverdi, Vivaldi, Handel, Hadyn, and Mozart <br />
 
-tags: art history music television
+tags: television
 ---
 
 In the BERNINI and DAVID episodes of this figure-centered art history series, artworks, reenactments, and storytelling are painted with musical pieces from the Baroque and the Classical periods. This note is aimed at reviewing the pas de deux of music and visual art through these accessible examples. 
@@ -39,12 +39,12 @@ https://www.youtube.com/watch?v=1Z1tpAsA2M8)
 : [Madrigals, Book 8, "Lamento della ninfa," SV 163: "Amor"](
 https://www.youtube.com/watch?v=N3XVvUxcIY0) 
 <br />
-[**Bernini**, _David_ | _The Rape of Proserpina_ | _Apollo and Daphne_]
+[**Bernini**, _David_; _The Rape of Proserpina_; _Apollo and Daphne_]
 <br /><br />
 
 
 04&nbsp; Claudio Monteverdi 
-: [_Vespro della Beata Vergine_ (_Vespers for the Blessed Virgin_), SV 206: "Pulchra es"](
+: [_Vespro della Beata Vergine_ (_Vespers for the Blessed Virgin_), SV 206: Concerto, "Pulchra es"](
 https://www.youtube.com/watch?v=XIsliS7oz8s) 
 <br />
 [**Bernini**, _Bust of Costanza Bonarelli_]
@@ -55,7 +55,7 @@ https://www.youtube.com/watch?v=XIsliS7oz8s)
 : [_L'incoronazione di Poppea_ (_The Coronation of Poppaea_), SV 308: Act III, "A Dio, Roma!"](
 https://www.youtube.com/watch?v=ODZ1laysiFI)
 <br />
-[**Bernini**, _Ecstasy of Saint Teresa_ | _Bust of Costanza Bonarelli_]
+[**Bernini**, _Ecstasy of Saint Teresa_; _Bust of Costanza Bonarelli_]
 <br /><br />
 
 
@@ -71,9 +71,9 @@ https://www.youtube.com/watch?v=OJQ04_y6e6c)
 : [Nisi Dominus, RV 608: "Cum dederit" (Andante)](
 https://www.youtube.com/watch?v=Bxp74hB-4Zw)
 <br />
-[**Jacques-Louis David**, _Le Serment des Horaces_ (_Oath of the Horatii_) |
-_Le Serment du Jeu de paume_ (_The Tennis Court Oath_) | 
-_Les licteurs rapportent à Brutus les corps de ses fils_ (_The Lictors Bring to Brutus the Bodies of His Sons_) |
+[**Jacques-Louis David**, _Le Serment des Horaces_ (_Oath of the Horatii_);
+_Le Serment du Jeu de paume_ (_The Tennis Court Oath_); 
+_Les licteurs rapportent à Brutus les corps de ses fils_ (_The Lictors Bring to Brutus the Bodies of His Sons_);
 _La Mort de Marat_ (_The Death of Marat_)
 ]
 <br /><br />
@@ -99,7 +99,7 @@ https://www.youtube.com/watch?v=Dzg91IyhIt8)
 : [Stabat Mater, RV 621: "Eja mater, fons amoris"](
 https://www.youtube.com/watch?v=j5lkTEKQiXM)
 <br />
-[**Francesco Borromini**, San Carlo alle Quattro Fontane | **Bernini**, Sant'Andrea al Quirinale]
+[**Francesco Borromini**, San Carlo alle Quattro Fontane; **Bernini**, Sant'Andrea al Quirinale]
 <br /><br />
 
 
@@ -130,7 +130,7 @@ https://www.youtube.com/watch?v=66OJIcGSkKs)
 : [_L'Olimpiade_, RV 725: Sinfonia](
 https://www.youtube.com/watch?v=2QYuh9D1JEo)
 <br />
-[**Bernini**, _Bust of Pope Gregory XV_ | _Statue of Pope Urban VIII_]
+[**Bernini**, _Bust of Pope Gregory XV_; _Statue of Pope Urban VIII_]
 <br /><br />
 
 
@@ -138,7 +138,7 @@ https://www.youtube.com/watch?v=2QYuh9D1JEo)
 : [_L'Olimpiade_, RV 725: Act II, "Gemo in un punto e fremo"](
 https://www.youtube.com/watch?v=VHUiG1TpBGU)
 <br />
-[**Bernini**, _Bacchanal: A Faun Teased by Children_ | _The Goat Amalthea with the Infant Jupiter and a Faun_]
+[**Bernini**, _Bacchanal: A Faun Teased by Children_; _The Goat Amalthea with the Infant Jupiter and a Faun_]
 <br /><br />
 
 
@@ -146,7 +146,7 @@ https://www.youtube.com/watch?v=VHUiG1TpBGU)
 : [_Rodelinda, regina de' Longobardi_, HWV 19: Act I, "Ombre, piante, urne funeste!"](
 https://www.youtube.com/watch?v=RmeFTM80NDk)
 <br />
-[Château de Versailles | **David**, _Portrait d'Antoine-Laurent Lavoisier et de sa femme_]
+[Château de Versailles; **David**, _Portrait d'Antoine-Laurent Lavoisier et de sa femme_]
 <br /><br />
 
 
@@ -162,7 +162,7 @@ https://www.youtube.com/watch?v=20Wy7kK_wGc)
 : [Missa pro defuncto Archiepiscopo Sigismondo (Requiem in C minor), MH 155](
 https://www.youtube.com/watch?v=EUKFK2ezoCQ&t=21s)
 <br />
-[**Élisabeth Vigée Le Brun**, _Portrait de Marie-Antoinette à la rose_ | **David**, _Marie-Antoinette conduite à l'échafaud_ (_Marie Antoinette Led to Her Execution_) | _Autoportrait_]
+[**Élisabeth Vigée Le Brun**, _Portrait de Marie-Antoinette à la rose_; **David**, _Marie-Antoinette conduite à l'échafaud_ (_Marie Antoinette Led to Her Execution_); _Autoportrait_]
 <br /><br />
 
 
@@ -210,7 +210,7 @@ https://www.youtube.com/watch?v=FcA5_k2mq7c)
 : [_Die Zauberflöte_ (_The Magic Flute_), K. 620: Act I, "O zittre nicht, mein lieber Sohn"](
 https://www.youtube.com/watch?v=fX5zsrC6hYk)
 <br />
-[**Auguste Couder**, _Ouverture des États généraux à Versailles, 5 mai 1789_ | end titles of DAVID]
+[**Auguste Couder**, _Ouverture des États généraux à Versailles, 5 mai 1789_; end titles of DAVID]
 <br /><br />
 
 25&nbsp; **Ludwig van Beethoven**
